@@ -1,0 +1,96 @@
+occ_code,indonesia_usage_pct,n_tasks_seen,title,observed_exposure
+15-1199,8.330560177481974,15,,
+25-9031,6.283971159179146,5,Instructional Coordinators,0.3043
+15-1132,5.19134775374376,4,,
+15-1142,4.523917212845879,2,,
+15-1131,4.364947310038824,6,,
+27-3042,4.203875839370772,3,Technical Writers,0.4747
+25-1042,4.120909595119246,1,"Biological Science Teachers, Postsecondary",0.2914
+25-3099,3.9267886855241265,3,,
+15-1134,3.505268996117582,3,,
+15-1133,3.483083749306711,1,,
+25-2022,2.334997226844149,1,"Middle School Teachers, Except Special and Career/Technical Education",0.2972
+15-1121,1.3477537437603992,4,,
+43-9111,1.2811980033277868,3,Statistical Assistants,0.5099
+27-3043,1.1092623405435384,4,Writers and Authors,0.2462
+25-3011,1.0260676650027731,3,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.0636
+19-4061,1.0094287298946198,4,Social Science Research Assistants,0.4393
+25-1011,0.9262340543538544,6,"Business Teachers, Postsecondary",0.3072
+51-4012,0.8541320022185245,3,,
+25-1124,0.6988352745424293,1,"Foreign Language and Literature Teachers, Postsecondary",0.2403
+27-3041,0.6932889628397115,2,Editors,0.246
+25-1194,0.682196339434276,3,"Career/Technical Education Teachers, Postsecondary",0.1563
+21-1012,0.6655574043261231,2,"Educational, Guidance, and Career Counselors and Advisors",0.1182
+19-1029,0.6322795341098169,2,"Biological Scientists, All Other",0.2452
+21-2011,0.5879090404880754,3,Clergy,0.1116
+27-2011,0.5546311702717693,1,Actors,0.1011
+19-3031,0.5490848585690515,3,,
+19-3093,0.543538546866334,1,Historians,0.028
+27-1014,0.4991680532445923,2,Special Effects Artists and Animators,0.3571
+15-1141,0.4825291181364393,2,,
+43-9061,0.4825291181364393,1,"Office Clerks, General",0.4504
+43-6014,0.4603438713255684,3,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.4528
+25-1126,0.4048807542983915,1,"Philosophy and Religion Teachers, Postsecondary",0.2197
+25-1191,0.3993344425956739,1,,
+25-3021,0.3882418191902385,1,Self-Enrichment Teachers,0.0662
+25-2032,0.3882418191902385,1,"Career/Technical Education Teachers, Secondary School",0.0
+19-2031,0.3660565723793677,1,Chemists,0.2614
+43-9011,0.3549639489739323,2,,
+25-4011,0.3383250138657793,1,Archivists,0.1348
+21-1014,0.3327787021630615,1,,
+43-9022,0.3216860787576261,1,Word Processors and Typists,0.2385
+11-9111,0.3161397670549085,1,Medical and Health Services Managers,0.0659
+41-2011,0.3105934553521908,1,Cashiers,0.0846
+25-9041,0.3050471436494731,1,,
+19-3094,0.2884082085413199,2,Political Scientists,0.452
+25-1123,0.2828618968386023,1,"English Language and Literature Teachers, Postsecondary",0.3618
+27-3091,0.2773155851358846,1,Interpreters and Translators,0.4304
+25-1193,0.2662229617304492,1,"Recreation and Fitness Studies Teachers, Postsecondary",0.1138
+25-1113,0.2495840266222961,1,"Social Work Teachers, Postsecondary",0.0
+19-3091,0.232945091514143,1,Anthropologists and Archeologists,0.1354
+45-2092,0.2218524681087077,1,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0203
+25-4021,0.21630615640599,1,,
+29-1031,0.21630615640598988,2,Dietitians and Nutritionists,0.1328
+13-2052,0.21630615640598988,2,Personal Financial Advisors,0.3504
+21-1011,0.1996672212978369,1,,
+15-1111,0.1885745978924015,1,,
+25-1066,0.1830282861896838,1,"Psychology Teachers, Postsecondary",0.3219
+19-4011,0.1774819744869661,1,,
+25-1021,0.1774819744869661,1,"Computer Science Teachers, Postsecondary",0.2414
+27-1013,0.1774819744869661,1,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.3565
+11-1011,0.1663893510815307,1,Chief Executives,0.0333
+25-1062,0.1663893510815306,2,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",0.0
+25-1125,0.160843039378813,1,"History Teachers, Postsecondary",0.0994
+41-4011,0.160843039378813,1,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.2706
+51-7032,0.1552967276760954,1,"Patternmakers, Wood",0.0301
+17-3029,0.1552967276760954,1,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0
+51-9061,0.14420410427066,1,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.0324
+15-2021,0.14420410427066,1,Mathematicians,0.4241
+15-1151,0.14420410427066,1,,
+19-4021,0.1386577925679423,1,Biological Technicians,0.0599
+43-4021,0.1331114808652246,1,Correspondence Clerks,0.2786
+25-1052,0.1275651691625069,1,"Chemistry Teachers, Postsecondary",0.2185
+17-3022,0.1220188574597892,1,Civil Engineering Technologists and Technicians,0.0776
+19-1021,0.1220188574597892,1,Biochemists and Biophysicists,0.0756
+27-1012,0.1164725457570715,1,Craft Artists,0.0539
+49-2011,0.1164725457570715,1,"Computer, Automated Teller, and Office Machine Repairers",0.1067
+43-3031,0.1164725457570715,1,"Bookkeeping, Accounting, and Auditing Clerks",0.3104
+43-4121,0.1053799223516361,1,"Library Assistants, Clerical",0.0978
+25-2021,0.1053799223516361,1,"Elementary School Teachers, Except Special Education",0.103
+15-2011,0.0998336106489184,1,Actuaries,0.0539
+35-9031,0.0998336106489184,1,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.0734
+19-1020,0.0998336106489184,1,,
+27-3021,0.0998336106489184,1,,
+39-9011,0.0942872989462007,1,Childcare Workers,0.0122
+19-2042,0.0942872989462007,1,"Geoscientists, Except Hydrologists and Geographers",0.043
+13-2071,0.0942872989462007,1,Credit Counselors,0.2341
+51-6052,0.0942872989462007,1,"Tailors, Dressmakers, and Custom Sewers",0.0342
+19-1023,0.088740987243483,1,Zoologists and Wildlife Biologists,0.0606
+19-3022,0.088740987243483,1,Survey Researchers,0.4316
+27-1024,0.088740987243483,1,Graphic Designers,0.3672
+11-9032,0.088740987243483,1,"Education Administrators, Kindergarten through Secondary",0.0525
+25-4031,0.088740987243483,1,Library Technicians,0.054
+25-2051,0.088740987243483,1,"Special Education Teachers, Preschool",0.0058
+29-1051,0.0831946755407653,1,Pharmacists,0.0896
+25-1061,0.0831946755407653,1,"Anthropology and Archeology Teachers, Postsecondary",0.0236
+11-9039,0.0831946755407653,1,,

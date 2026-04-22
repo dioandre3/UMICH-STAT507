@@ -1,0 +1,42 @@
+
+DOES INDONESIA'S AI ADOPTION TRACK US-MEASURED EXPOSURE?
+=========================================================
+
+HEADLINE
+  Spearman rho = -0.0013
+  p-value      = 0.9879
+  Sample size  = 142 occupations
+  Decision:    FAIL TO REJECT H0 at alpha = 0.05
+  Finding:     No statistical relationship
+
+DISTRIBUTIONAL JUSTIFICATION FOR SPEARMAN
+  US exposure Shapiro-Wilk p:    1.53e-07  (reject normality)
+  Indonesia RCA Shapiro-Wilk p:  6.12e-16  (reject normality)
+  Either univariate failure is sufficient to reject bivariate normality;
+  Spearman is appropriate (Hollander, Wolfe & Chicken 2014, Ch. 8).
+
+QUADRANT DECOMPOSITION (explains the null)
+  HH (high exp + high RCA):   13 (9.2%) — observable adjustment
+  HL (high exp + low RCA):    58 (40.8%) — latent adoption gap
+  LH (low exp + high RCA):    13 (9.2%) — distinctive Indonesian
+  LL (low exp + low RCA):     58 (40.8%) — outside AI footprint
+
+INTERPRETATION
+  The near-zero Spearman coefficient is not an absence of pattern. It is
+  the geometric result of two offsetting specializations: Indonesia over-
+  adopts in occupations the US exposure metric marks low (LH quadrant)
+  and under-adopts in occupations the US exposure metric marks high
+  (HL quadrant). These cancel at the rank-correlation level while each
+  is substantively informative on its own.
+
+POLICY IMPLICATION
+  US exposure estimates do not transfer to Indonesia. Policy frameworks
+  derived from US labor market analysis - including retraining priorities
+  based on displacement risk rankings - will systematically misallocate
+  if applied directly to Indonesia. Acemoglu (2024) explicitly flagged
+  this possibility; our result provides empirical support.
+
+FILES
+  outputs/distributional_diagnostic.csv
+  outputs/quadrant_analysis.csv
+  outputs/scatter_rca_vs_exposure.png

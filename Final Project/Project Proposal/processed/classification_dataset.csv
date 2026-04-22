@@ -1,0 +1,673 @@
+occ_code,title,JobFamily,major_group_title,observed_exposure,salary_pct,forecast_risk,auto_prob,job_zone_norm,urgency_score,retraining_label
+11-1011,Chief Executives,Management,Management Occupations,0.0333,0.9970238095238095,0.25,-0.01,1.0,0.07382,Low
+11-1021,General and Operations Managers,Management,Management Occupations,0.1378,0.9315476190476191,0.014880952380952328,0.16,0.8,0.12084023809523808,Low
+11-1031,Legislators,Management,Management Occupations,0.0,0.05654761904761905,0.5647321428571428,-0.01,0.8,0.1691830357142857,Low
+11-2011,Advertising and Promotions Managers,Management,Management Occupations,0.1731,0.9657738095238095,0.6614583333333333,0.04,0.8,0.2726045833333333,Low
+11-2021,Marketing Managers,Management,Management Occupations,0.3195,0.9851190476190477,0.18452380952380953,0.013999999999999999,0.8,0.20673095238095238,Low
+11-2022,Sales Managers,Management,Management Occupations,0.0433,0.9761904761904762,0.13913690476190477,0.013000000000000001,0.8,0.08470422619047618,Low
+11-3021,Computer and Information Systems Managers,Management,Management Occupations,0.1559,0.9910714285714286,0.1428571428571429,0.04,0.8,0.13607428571428573,Low
+11-3031,Financial Managers,Management,Management Occupations,0.3907,0.9806547619047619,0.08184523809523814,-0.01,1.0,0.17474130952380953,Low
+11-3051,Industrial Production Managers,Management,Management Occupations,0.0132,0.9419642857142857,0.3013392857142857,-0.01,0.8,0.10861482142857143,Low
+11-3061,Purchasing Managers,Management,Management Occupations,0.2004,0.96875,0.4709821428571429,0.03,0.8,0.23390553571428574,Low
+11-3071,"Transportation, Storage, and Distribution Managers",Management,Management Occupations,0.0956,0.9166666666666666,0.33854166666666663,-0.01,0.8,0.15087541666666665,Low
+11-3111,Compensation and Benefits Managers,Management,Management Occupations,0.0,0.9732142857142857,0.8147321428571428,0.96,0.8,0.4256830357142857,Medium
+11-3121,Human Resources Managers,Management,Management Occupations,0.0,0.9613095238095238,0.28422619047619047,0.006,0.8,0.10225654761904762,Low
+11-3131,Training and Development Managers,Management,Management Occupations,0.3777,0.9583333333333334,0.5900297619047619,0.006,0.8,0.3297874404761904,Low
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",Management,Management Occupations,0.0,0.7529761904761905,0.05059523809523814,-0.01,0.8,0.040648809523809525,Low
+11-9021,Construction Managers,Management,Management Occupations,0.1186,0.9092261904761905,0.13541666666666663,0.07,0.8,0.12529416666666665,Low
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",Management,Management Occupations,0.0395,0.49851190476190477,0.48809523809523814,0.015,0.8,0.17082380952380954,Low
+11-9032,"Education Administrators, Kindergarten through Secondary",Management,Management Occupations,0.0525,0.9181547619047619,0.203125,0.005,1.0,0.07278125,Low
+11-9033,"Education Administrators, Postsecondary",Management,Management Occupations,0.0644,0.9136904761904762,0.25,0.01,1.0,0.09026,Low
+11-9041,Architectural and Engineering Managers,Management,Management Occupations,0.0306,0.9895833333333334,0.28273809523809523,-0.01,0.8,0.1109245238095238,Low
+11-9051,Food Service Managers,Management,Management Occupations,0.0,0.5877976190476191,0.1160714285714286,0.08,0.4,0.13501785714285713,Low
+11-9071,Gambling Managers,Management,Management Occupations,0.0,0.8184523809523809,0.9159226190476191,0.09,0.6,0.3069806547619047,Low
+11-9081,Lodging Managers,Management,Management Occupations,0.1215,0.5729166666666666,0.5007440476190477,0.004,0.8,0.20458601190476192,Low
+11-9111,Medical and Health Services Managers,Management,Management Occupations,0.0659,0.9255952380952381,0.12648809523809523,0.006999999999999999,1.0,0.05938202380952381,Low
+11-9121,Natural Sciences Managers,Management,Management Occupations,0.0613,0.9747023809523809,0.47916666666666663,-0.01,0.8,0.17231166666666667,Low
+11-9131,Postmasters and Mail Superintendents,Management,Management Occupations,0.0,0.8214285714285714,0.9389880952380952,0.75,0.4,0.4747470238095238,Medium
+11-9141,"Property, Real Estate, and Community Association Managers",Management,Management Occupations,0.1653,0.6502976190476191,0.1607142857142857,0.81,0.8,0.2982985714285714,Low
+11-9151,Social and Community Service Managers,Management,Management Occupations,0.1808,0.7395833333333334,0.23958333333333337,0.006999999999999999,0.8,0.16361583333333335,Low
+11-9161,Emergency Management Directors,Management,Management Occupations,0.0,0.8125,0.8794642857142857,0.003,0.8,0.2504660714285714,Low
+11-9199,"Managers, All Other",Management,Management Occupations,0.0686,0.9523809523809523,0.05654761904761907,-0.01,0.8,0.06957690476190476,Low
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",Business and Financial Operations,Business and Financial Operations Occupations,0.118,0.7425595238095238,0.671875,0.24,0.8,0.29316875,Low
+13-1031,"Claims Adjusters, Examiners, and Investigators",Business and Financial Operations,Business and Financial Operations Occupations,0.0818,0.7410714285714286,0.1875,-0.01,0.8,0.107595,Low
+13-1032,"Insurance Appraisers, Auto Damage",Business and Financial Operations,Business and Financial Operations Occupations,0.0,0.7038690476190477,0.7864583333333334,0.98,0.6,0.4526145833333333,Medium
+13-1041,Compliance Officers,Business and Financial Operations,Business and Financial Operations Occupations,0.1211,0.7589285714285714,0.16443452380952384,-0.01,0.8,0.11754863095238097,Low
+13-1051,Cost Estimators,Business and Financial Operations,Business and Financial Operations Occupations,0.0,0.7232142857142857,0.1941964285714286,0.57,0.8,0.19254910714285714,Low
+13-1071,Human Resources Specialists,Business and Financial Operations,Business and Financial Operations Occupations,0.4034,0.6830357142857143,0.07440476190476186,-0.01,0.8,0.20796119047619047,Low
+13-1074,Farm Labor Contractors,Business and Financial Operations,Business and Financial Operations Occupations,0.0,0.46279761904761907,0.9836309523809523,0.97,0.4,0.5299077380952381,Medium
+13-1075,Labor Relations Specialists,Business and Financial Operations,Business and Financial Operations Occupations,0.0,0.7514880952380952,0.45238095238095233,-0.01,0.8,0.14109523809523808,Low
+13-1081,Logisticians,Business and Financial Operations,Business and Financial Operations Occupations,0.1571,0.8169642857142857,0.23809523809523814,0.012,0.8,0.15476380952380953,Low
+13-1111,Management Analysts,Business and Financial Operations,Business and Financial Operations Occupations,0.2435,0.8675595238095238,0.04761904761904767,0.13,1.0,0.13530476190476193,Low
+13-1121,"Meeting, Convention, and Event Planners",Business and Financial Operations,Business and Financial Operations Occupations,0.1023,0.5178571428571429,0.25,0.04,0.8,0.14142000000000002,Low
+13-1131,Fundraisers,Business and Financial Operations,Business and Financial Operations Occupations,0.0466,0.6324404761904762,0.34226190476190477,-0.01,0.8,0.13220547619047618,Low
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",Business and Financial Operations,Business and Financial Operations Occupations,0.0649,0.7127976190476191,0.3861607142857143,0.47,0.8,0.24650017857142856,Low
+13-1151,Training and Development Specialists,Business and Financial Operations,Business and Financial Operations Occupations,0.2793,0.6815476190476191,0.14806547619047616,0.013999999999999999,0.8,0.18153636904761905,Low
+13-1161,Market Research Analysts and Marketing Specialists,Business and Financial Operations,Business and Financial Operations Occupations,0.6483,0.7157738095238095,0.0580357142857143,0.61,0.8,0.42582892857142857,Medium
+13-1199,"Business Operations Specialists, All Other",Business and Financial Operations,Business and Financial Operations Occupations,0.1846,0.7738095238095238,0.04166666666666663,-0.01,0.8,0.11225666666666664,Low
+13-2011,Accountants and Auditors,Business and Financial Operations,Business and Financial Operations Occupations,0.3478,0.7723214285714286,0.03720238095238093,0.94,0.6,0.3964205952380952,Medium
+13-2031,Budget Analysts,Business and Financial Operations,Business and Financial Operations Occupations,0.0672,0.8229166666666666,0.5327380952380952,0.94,0.8,0.37806452380952377,Medium
+13-2041,Credit Analysts,Business and Financial Operations,Business and Financial Operations Occupations,0.1685,0.7857142857142857,0.44047619047619047,0.98,0.8,0.4035190476190476,Medium
+13-2051,Financial and Investment Analysts,Business and Financial Operations,Business and Financial Operations Occupations,0.5716,0.8764880952380952,0.16220238095238093,0.23,0.8,0.3451905952380952,Medium
+13-2052,Personal Financial Advisors,Business and Financial Operations,Business and Financial Operations Occupations,0.3504,0.8928571428571429,0.19940476190476186,0.58,0.8,0.33601119047619044,Medium
+13-2053,Insurance Underwriters,Business and Financial Operations,Business and Financial Operations Occupations,0.0625,0.7648809523809523,0.4017857142857143,0.99,0.8,0.35344642857142855,Medium
+13-2061,Financial Examiners,Business and Financial Operations,Business and Financial Operations Occupations,0.0428,0.8467261904761905,0.5200892857142857,0.17,0.8,0.21114232142857142,Low
+13-2071,Credit Counselors,Business and Financial Operations,Business and Financial Operations Occupations,0.2341,0.4523809523809524,0.5900297619047619,0.04,0.8,0.27914744047619044,Low
+13-2072,Loan Officers,Business and Financial Operations,Business and Financial Operations Occupations,0.1857,0.7142857142857143,0.17113095238095233,0.98,0.6,0.3730627380952381,Medium
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",Business and Financial Operations,Business and Financial Operations Occupations,0.0275,0.5922619047619048,0.5461309523809523,0.93,0.6,0.3935327380952381,Medium
+13-2082,Tax Preparers,Business and Financial Operations,Business and Financial Operations Occupations,0.1283,0.3482142857142857,0.35565476190476186,0.99,0.6,0.39823369047619045,Medium
+13-2099,"Financial Specialists, All Other",Business and Financial Operations,Business and Financial Operations Occupations,0.2202,0.7693452380952381,0.30431547619047616,-0.01,0.8,0.19215886904761906,Low
+15-2011,Actuaries,Computer and Mathematical,Computer and Mathematical Occupations,0.0539,0.9404761904761905,0.7135416666666667,0.21,0.8,0.27194541666666666,Low
+15-2021,Mathematicians,Computer and Mathematical,Computer and Mathematical Occupations,0.4241,0.9375,0.9672619047619048,0.05,1.0,0.4214554761904762,Medium
+15-2031,Operations Research Analysts,Computer and Mathematical,Computer and Mathematical Occupations,0.4288,0.8660714285714286,0.3504464285714286,0.04,1.0,0.26713160714285716,Low
+15-2041,Statisticians,Computer and Mathematical,Computer and Mathematical Occupations,0.2107,0.8883928571428571,0.5126488095238095,0.22,1.0,0.2564422023809524,Low
+15-2099,"Mathematical Science Occupations, All Other",Computer and Mathematical,Computer and Mathematical Occupations,0.4793,0.6354166666666666,0.9836309523809523,-0.01,0.6,0.4956277380952381,Medium
+17-1011,"Architects, Except Landscape and Naval",Architecture and Engineering,Architecture and Engineering Occupations,0.0784,0.8363095238095238,0.32514880952380953,0.018000000000000002,0.8,0.14624720238095237,Low
+17-1012,Landscape Architects,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.7559523809523809,0.7477678571428572,0.05,0.8,0.2269419642857143,Low
+17-1021,Cartographers and Photogrammetrists,Architecture and Engineering,Architecture and Engineering Occupations,0.08,0.7306547619047619,0.8504464285714286,0.88,0.8,0.45061160714285714,Medium
+17-1022,Surveyors,Architecture and Engineering,Architecture and Engineering Occupations,0.0022,0.7053571428571429,0.5818452380952381,0.38,0.8,0.2523413095238095,Low
+17-2011,Aerospace Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0753,0.9642857142857143,0.5520833333333333,0.017,0.8,0.2015408333333333,Low
+17-2021,Agricultural Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.8303571428571429,0.9836309523809523,0.49,0.8,0.3739077380952381,Medium
+17-2031,Bioengineers and Biomedical Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.1328,0.8913690476190477,0.8013392857142857,0.04,0.8,0.29145482142857143,Low
+17-2041,Chemical Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.9464285714285714,0.6934523809523809,0.017,0.8,0.20676309523809525,Low
+17-2051,Civil Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0081,0.8794642857142857,0.17708333333333337,0.019,0.8,0.08131083333333333,Low
+17-2061,Computer Hardware Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.1453,0.9627976190476191,0.5200892857142857,0.22,0.8,0.2621423214285714,Low
+17-2071,Electrical Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.059,0.9196428571428571,0.29836309523809523,0.1,0.8,0.1481907738095238,Low
+17-2072,"Electronics Engineers, Except Computer",Architecture and Engineering,Architecture and Engineering Occupations,0.0999,0.9389880952380952,0.39360119047619047,-0.01,0.8,0.1663602976190476,Low
+17-2081,Environmental Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0358,0.8869047619047619,0.5461309523809523,-0.01,0.8,0.17885273809523808,Low
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.8958333333333334,0.7380952380952381,-0.01,0.8,0.21252380952380953,Low
+17-2112,Industrial Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0367,0.8839285714285714,0.2053571428571429,-0.01,1.0,0.06401928571428572,Low
+17-2121,Marine Engineers and Naval Architects,Architecture and Engineering,Architecture and Engineering Occupations,0.0358,0.9047619047619048,0.8958333333333334,-0.01,0.8,0.26627833333333334,Low
+17-2131,Materials Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.9032738095238095,0.7730654761904762,0.02,0.8,0.22726636904761904,Low
+17-2141,Mechanical Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0813,0.8854166666666666,0.203125,-0.01,1.0,0.08130124999999999,Low
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.9017857142857143,0.9389880952380952,0.14,0.8,0.2927470238095238,Low
+17-2161,Nuclear Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.9538690476190477,0.8504464285714286,0.07,0.8,0.25661160714285713,Low
+17-2171,Petroleum Engineers,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.9866071428571429,0.6815476190476191,0.16,0.8,0.23238690476190477,Low
+17-2199,"Engineers, All Other",Architecture and Engineering,Architecture and Engineering Occupations,0.0659,0.9211309523809523,0.3303571428571429,-0.01,0.8,0.13694928571428572,Low
+17-3011,Architectural and Civil Drafters,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.5997023809523809,0.3526785714285714,0.52,0.6,0.25216964285714283,Low
+17-3012,Electrical and Electronics Drafters,Architecture and Engineering,Architecture and Engineering Occupations,0.0889,0.6681547619047619,0.6495535714285714,-0.01,0.6,0.2559483928571429,Low
+17-3013,Mechanical Drafters,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.6145833333333334,0.5052083333333333,0.68,0.6,0.3223020833333333,Low
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.7485119047619048,0.8504464285714286,0.48,0.6,0.3686116071428572,Medium
+17-3022,Civil Engineering Technologists and Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.0776,0.5580357142857143,0.42782738095238093,0.75,0.6,0.34799684523809526,Medium
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.0202,0.7291666666666666,0.31101190476190477,-0.01,0.6,0.1438329761904762,Low
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.6398809523809523,0.8147321428571428,0.81,0.6,0.42568303571428573,Medium
+17-3025,Environmental Engineering Technologists and Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.1029,0.5372023809523809,0.7380952380952381,0.25,0.8,0.3056838095238095,Low
+17-3026,Industrial Engineering Technologists and Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.6086309523809523,0.46502976190476186,0.03,0.6,0.18225744047619047,Low
+17-3027,Mechanical Engineering Technologists and Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.0683,0.625,0.5647321428571428,0.38,0.6,0.3045030357142857,Low
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.7172619047619048,0.39657738095238093,-0.01,0.6,0.15714434523809523,Low
+17-3031,Surveying and Mapping Technicians,Architecture and Engineering,Architecture and Engineering Occupations,0.0,0.44494047619047616,0.4486607142857143,-0.01,0.6,0.17016517857142857,Low
+19-1011,Animal Scientists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.6517857142857143,0.9672619047619048,0.06,1.0,0.2538154761904762,Low
+19-1012,Food Scientists and Technologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.7380952380952381,0.7604166666666666,0.08,0.8,0.23610416666666664,Low
+19-1013,Soil and Plant Scientists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0513,0.7217261904761905,0.7135416666666667,0.02,1.0,0.2029054166666667,Low
+19-1021,Biochemists and Biophysicists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0756,0.9077380952380952,0.6346726190476191,0.03,1.0,0.19490815476190476,Low
+19-1022,Microbiologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0969,0.7886904761904762,0.7269345238095238,0.012,1.0,0.22289363095238096,Low
+19-1023,Zoologists and Wildlife Biologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0606,0.7202380952380952,0.7477678571428572,0.3,1.0,0.2711819642857143,Low
+19-1029,"Biological Scientists, All Other","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.2452,0.8392857142857143,0.5394345238095238,-0.01,1.0,0.23093863095238096,Low
+19-1031,Conservation Scientists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.6875,0.671875,-0.01,0.8,0.19596875,Low
+19-1032,Foresters,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.6904761904761905,0.8668154761904762,0.008,0.8,0.24830386904761903,Low
+19-1041,Epidemiologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.7663690476190477,0.9159226190476191,0.2,1.0,0.2689806547619048,Low
+19-1042,"Medical Scientists, Except Epidemiologists","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0381,0.875,0.3080357142857143,0.005,1.0,0.09324892857142858,Low
+19-2011,Astronomers,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.3849,0.9479166666666666,0.9836309523809523,0.04,1.0,0.40786773809523813,Medium
+19-2012,Physicists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.2727,0.9717261904761905,0.7604166666666666,0.1,1.0,0.3191841666666667,Low
+19-2021,Atmospheric and Space Scientists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.038,0.9122023809523809,0.8504464285714286,0.67,0.8,0.3918116071428571,Medium
+19-2031,Chemists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.2614,0.8288690476190477,0.4017857142857143,0.1,0.8,0.2550064285714286,Low
+19-2032,Materials Scientists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.1843,0.9270833333333334,0.8958333333333334,0.02,1.0,0.3016783333333333,Low
+19-2041,"Environmental Scientists and Specialists, Including Health","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0548,0.7805059523809523,0.36309523809523814,-0.01,1.0,0.11069380952380953,Low
+19-2042,"Geoscientists, Except Hydrologists and Geographers","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.043,0.9002976190476191,0.6063988095238095,0.63,0.8,0.32479970238095235,Low
+19-2043,Hydrologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0748,0.8348214285714286,0.8958333333333334,0.013999999999999999,1.0,0.25667833333333334,Low
+19-2099,"Physical Scientists, All Other","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0379,0.9508928571428571,0.7477678571428572,-0.01,1.0,0.2001019642857143,Low
+19-3011,Economists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.2418,0.9449404761904762,0.7604166666666666,-0.01,1.0,0.28482416666666666,Low
+19-3022,Survey Researchers,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.4316,0.6369047619047619,0.8013392857142857,0.23,1.0,0.4189748214285714,Medium
+19-3032,Industrial-Organizational Psychologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.1577,0.9226190476190477,0.9962797619047619,0.012,1.0,0.3145499404761905,Low
+19-3039,"Psychologists, All Other","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.9300595238095238,0.7864583333333334,-0.01,1.0,0.19461458333333334,Low
+19-3041,Sociologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.3833,0.8571428571428571,0.9553571428571429,0.06,1.0,0.4041592857142857,Medium
+19-3051,Urban and Regional Planners,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0959,0.8020833333333334,0.5714285714285714,0.13,1.0,0.20721714285714285,Low
+19-3091,Anthropologists and Archeologists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.1354,0.7008928571428571,0.8958333333333334,-0.01,1.0,0.27611833333333335,Low
+19-3092,Geographers,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.1096,0.8497023809523809,0.9836309523809523,0.25,1.0,0.33974773809523806,Medium
+19-3093,Historians,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.028,0.6860119047619048,0.9553571428571429,0.44,1.0,0.33803928571428576,Medium
+19-3094,Political Scientists,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.452,0.9672619047619048,0.8958333333333334,0.04,1.0,0.41275833333333334,Medium
+19-3099,"Social Scientists and Related Workers, All Other","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0327,0.8541666666666666,0.5327380952380952,-0.01,0.8,0.1742645238095238,Low
+19-4021,Biological Technicians,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0599,0.4479166666666667,0.37648809523809523,0.3,0.8,0.20808202380952381,Low
+19-4031,Chemical Technicians,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.3148,0.5,0.4486607142857143,0.57,0.6,0.41208517857142857,Medium
+19-4051,Nuclear Technicians,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.8333333333333334,0.8794642857142857,0.85,0.6,0.44986607142857143,Medium
+19-4061,Social Science Research Assistants,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.4393,0.4732142857142857,0.5126488095238095,0.65,0.8,0.4638822023809524,Medium
+19-4092,Forensic Science Technicians,"Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0,0.6465773809523809,0.6934523809523809,0.01,0.8,0.20536309523809523,Low
+19-4099,"Life, Physical, and Social Science Technicians, All Other","Life, Physical, and Social Science","Life, Physical, and Social Science Occupations",0.0955,0.5238095238095238,0.3816964285714286,-0.01,0.6,0.19162410714285716,Low
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",Community and Social Service,Community and Social Service Occupations,0.1182,0.6264880952380952,0.14806547619047616,0.009000000000000001,1.0,0.08609636904761904,Low
+21-1013,Marriage and Family Therapists,Community and Social Service,Community and Social Service Occupations,0.0,0.5290178571428571,0.43601190476190477,0.013999999999999999,1.0,0.11180297619047619,Low
+21-1015,Rehabilitation Counselors,Community and Social Service,Community and Social Service Occupations,0.0,0.25744047619047616,0.2946428571428571,0.009000000000000001,1.0,0.07546071428571427,Low
+21-1021,"Child, Family, and School Social Workers",Community and Social Service,Community and Social Service Occupations,0.0074,0.46577380952380953,0.1517857142857143,0.03,0.8,0.07690642857142857,Low
+21-1022,Healthcare Social Workers,Community and Social Service,Community and Social Service Occupations,0.0916,0.6220238095238095,0.20907738095238093,0.004,1.0,0.08970934523809523,Low
+21-1023,Mental Health and Substance Abuse Social Workers,Community and Social Service,Community and Social Service Occupations,0.0,0.4494047619047619,0.26934523809523814,0.003,1.0,0.06793630952380954,Low
+21-1091,Health Education Specialists,Community and Social Service,Community and Social Service Occupations,0.1376,0.5863095238095238,0.4174107142857143,0.05,0.8,0.1993926785714286,Low
+21-1092,Probation Officers and Correctional Treatment Specialists,Community and Social Service,Community and Social Service Occupations,0.0,0.5654761904761905,0.40997023809523814,0.25,0.8,0.18249255952380952,Low
+21-1093,Social and Human Service Assistants,Community and Social Service,Community and Social Service Occupations,0.0,0.21205357142857142,0.09523809523809523,0.13,0.8,0.0798095238095238,Low
+21-1094,Community Health Workers,Community and Social Service,Community and Social Service Occupations,0.0,0.35267857142857145,0.40997023809523814,-0.01,0.8,0.13049255952380953,Low
+21-2011,Clergy,Community and Social Service,Community and Social Service Occupations,0.1116,0.5119047619047619,0.18154761904761907,0.008,1.0,0.09162690476190478,Low
+21-2021,"Directors, Religious Activities and Education",Community and Social Service,Community and Social Service Occupations,0.153,0.39211309523809523,0.2142857142857143,0.03,0.8,0.15077142857142858,Low
+23-1011,Lawyers,Legal,Legal Occupations,0.1673,0.9702380952380952,0.1205357142857143,0.04,1.0,0.10505392857142859,Low
+23-1012,Judicial Law Clerks,Legal,Legal Occupations,0.1704,0.5758928571428571,0.8958333333333334,0.41,1.0,0.3741183333333334,Medium
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",Legal,Legal Occupations,0.3048,0.9285714285714286,0.8958333333333334,0.64,1.0,0.47387833333333335,Medium
+23-1022,"Arbitrators, Mediators, and Conciliators",Legal,Legal Occupations,0.2426,0.6994047619047619,0.9553571428571429,0.06,1.0,0.3478792857142857,Medium
+23-1023,"Judges, Magistrate Judges, and Magistrates",Legal,Legal Occupations,0.3109,0.9836309523809523,0.8013392857142857,0.4,1.0,0.40469482142857144,Medium
+23-2011,Paralegals and Legal Assistants,Legal,Legal Occupations,0.2927,0.5416666666666666,0.1339285714285714,0.94,0.6,0.39856214285714286,Medium
+23-2093,"Title Examiners, Abstractors, and Searchers",Legal,Legal Occupations,0.0216,0.4791666666666667,0.5007440476190477,0.99,0.4,0.4218260119047619,Medium
+25-1011,"Business Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.3072,0.8705357142857143,0.34375,-0.01,1.0,0.2068175,Low
+25-1021,"Computer Science Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2414,0.8586309523809523,0.6063988095238095,-0.01,1.0,0.2461597023809524,Low
+25-1022,"Mathematical Science Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.4305,0.8035714285714286,0.5126488095238095,-0.01,1.0,0.2983622023809524,Low
+25-1031,"Architecture Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.8824404761904762,0.8958333333333334,-0.01,1.0,0.22195833333333334,Low
+25-1032,"Engineering Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.3589,0.9360119047619048,0.5394345238095238,-0.01,1.0,0.27641863095238095,Low
+25-1041,"Agricultural Sciences Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.8735119047619048,0.8348214285714286,-0.01,1.0,0.20670535714285715,Low
+25-1042,"Biological Science Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2914,0.8630952380952381,0.4709821428571429,-0.01,1.0,0.23230553571428572,Low
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0206,0.8809523809523809,0.9836309523809523,-0.01,1.0,0.2521477380952381,Low
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0396,0.8988095238095238,0.8348214285714286,-0.01,1.0,0.22254535714285714,Low
+25-1052,"Chemistry Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2185,0.8377976190476191,0.6934523809523809,-0.01,1.0,0.25876309523809526,Low
+25-1053,"Environmental Science Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0232,0.8452380952380952,0.9159226190476191,-0.01,1.0,0.23626065476190478,Low
+25-1054,"Physics Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.8973214285714286,0.7864583333333334,-0.01,1.0,0.19461458333333334,Low
+25-1061,"Anthropology and Archeology Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0236,0.8690476190476191,0.9159226190476191,-0.01,1.0,0.23642065476190477,Low
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.8139880952380952,0.8348214285714286,-0.01,1.0,0.20670535714285715,Low
+25-1063,"Economics Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.9345238095238095,0.8013392857142857,-0.01,1.0,0.19833482142857142,Low
+25-1064,"Geography Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.8511904761904762,0.9553571428571429,-0.01,1.0,0.23683928571428572,Low
+25-1065,"Political Science Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.8645833333333334,0.7477678571428572,-0.01,1.0,0.1849419642857143,Low
+25-1066,"Psychology Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.3219,0.8258928571428571,0.5327380952380952,-0.01,1.0,0.2599445238095238,Low
+25-1067,"Sociology Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.8110119047619048,0.7864583333333334,-0.01,1.0,0.19461458333333334,Low
+25-1071,"Health Specialties Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.3045,0.9241071428571429,0.17261904761904767,-0.01,1.0,0.16295476190476194,Low
+25-1072,"Nursing Instructors and Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.1909,0.8065476190476191,0.42782738095238093,-0.01,1.0,0.18131684523809521,Low
+25-1081,"Education Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2621,0.7336309523809523,0.44047619047619047,-0.01,1.0,0.2129590476190476,Low
+25-1082,"Library Science Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.018,0.7872023809523809,0.9389880952380952,-0.01,1.0,0.23994702380952382,Low
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.6919642857142857,0.7730654761904762,-0.01,1.0,0.19126636904761904,Low
+25-1112,"Law Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.9568452380952381,0.7135416666666667,-0.01,1.0,0.17638541666666668,Low
+25-1113,"Social Work Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.7574404761904762,0.8013392857142857,-0.01,1.0,0.19833482142857142,Low
+25-1121,"Art, Drama, and Music Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2142,0.7678571428571429,0.34672619047619047,-0.01,1.0,0.17036154761904762,Low
+25-1122,"Communications Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2111,0.7604166666666666,0.6279761904761905,-0.01,1.0,0.23943404761904763,Low
+25-1123,"English Language and Literature Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.3618,0.7462797619047619,0.44494047619047616,-0.01,1.0,0.253955119047619,Low
+25-1124,"Foreign Language and Literature Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2403,0.75,0.6391369047619048,-0.01,1.0,0.2539042261904762,Low
+25-1125,"History Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0994,0.8154761904761905,0.6934523809523809,-0.01,1.0,0.21112309523809525,Low
+25-1126,"Philosophy and Religion Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.2197,0.7961309523809523,0.6346726190476191,-0.01,1.0,0.24454815476190478,Low
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.7827380952380952,0.9836309523809523,-0.01,1.0,0.24390773809523808,Low
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.1138,0.7068452380952381,0.7604166666666666,-0.01,1.0,0.23362416666666666,Low
+25-1194,"Career/Technical Education Teachers, Postsecondary","Education, Training, and Library",Educational Instruction and Library Occupations,0.1563,0.5684523809523809,0.37648809523809523,-0.01,0.6,0.2146420238095238,Low
+25-2011,"Preschool Teachers, Except Special Education","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.14434523809523808,0.09226190476190477,0.006999999999999999,0.6,0.08446547619047619,Low
+25-2012,"Kindergarten Teachers, Except Special Education","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.6101190476190477,0.28645833333333337,0.15,0.8,0.13161458333333334,Low
+25-2021,"Elementary School Teachers, Except Special Education","Education, Training, and Library",Educational Instruction and Library Occupations,0.103,0.6465773809523809,0.044642857142857095,0.004,0.8,0.08316071428571427,Low
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education","Education, Training, and Library",Educational Instruction and Library Occupations,0.2972,0.6547619047619048,0.11011904761904767,-0.01,0.8,0.17440976190476193,Low
+25-2023,"Career/Technical Education Teachers, Middle School","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.6592261904761905,0.8794642857142857,0.26,0.8,0.3018660714285714,Low
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education","Education, Training, and Library",Educational Instruction and Library Occupations,0.2901,0.6741071428571429,0.0669642857142857,-0.01,0.8,0.16078107142857143,Low
+25-2032,"Career/Technical Education Teachers, Secondary School","Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.6711309523809523,0.49627976190476186,0.009000000000000001,0.8,0.15586994047619046,Low
+25-2051,"Special Education Teachers, Preschool","Education, Training, and Library",Educational Instruction and Library Occupations,0.0058,0.6130952380952381,0.7269345238095238,-0.01,1.0,0.18205363095238095,Low
+25-2059,"Special Education Teachers, All Other","Education, Training, and Library",Educational Instruction and Library Occupations,0.0257,0.6279761904761905,0.6279761904761905,-0.01,0.6,0.22527404761904762,Low
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors","Education, Training, and Library",Educational Instruction and Library Occupations,0.0636,0.5773809523809523,0.46502976190476186,0.19,0.8,0.2096974404761905,Low
+25-3021,Self-Enrichment Teachers,"Education, Training, and Library",Educational Instruction and Library Occupations,0.0662,0.3273809523809524,0.10565476190476186,0.13,0.6,0.13889369047619046,Low
+25-4011,Archivists,"Education, Training, and Library",Educational Instruction and Library Occupations,0.1348,0.5535714285714286,0.8668154761904762,0.76,1.0,0.42262386904761906,Medium
+25-4012,Curators,"Education, Training, and Library",Educational Instruction and Library Occupations,0.4123,0.5788690476190477,0.7730654761904762,0.006999999999999999,1.0,0.35958636904761904,Medium
+25-4013,Museum Technicians and Conservators,"Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.42410714285714285,0.7604166666666666,0.59,0.8,0.3381041666666666,Medium
+25-4031,Library Technicians,"Education, Training, and Library",Educational Instruction and Library Occupations,0.054,0.21875,0.2946428571428571,0.99,0.6,0.3532607142857143,Medium
+25-9021,Farm and Home Management Educators,"Education, Training, and Library",Educational Instruction and Library Occupations,0.0,0.5252976190476191,0.8668154761904762,0.008,1.0,0.21830386904761903,Low
+25-9031,Instructional Coordinators,"Education, Training, and Library",Educational Instruction and Library Occupations,0.3043,0.7321428571428571,0.2299107142857143,-0.01,1.0,0.1771976785714286,Low
+27-1011,Art Directors,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.2098,0.90625,0.34672619047619047,0.02,0.8,0.2046015476190476,Low
+27-1012,Craft Artists,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0539,0.22470238095238096,0.8504464285714286,0.04,0.6,0.3021716071428572,Low
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators","Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.3565,0.5193452380952381,0.6346726190476191,0.04,0.6,0.3692681547619048,Medium
+27-1014,Special Effects Artists and Animators,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.3571,0.7991071428571429,0.40625,0.015,0.8,0.2774025,Low
+27-1021,Commercial and Industrial Designers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0437,0.7462797619047619,0.5461309523809523,0.04,0.8,0.19201273809523808,Low
+27-1022,Fashion Designers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0568,0.8005952380952381,0.671875,0.02,0.6,0.25468875,Low
+27-1023,Floral Designers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.08928571428571429,0.5572916666666667,0.05,0.4,0.2393229166666667,Low
+27-1024,Graphic Designers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.3672,0.5349702380952381,0.1696428571428571,0.08,0.8,0.23529071428571427,Low
+27-1025,Interior Designers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.5714285714285714,0.4174107142857143,0.02,0.8,0.13835267857142858,Low
+27-1026,Merchandise Displayers and Window Trimmers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.10863095238095238,0.2433035714285714,0.48,0.6,0.21682589285714285,Low
+27-1027,Set and Exhibit Designers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.5892857142857143,0.8013392857142857,0.006,1.0,0.20153482142857143,Low
+27-2011,Actors,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.1011,0.002976190476190476,0.42782738095238093,0.37,0.4,0.3113968452380952,Low
+27-2012,Producers and Directors,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.092,0.7916666666666666,0.25520833333333337,-0.01,0.8,0.12860208333333334,Low
+27-2021,Athletes and Sports Competitors,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.5401785714285714,0.7269345238095238,0.28,0.4,0.32773363095238095,Low
+27-2022,Coaches and Scouts,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.21428571428571427,0.11235119047619047,0.013000000000000001,0.8,0.060687797619047607,Low
+27-2023,"Umpires, Referees, and Other Sports Officials","Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.08630952380952381,0.6160714285714286,0.98,0.6,0.41001785714285716,Medium
+27-2031,Dancers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.001488095238095238,0.6934523809523809,0.13,0.6,0.2593630952380952,Low
+27-2032,Choreographers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0801,0.49107142857142855,0.8348214285714286,0.004,0.8,0.27154535714285716,Low
+27-2041,Music Directors and Composers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0368,0.5223214285714286,0.42336309523809523,-0.01,0.8,0.1485607738095238,Low
+27-2042,Musicians and Singers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.004464285714285714,0.20684523809523814,-0.01,0.6,0.10971130952380953,Low
+27-3011,Broadcast Announcers and Radio Disc Jockeys,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0634,0.20386904761904762,0.5818452380952381,0.1,0.8,0.22082130952380954,Low
+27-3031,Public Relations Specialists,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.453,0.6666666666666666,0.16443452380952384,0.18,0.8,0.28830863095238096,Low
+27-3041,Editors,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.246,0.6622023809523809,0.31547619047619047,0.06,0.8,0.2192690476190476,Low
+27-3042,Technical Writers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.4747,0.7946428571428571,0.47916666666666663,0.89,0.8,0.5176716666666668,Medium
+27-3043,Writers and Authors,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.2462,0.6979166666666666,0.30952380952380953,-0.01,0.8,0.2038609523809524,Low
+27-3091,Interpreters and Translators,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.4304,0.5267857142857143,0.37648809523809523,0.38,0.8,0.3722820238095238,Medium
+27-4011,Audio and Video Technicians,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0173,0.43601190476190477,0.33333333333333337,0.55,0.6,0.26025333333333334,Low
+27-4012,Broadcast Technicians,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0197,0.37202380952380953,0.5900297619047619,0.74,0.6,0.3633874404761905,Medium
+27-4014,Sound Engineering Technicians,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.0,0.5565476190476191,0.7730654761904762,0.13,0.6,0.27926636904761903,Low
+27-4021,Photographers,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.195,0.21726190476190477,0.32514880952380953,0.02,0.6,0.2232872023809524,Low
+27-4031,"Camera Operators, Television, Video, and Film","Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.1651,0.5952380952380952,0.6279761904761905,0.6,0.6,0.4030340476190476,Medium
+27-4032,Film and Video Editors,"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media Occupations",0.2234,0.7083333333333334,0.5394345238095238,0.31,0.6,0.346218630952381,Medium
+29-1011,Chiropractors,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.7842261904761905,0.7604166666666666,0.03,1.0,0.19610416666666666,Low
+29-1021,"Dentists, General",Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0309,0.9925595238095238,0.5126488095238095,0.004,1.0,0.1413222023809524,Low
+29-1022,Oral and Maxillofacial Surgeons,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.9992559523809523,0.9836309523809523,0.004,1.0,0.24670773809523808,Low
+29-1023,Orthodontists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.9992559523809523,0.9672619047619048,0.02,1.0,0.2458154761904762,Low
+29-1024,Prosthodontists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.9955357142857143,0.9985119047619048,0.06,1.0,0.2616279761904762,Low
+29-1031,Dietitians and Nutritionists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.1328,0.6770833333333334,0.5007440476190477,0.004,1.0,0.1791060119047619,Low
+29-1041,Optometrists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.9598214285714286,0.7730654761904762,0.14,1.0,0.22126636904761904,Low
+29-1051,Pharmacists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0896,0.9791666666666666,0.29166666666666663,0.012,1.0,0.11115666666666667,Low
+29-1071,Physician Assistants,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.9553571428571429,0.3348214285714286,-0.01,1.0,0.08170535714285715,Low
+29-1081,Podiatrists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.9821428571428571,0.9159226190476191,0.005,1.0,0.22998065476190477,Low
+29-1122,Occupational Therapists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.008,0.8720238095238095,0.359375,-0.01,1.0,0.09104374999999999,Low
+29-1123,Physical Therapists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0174,0.8898809523809523,0.24627976190476186,0.02,1.0,0.07252994047619046,Low
+29-1124,Radiation Therapists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.8616071428571429,0.8504464285714286,0.34,0.6,0.34061160714285715,Medium
+29-1125,Recreational Therapists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.4947916666666667,0.8504464285714286,0.003,0.8,0.24321160714285714,Low
+29-1126,Respiratory Therapists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.6726190476190477,0.35565476190476186,0.07,0.6,0.16291369047619048,Low
+29-1127,Speech-Language Pathologists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.8318452380952381,0.30654761904761907,0.006,1.0,0.07783690476190477,Low
+29-1128,Exercise Physiologists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.5163690476190477,0.8504464285714286,-0.01,1.0,0.21061160714285715,Low
+29-1129,"Therapists, All Other",Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0402,0.5446428571428571,0.7135416666666667,-0.01,0.6,0.25246541666666666,Low
+29-1131,Veterinarians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0926,0.9107142857142857,0.5230654761904762,0.04,1.0,0.17580636904761904,Low
+29-1141,Registered Nurses,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0595,0.7931547619047619,0.016369047619047672,-0.01,0.6,0.08589226190476192,Low
+29-1151,Nurse Anesthetists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.9940476190476191,0.6279761904761905,-0.01,1.0,0.15499404761904761,Low
+29-1161,Nurse Midwives,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.052,0.9434523809523809,0.9389880952380952,-0.01,1.0,0.2535470238095238,Low
+29-1171,Nurse Practitioners,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0944,0.9494047619047619,0.24627976190476186,-0.01,1.0,0.09732994047619047,Low
+29-1181,Audiologists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.8199404761904762,0.8958333333333334,0.003,1.0,0.22455833333333333,Low
+29-2031,Cardiovascular Technologists and Technicians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.6294642857142857,0.5974702380952381,0.23,0.6,0.2553675595238095,Low
+29-2032,Diagnostic Medical Sonographers,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.7976190476190477,0.48809523809523814,0.35,0.6,0.25202380952380954,Low
+29-2033,Nuclear Medicine Technologists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0513,0.8273809523809523,0.8348214285714286,0.13,0.6,0.31522535714285715,Low
+29-2034,Radiologic Technologists and Technicians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.6636904761904762,0.2946428571428571,-0.01,0.6,0.13166071428571427,Low
+29-2035,Magnetic Resonance Imaging Technologists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.039,0.7901785714285714,0.6614583333333333,-0.01,0.6,0.2389645833333333,Low
+29-2051,Dietetic Technicians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.2446,0.08779761904761904,0.6346726190476191,0.13,0.4,0.3725081547619048,Medium
+29-2052,Pharmacy Technicians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0735,0.19196428571428573,0.14434523809523814,0.92,0.6,0.30948630952380957,Low
+29-2053,Psychiatric Technicians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.19791666666666666,0.43601190476190477,0.04,0.6,0.1770029761904762,Low
+29-2055,Surgical Technologists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.48214285714285715,0.3616071428571429,0.34,0.6,0.21840178571428573,Low
+29-2056,Veterinary Technologists and Technicians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.22767857142857142,0.32514880952380953,0.03,0.6,0.1472872023809524,Low
+29-2057,Ophthalmic Medical Technicians,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.27380952380952384,0.49627976190476186,-0.01,0.6,0.18206994047619046,Low
+29-2061,Licensed Practical and Licensed Vocational Nurses,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.4642857142857143,0.07738095238095233,0.06,0.6,0.09134523809523808,Low
+29-2081,"Opticians, Dispensing",Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.27827380952380953,0.46502976190476186,0.71,0.6,0.3182574404761905,Low
+29-2091,Orthotists and Prosthetists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.7619047619047619,0.8794642857142857,0.004,1.0,0.22066607142857142,Low
+29-2092,Hearing Aid Specialists,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.5639880952380952,0.9159226190476191,-0.01,0.6,0.28698065476190476,Low
+29-2099,"Health Technologists and Technicians, All Other",Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0445,0.4211309523809524,0.3303571428571429,-0.01,0.6,0.15838928571428573,Low
+29-9091,Athletic Trainers,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0531,0.4851190476190476,0.6815476190476191,0.006999999999999999,1.0,0.1930269047619048,Low
+29-9092,Genetic Counselors,Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0123,0.8526785714285714,0.9672619047619048,-0.01,1.0,0.2447354761904762,Low
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",Healthcare Practitioners and Technical,Healthcare Practitioners and Technical Occupations,0.0,0.5967261904761905,0.6815476190476191,0.06,0.6,0.24238690476190478,Low
+31-2011,Occupational Therapy Assistants,Healthcare Support,Healthcare Support Occupations,0.0,0.6696428571428571,0.45238095238095233,0.03,0.6,0.17909523809523809,Low
+31-2012,Occupational Therapy Aides,Healthcare Support,Healthcare Support Occupations,0.0661,0.10267857142857142,0.8504464285714286,0.27,0.6,0.35305160714285716,Medium
+31-2021,Physical Therapist Assistants,Healthcare Support,Healthcare Support Occupations,0.0,0.6413690476190477,0.25297619047619047,0.018000000000000002,0.6,0.1268440476190476,Low
+31-2022,Physical Therapist Aides,Healthcare Support,Healthcare Support Occupations,0.0,0.06994047619047619,0.4174107142857143,0.61,0.4,0.31635267857142857,Low
+31-9011,Massage Therapists,Healthcare Support,Healthcare Support Occupations,0.0,0.40327380952380953,0.1941964285714286,0.54,0.6,0.21654910714285716,Low
+31-9091,Dental Assistants,Healthcare Support,Healthcare Support Occupations,0.0,0.3244047619047619,0.12202380952380953,0.51,0.6,0.1925059523809524,Low
+31-9092,Medical Assistants,Healthcare Support,Healthcare Support Occupations,0.0476,0.20982142857142858,0.049107142857142905,0.3,0.6,0.15131678571428572,Low
+31-9093,Medical Equipment Preparers,Healthcare Support,Healthcare Support Occupations,0.0,0.2663690476190476,0.44494047619047616,0.78,0.4,0.35723511904761907,Medium
+31-9094,Medical Transcriptionists,Healthcare Support,Healthcare Support Occupations,0.6365,0.24107142857142858,0.42782738095238093,0.89,0.6,0.5995568452380953,Medium
+31-9095,Pharmacy Aides,Healthcare Support,Healthcare Support Occupations,0.022,0.0744047619047619,0.5818452380952381,0.72,0.4,0.38826130952380955,Medium
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,Healthcare Support,Healthcare Support Occupations,0.0179,0.09523809523809523,0.234375,0.86,0.6,0.29775375000000004,Low
+31-9097,Phlebotomists,Healthcare Support,Healthcare Support Occupations,0.0,0.23139880952380953,0.234375,-0.01,0.6,0.11659375,Low
+31-9099,"Healthcare Support Workers, All Other",Healthcare Support,Healthcare Support Occupations,0.0,0.3005952380952381,0.3303571428571429,-0.01,0.6,0.14058928571428572,Low
+33-1011,First-Line Supervisors of Correctional Officers,Protective Service,Protective Service Occupations,0.0315,0.71875,0.6495535714285714,0.03,0.6,0.24098839285714285,Low
+33-1012,First-Line Supervisors of Police and Detectives,Protective Service,Protective Service Occupations,0.0,0.8943452380952381,0.40625,0.004,0.6,0.1623625,Low
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,Protective Service,Protective Service Occupations,0.0,0.8244047619047619,0.5327380952380952,-0.01,0.6,0.1911845238095238,Low
+33-2011,Firefighters,Protective Service,Protective Service Occupations,0.0,0.5208333333333334,0.18898809523809523,0.17,0.6,0.1412470238095238,Low
+33-2021,Fire Inspectors and Investigators,Protective Service,Protective Service Occupations,0.0,0.7023809523809523,0.8244047619047619,-0.01,0.6,0.26410119047619046,Low
+33-2022,Forest Fire Inspectors and Prevention Specialists,Protective Service,Protective Service Occupations,0.0,0.3541666666666667,0.9672619047619048,0.05,0.6,0.31181547619047617,Low
+33-3011,Bailiffs,Protective Service,Protective Service Occupations,0.0,0.4568452380952381,0.7730654761904762,0.36,0.4,0.355266369047619,Medium
+33-3012,Correctional Officers and Jailers,Protective Service,Protective Service Occupations,0.0,0.4419642857142857,0.15773809523809523,0.6,0.4,0.2494345238095238,Low
+33-3021,Detectives and Criminal Investigators,Protective Service,Protective Service Occupations,0.0374,0.8556547619047619,0.43601190476190477,-0.01,0.6,0.1819629761904762,Low
+33-3031,Fish and Game Wardens,Protective Service,Protective Service Occupations,0.0,0.6383928571428571,0.9389880952380952,0.08,0.8,0.28074702380952377,Low
+33-3041,Parking Enforcement Workers,Protective Service,Protective Service Occupations,0.0,0.3645833333333333,0.9836309523809523,0.84,0.4,0.503907738095238,Medium
+33-3051,Police and Sheriff's Patrol Officers,Protective Service,Protective Service Occupations,0.1234,0.6889880952380952,0.10119047619047616,-0.01,0.6,0.13265761904761902,Low
+33-3052,Transit and Railroad Police,Protective Service,Protective Service Occupations,0.0,0.8095238095238095,0.9672619047619048,0.57,0.6,0.41581547619047615,Medium
+33-9011,Animal Control Workers,Protective Service,Protective Service Occupations,0.0,0.26860119047619047,0.8244047619047619,0.21,0.4,0.33810119047619047,Medium
+33-9021,Private Detectives and Investigators,Protective Service,Protective Service Occupations,0.0,0.5290178571428571,0.6205357142857143,0.31,0.6,0.2771339285714286,Low
+33-9031,Gambling Surveillance Officers and Gambling Investigators,Protective Service,Protective Service Occupations,0.0,0.19047619047619047,0.8147321428571428,0.95,0.4,0.4836830357142857,Medium
+33-9032,Security Guards,Protective Service,Protective Service Occupations,0.0,0.11011904761904762,0.034226190476190466,0.84,0.4,0.2665565476190476,Low
+33-9091,Crossing Guards and Flaggers,Protective Service,Protective Service Occupations,0.0,0.12053571428571429,0.28943452380952384,0.49,0.4,0.260358630952381,Low
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Protective Service,Protective Service Occupations,0.0,0.017857142857142856,0.13913690476190477,-0.01,0.4,0.12278422619047619,Low
+33-9093,Transportation Security Screeners,Protective Service,Protective Service Occupations,0.0,0.40625,0.5394345238095238,-0.01,0.4,0.22285863095238095,Low
+33-9099,"Protective Service Workers, All Other",Protective Service,Protective Service Occupations,0.0571,0.15773809523809523,0.15476190476190477,-0.01,0.6,0.11953047619047619,Low
+35-1011,Chefs and Head Cooks,Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.5066964285714286,0.21726190476190477,0.1,0.6,0.13431547619047618,Low
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0564,0.18898809523809523,0.02529761904761907,0.63,0.4,0.24488440476190476,Low
+35-2011,"Cooks, Fast Food",Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.01636904761904762,0.08630952380952384,0.81,0.2,0.30357738095238096,Low
+35-2012,"Cooks, Institution and Cafeteria",Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.08333333333333333,0.08779761904761907,0.83,0.4,0.2779494047619048,Low
+35-2013,"Cooks, Private Household",Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.29464285714285715,0.4933035714285714,0.3,0.6,0.24332589285714284,Low
+35-2014,"Cooks, Restaurant",Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0116,0.07886904761904762,0.01041666666666663,0.96,0.4,0.28924416666666664,Low
+35-2015,"Cooks, Short Order",Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.03869047619047619,0.20907738095238093,0.94,0.4,0.33026934523809526,Medium
+35-2021,Food Preparation Workers,Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.03273809523809524,0.029761904761904767,0.87,0.2,0.3014404761904762,Low
+35-3011,Bartenders,Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.020833333333333332,0.038690476190476164,0.77,0.4,0.25367261904761906,Low
+35-3031,Waiters and Waitresses,Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.008928571428571428,0.0029761904761904656,0.94,0.4,0.2787440476190476,Low
+35-3041,"Food Servers, Nonrestaurant",Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.028273809523809524,0.11904761904761907,0.86,0.2,0.3217619047619048,Low
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.01488095238095238,0.06101190476190477,0.91,0.2,0.3172529761904762,Low
+35-9021,Dishwashers,Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0,0.022321428571428572,0.0625,0.77,0.2,0.289625,Low
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Food Preparation and Serving Related,Food Preparation and Serving Related Occupations,0.0734,0.010416666666666666,0.04613095238095233,0.97,0.4,0.3248927380952381,Low
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.0436,0.36904761904761907,0.16815476190476186,0.94,0.4,0.3374786904761905,Medium
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.1083,0.5014880952380952,0.1919642857142857,-0.01,0.6,0.14931107142857142,Low
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.0,0.06845238095238096,0.008928571428571397,0.66,0.4,0.22423214285714285,Low
+37-2012,Maids and Housekeeping Cleaners,Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.0,0.036458333333333336,0.017857142857142905,0.69,0.4,0.2324642857142857,Low
+37-2021,Pest Control Workers,Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.046,0.25595238095238093,0.31324404761904767,0.66,0.4,0.3187110119047619,Low
+37-3011,Landscaping and Groundskeeping Workers,Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.0,0.12351190476190477,0.023809523809523836,0.95,0.2,0.315952380952381,Low
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.0,0.24851190476190477,0.5260416666666667,0.97,0.4,0.41551041666666666,Medium
+37-3013,Tree Trimmers and Pruners,Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance Occupations,0.0,0.30952380952380953,0.4129464285714286,0.77,0.4,0.3472366071428572,Medium
+39-2011,Animal Trainers,Personal Care and Service,Personal Care and Service Occupations,0.0,0.12946428571428573,0.43229166666666663,0.1,0.4,0.21807291666666664,Low
+39-2021,Animal Caretakers,Personal Care and Service,Personal Care and Service Occupations,0.0,0.03422619047619048,0.09672619047619047,0.82,0.4,0.2781815476190476,Low
+39-3011,Gambling Dealers,Personal Care and Service,Personal Care and Service Occupations,0.0,0.005952380952380952,0.26934523809523814,0.96,0.4,0.34933630952380956,Medium
+39-3012,Gambling and Sports Book Writers and Runners,Personal Care and Service,Personal Care and Service Occupations,0.0,0.05133928571428571,0.7604166666666666,0.91,0.4,0.46210416666666665,Medium
+39-3021,Motion Picture Projectionists,Personal Care and Service,Personal Care and Service Occupations,0.0,0.023809523809523808,0.8958333333333334,0.97,0.4,0.5079583333333333,Medium
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",Personal Care and Service,Personal Care and Service Occupations,0.0,0.012648809523809524,0.15625,0.96,0.4,0.32106250000000003,Low
+39-3091,Amusement and Recreation Attendants,Personal Care and Service,Personal Care and Service Occupations,0.0619,0.012648809523809524,0.06398809523809523,0.72,0.2,0.3047570238095238,Low
+39-3092,Costume Attendants,Personal Care and Service,Personal Care and Service Occupations,0.0,0.39732142857142855,0.7864583333333334,0.61,0.4,0.40861458333333334,Medium
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",Personal Care and Service,Personal Care and Service Occupations,0.0,0.041666666666666664,0.5520833333333333,0.43,0.4,0.3140208333333333,Low
+39-4011,Embalmers,Personal Care and Service,Personal Care and Service Occupations,0.0,0.44047619047619047,0.9159226190476191,0.54,0.6,0.39698065476190475,Medium
+39-4021,Funeral Attendants,Personal Care and Service,Personal Care and Service Occupations,0.0,0.07142857142857142,0.48288690476190477,0.37,0.4,0.2847217261904762,Low
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",Personal Care and Service,Personal Care and Service Occupations,0.0,0.5610119047619048,0.6063988095238095,0.2,0.6,0.2515997023809524,Low
+39-5011,Barbers,Personal Care and Service,Personal Care and Service Occupations,0.0,0.10119047619047619,0.36755952380952384,0.8,0.6,0.31188988095238096,Low
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",Personal Care and Service,Personal Care and Service Occupations,0.0304,0.05952380952380952,0.05282738095238093,0.11,0.6,0.10736684523809523,Low
+39-5091,"Makeup Artists, Theatrical and Performance",Personal Care and Service,Personal Care and Service Occupations,0.0,0.7276785714285714,0.9270833333333334,0.01,0.6,0.2937708333333333,Low
+39-5092,Manicurists and Pedicurists,Personal Care and Service,Personal Care and Service Occupations,0.0,0.049107142857142856,0.21875,0.95,0.4,0.3346875,Medium
+39-5093,Shampooers,Personal Care and Service,Personal Care and Service Occupations,0.0,0.00744047619047619,0.6815476190476191,0.79,0.4,0.41838690476190477,Medium
+39-5094,Skincare Specialists,Personal Care and Service,Personal Care and Service Occupations,0.0,0.16964285714285715,0.3816964285714286,0.29,0.6,0.21342410714285714,Low
+39-6011,Baggage Porters and Bellhops,Personal Care and Service,Personal Care and Service Occupations,0.073,0.046130952380952384,0.46502976190476186,0.83,0.4,0.4014574404761905,Medium
+39-6012,Concierges,Personal Care and Service,Personal Care and Service Occupations,0.1875,0.15178571428571427,0.48809523809523814,0.21,0.6,0.2990238095238096,Low
+39-9011,Childcare Workers,Personal Care and Service,Personal Care and Service Occupations,0.0122,0.026785714285714284,0.022321428571428603,0.08,0.4,0.11646035714285716,Low
+39-9031,Exercise Trainers and Group Fitness Instructors,Personal Care and Service,Personal Care and Service Occupations,0.0,0.3630952380952381,0.0758928571428571,0.09,0.6,0.09697321428571427,Low
+39-9032,Recreation Workers,Personal Care and Service,Personal Care and Service Occupations,0.0,0.06398809523809523,0.07068452380952384,0.006,0.8,0.04887113095238095,Low
+39-9041,Residential Advisors,Personal Care and Service,Personal Care and Service Occupations,0.067,0.09821428571428571,0.22172619047619047,0.06,0.6,0.15423154761904762,Low
+41-1011,First-Line Supervisors of Retail Sales Workers,Sales and Related,Sales and Related Occupations,0.2627,0.3556547619047619,0.0267857142857143,0.28,0.4,0.2577764285714286,Low
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,Sales and Related,Sales and Related Occupations,0.2295,0.8050595238095238,0.15029761904761907,0.08,0.8,0.17537440476190477,Low
+41-2011,Cashiers,Sales and Related,Sales and Related Occupations,0.0846,0.019345238095238096,0.0,0.97,0.4,0.31784,Low
+41-2012,Gambling Change Persons and Booth Cashiers,Sales and Related,Sales and Related Occupations,0.0,0.06101190476190476,0.5647321428571428,0.83,0.4,0.3971830357142857,Medium
+41-2021,Counter and Rental Clerks,Sales and Related,Sales and Related Occupations,0.2048,0.09077380952380952,0.09077380952380953,0.97,0.4,0.38861345238095235,Medium
+41-2022,Parts Salespersons,Sales and Related,Sales and Related Occupations,0.0,0.15476190476190477,0.16666666666666663,0.98,0.4,0.32766666666666666,Low
+41-2031,Retail Salespersons,Sales and Related,Sales and Related Occupations,0.3222,0.04389880952380952,0.0014880952380952328,0.92,0.4,0.40325202380952385,Medium
+41-3011,Advertising Sales Agents,Sales and Related,Sales and Related Occupations,0.1482,0.5476190476190477,0.2254464285714286,0.54,0.8,0.25364160714285716,Low
+41-3021,Insurance Sales Agents,Sales and Related,Sales and Related Occupations,0.3188,0.5386904761904762,0.09970238095238093,0.92,0.8,0.3664455952380952,Medium
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",Sales and Related,Sales and Related Occupations,0.4413,0.7247023809523809,0.12351190476190477,-0.01,0.6,0.2653979761904762,Low
+41-3041,Travel Agents,Sales and Related,Sales and Related Occupations,0.4054,0.32589285714285715,0.3794642857142857,0.1,0.6,0.33702607142857144,Medium
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Sales and Related,Sales and Related Occupations,0.2706,0.8422619047619048,0.15327380952380953,-0.01,0.6,0.20455845238095238,Low
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Sales and Related,Sales and Related Occupations,0.6279,0.6532738095238095,0.0357142857142857,0.85,0.8,0.46008857142857146,Medium
+41-9011,Demonstrators and Product Promoters,Sales and Related,Sales and Related Occupations,0.0788,0.12053571428571429,0.2611607142857143,0.51,0.4,0.28881017857142854,Low
+41-9012,Models,Sales and Related,Sales and Related Occupations,0.0,0.036458333333333336,0.9270833333333334,0.98,0.2,0.5477708333333333,Medium
+41-9021,Real Estate Brokers,Sales and Related,Sales and Related Occupations,0.2609,0.6443452380952381,0.36755952380952384,0.97,0.8,0.42024988095238097,Medium
+41-9022,Real Estate Sales Agents,Sales and Related,Sales and Related Occupations,0.2828,0.5089285714285714,0.14136904761904767,0.86,0.6,0.3804622619047619,Medium
+41-9031,Sales Engineers,Sales and Related,Sales and Related Occupations,0.3224,0.9330357142857143,0.42113095238095233,0.004,0.8,0.2650427380952381,Low
+41-9041,Telemarketers,Sales and Related,Sales and Related Occupations,0.2852,0.06547619047619048,0.21130952380952384,0.99,0.4,0.4549073809523809,Medium
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Sales and Related,Sales and Related Occupations,0.1758,0.07291666666666667,0.42336309523809523,-0.01,0.2,0.2941607738095238,Low
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,Office and Administrative Support,Office and Administrative Support Occupations,0.1856,0.6116071428571429,0.028273809523809534,0.013999999999999999,0.6,0.14410845238095238,Low
+43-2011,"Switchboard Operators, Including Answering Service",Office and Administrative Support,Office and Administrative Support Occupations,0.3863,0.1324404761904762,0.4732142857142857,0.96,0.4,0.5548235714285714,Medium
+43-2021,Telephone Operators,Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.28422619047619047,0.9389880952380952,0.97,0.4,0.5187470238095238,Medium
+43-3011,Bill and Account Collectors,Office and Administrative Support,Office and Administrative Support Occupations,0.2989,0.26339285714285715,0.18005952380952384,0.95,0.4,0.44457488095238096,Medium
+43-3021,Billing and Posting Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.1924,0.29910714285714285,0.0892857142857143,0.96,0.6,0.3512814285714286,Medium
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",Office and Administrative Support,Office and Administrative Support Occupations,0.3104,0.375,0.019345238095238138,0.98,0.6,0.38499630952380953,Medium
+43-3041,Gambling Cage Workers,Office and Administrative Support,Office and Administrative Support Occupations,0.0653,0.09375,0.7038690476190477,0.39,0.4,0.37008726190476193,Medium
+43-3051,Payroll and Timekeeping Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.0487,0.45089285714285715,0.2611607142857143,0.97,0.4,0.3687701785714286,Medium
+43-3061,Procurement Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.2436,0.41220238095238093,0.45833333333333337,0.98,0.6,0.46802333333333335,Medium
+43-3071,Tellers,Office and Administrative Support,Office and Administrative Support Occupations,0.0231,0.13467261904761904,0.11235119047619047,0.98,0.4,0.3233277976190476,Low
+43-4011,Brokerage Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.1744,0.5461309523809523,0.4754464285714286,0.98,0.6,0.44462160714285714,Medium
+43-4021,Correspondence Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.2786,0.28869047619047616,0.9159226190476191,0.86,0.4,0.6024206547619048,High
+43-4031,"Court, Municipal, and License Clerks",Office and Administrative Support,Office and Administrative Support Occupations,0.102,0.3169642857142857,0.27604166666666663,-0.01,0.6,0.16781041666666666,Low
+43-4041,"Credit Authorizers, Checkers, and Clerks",Office and Administrative Support,Office and Administrative Support Occupations,0.1296,0.33035714285714285,0.6495535714285714,-0.01,0.6,0.27222839285714284,Low
+43-4051,Customer Service Representatives,Office and Administrative Support,Office and Administrative Support Occupations,0.7011,0.21205357142857142,0.005952380952380931,0.55,0.4,0.4819280952380952,Medium
+43-4061,"Eligibility Interviewers, Government Programs",Office and Administrative Support,Office and Administrative Support Occupations,0.0597,0.45982142857142855,0.28050595238095233,0.7,0.6,0.29400648809523805,Low
+43-4071,File Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.1568,0.17708333333333334,0.32068452380952384,0.97,0.4,0.42689113095238096,Medium
+43-4081,"Hotel, Motel, and Resort Desk Clerks",Office and Administrative Support,Office and Administrative Support Occupations,0.1725,0.03125,0.12797619047619047,0.94,0.4,0.37899404761904765,Medium
+43-4111,"Interviewers, Except Eligibility and Loan",Office and Administrative Support,Office and Administrative Support Occupations,0.3851,0.22023809523809523,0.1830357142857143,0.94,0.4,0.4777989285714286,Medium
+43-4121,"Library Assistants, Clerical",Office and Administrative Support,Office and Administrative Support Occupations,0.0978,0.07589285714285714,0.30431547619047616,0.95,0.4,0.39519886904761903,Medium
+43-4131,Loan Interviewers and Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.2022,0.36607142857142855,0.18601190476190477,0.92,0.6,0.3713829761904762,Medium
+43-4141,New Accounts Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.2611607142857143,0.5572916666666667,0.99,0.4,0.42732291666666666,Medium
+43-4151,Order Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.0748,0.20833333333333334,0.2276785714285714,0.98,0.4,0.3728396428571429,Medium
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",Office and Administrative Support,Office and Administrative Support Occupations,0.4046,0.37797619047619047,0.3013392857142857,0.9,0.6,0.4771748214285714,Medium
+43-4171,Receptionists and Information Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.4338,0.125,0.03125,0.96,0.4,0.46333250000000004,Medium
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.2467,0.28273809523809523,0.2611607142857143,0.61,0.4,0.37597017857142856,Medium
+43-5011,Cargo and Freight Agents,Office and Administrative Support,Office and Administrative Support Occupations,0.0165,0.4255952380952381,0.36755952380952384,-0.01,0.4,0.18648988095238095,Low
+43-5021,Couriers and Messengers,Office and Administrative Support,Office and Administrative Support Occupations,0.0412,0.1130952380952381,0.36755952380952384,0.94,0.4,0.3863698809523809,Medium
+43-5031,Public Safety Telecommunicators,Office and Administrative Support,Office and Administrative Support Occupations,0.0465,0.38839285714285715,0.36755952380952384,0.49,0.4,0.29848988095238094,Low
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",Office and Administrative Support,Office and Administrative Support Occupations,0.2258,0.35119047619047616,0.2232142857142857,0.96,0.4,0.4281235714285714,Medium
+43-5041,"Meter Readers, Utilities",Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.37648809523809523,0.6495535714285714,0.85,0.4,0.4223883928571428,Medium
+43-5051,Postal Service Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.6071428571428571,0.5974702380952381,0.95,0.4,0.42936755952380956,Medium
+43-5052,Postal Service Mail Carriers,Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.6056547619047619,0.26934523809523814,0.68,0.4,0.2933363095238095,Low
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.6577380952380952,0.5282738095238095,-0.01,0.4,0.22006845238095238,Low
+43-5061,"Production, Planning, and Expediting Clerks",Office and Administrative Support,Office and Administrative Support Occupations,0.0934,0.48660714285714285,0.13690476190476186,0.88,0.6,0.3075861904761905,Low
+43-5071,"Shipping, Receiving, and Inventory Clerks",Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.20238095238095238,0.08333333333333337,0.98,0.4,0.30683333333333335,Low
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.18452380952380953,0.4129464285714286,0.95,0.4,0.3832366071428571,Medium
+43-6011,Executive Secretaries and Executive Administrative Assistants,Office and Administrative Support,Office and Administrative Support Occupations,0.2336,0.6607142857142857,0.10416666666666663,0.86,0.6,0.3514816666666667,Medium
+43-6012,Legal Secretaries and Administrative Assistants,Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.46726190476190477,0.28645833333333337,0.98,0.6,0.3276145833333333,Low
+43-6013,Medical Secretaries and Administrative Assistants,Office and Administrative Support,Office and Administrative Support Occupations,0.3623,0.25892857142857145,0.06547619047619047,0.81,0.6,0.38328904761904764,Medium
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Office and Administrative Support,Office and Administrative Support Occupations,0.4528,0.27529761904761907,0.013392857142857095,0.96,0.4,0.4664682142857143,Medium
+43-9021,Data Entry Keyers,Office and Administrative Support,Office and Administrative Support Occupations,0.6707,0.18303571428571427,0.27827380952380953,0.99,0.4,0.6258484523809523,High
+43-9022,Word Processors and Typists,Office and Administrative Support,Office and Administrative Support Occupations,0.2385,0.3601190476190476,0.5751488095238095,0.81,0.4,0.49118720238095237,Medium
+43-9031,Desktop Publishers,Office and Administrative Support,Office and Administrative Support Occupations,0.464,0.41964285714285715,0.8348214285714286,0.16,0.6,0.4863053571428572,Medium
+43-9041,Insurance Claims and Policy Processing Clerks,Office and Administrative Support,Office and Administrative Support Occupations,0.1467,0.35714285714285715,0.15922619047619047,-0.01,0.6,0.15648654761904762,Low
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",Office and Administrative Support,Office and Administrative Support Occupations,0.0,0.15476190476190477,0.38988095238095233,0.94,0.4,0.37547023809523805,Medium
+43-9061,"Office Clerks, General",Office and Administrative Support,Office and Administrative Support Occupations,0.4504,0.19345238095238096,0.007440476190476164,0.96,0.4,0.4640201190476191,Medium
+43-9071,"Office Machine Operators, Except Computer",Office and Administrative Support,Office and Administrative Support Occupations,0.0239,0.1949404761904762,0.5126488095238095,0.92,0.4,0.41172220238095236,Medium
+43-9081,Proofreaders and Copy Markers,Office and Administrative Support,Office and Administrative Support Occupations,0.1781,0.33630952380952384,0.7269345238095238,0.84,0.8,0.4509736309523809,Medium
+43-9111,Statistical Assistants,Office and Administrative Support,Office and Administrative Support Occupations,0.5099,0.5044642857142857,0.7604166666666666,0.66,0.8,0.5560641666666667,Medium
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.47619047619047616,0.4017857142857143,-0.01,0.8,0.12844642857142857,Low
+45-2011,Agricultural Inspectors,"Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.43898809523809523,0.6614583333333333,0.94,0.4,0.4433645833333333,Medium
+45-2021,Animal Breeders,"Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.27976190476190477,0.8013392857142857,0.95,0.4,0.4803348214285714,Medium
+45-2041,"Graders and Sorters, Agricultural Products","Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.05133928571428571,0.48809523809523814,0.41,0.2,0.32402380952380955,Low
+45-2091,Agricultural Equipment Operators,"Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.16815476190476192,0.3169642857142857,-0.01,0.2,0.19724107142857142,Low
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0203,0.047619047619047616,0.059523809523809534,-0.01,0.6,0.08100095238095238,Low
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.08035714285714286,0.13244047619047616,-0.01,0.4,0.12111011904761904,Low
+45-4011,Forest and Conservation Workers,"Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.09226190476190477,0.6934523809523809,0.87,0.6,0.4073630952380953,Medium
+45-4021,Fallers,"Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.4375,0.8958333333333334,0.76,0.2,0.4959583333333334,Medium
+45-4022,Logging Equipment Operators,"Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.38244047619047616,0.5260416666666667,0.79,0.2,0.4095104166666667,Medium
+45-4023,Log Graders and Scalers,"Farming, Fishing, and Forestry","Farming, Fishing, and Forestry Occupations",0.0,0.3117559523809524,0.9159226190476191,0.97,0.4,0.5129806547619048,Medium
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,Construction and Extraction,Construction and Extraction Occupations,0.0296,0.7366071428571429,0.06845238095238093,-0.01,0.6,0.08695309523809523,Low
+47-2011,Boilermakers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.6964285714285714,0.7864583333333334,0.68,0.6,0.3926145833333334,Medium
+47-2021,Brickmasons and Blockmasons,Construction and Extraction,Construction and Extraction Occupations,0.0,0.5431547619047619,0.37202380952380953,0.82,0.4,0.34700595238095233,Medium
+47-2022,Stonemasons,Construction and Extraction,Construction and Extraction Occupations,0.0,0.39955357142857145,0.7477678571428572,0.89,0.6,0.42494196428571435,Medium
+47-2031,Carpenters,Construction and Extraction,Construction and Extraction Occupations,0.0,0.47023809523809523,0.04315476190476186,-0.01,0.4,0.09878869047619046,Low
+47-2041,Carpet Installers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.34672619047619047,0.6130952380952381,0.87,0.4,0.41727380952380955,Medium
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Construction and Extraction,Construction and Extraction Occupations,0.0,0.4166666666666667,0.6815476190476191,0.79,0.4,0.41838690476190477,Medium
+47-2043,Floor Sanders and Finishers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.29017857142857145,0.9159226190476191,0.87,0.4,0.4929806547619048,Medium
+47-2044,Tile and Stone Setters,Construction and Extraction,Construction and Extraction Occupations,0.0,0.40773809523809523,0.4553571428571429,0.75,0.4,0.3538392857142857,Medium
+47-2051,Cement Masons and Concrete Finishers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.4226190476190476,0.19791666666666663,0.94,0.2,0.3574791666666667,Medium
+47-2053,Terrazzo Workers and Finishers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.4107142857142857,0.9553571428571429,0.88,0.4,0.5048392857142857,Medium
+47-2061,Construction Laborers,Construction and Extraction,Construction and Extraction Occupations,0.0281,0.2611607142857143,0.02083333333333337,0.88,0.4,0.28244833333333336,Low
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",Construction and Extraction,Construction and Extraction Occupations,0.0,0.36160714285714285,0.45833333333333337,0.83,0.4,0.3705833333333334,Medium
+47-2072,Pile Driver Operators,Construction and Extraction,Construction and Extraction Occupations,0.0,0.65625,0.9389880952380952,0.82,0.4,0.48874702380952384,Medium
+47-2073,Operating Engineers and Other Construction Equipment Operators,Construction and Extraction,Construction and Extraction Occupations,0.0,0.49255952380952384,0.1026785714285714,0.95,0.4,0.3056696428571428,Low
+47-2081,Drywall and Ceiling Tile Installers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.43452380952380953,0.31324404761904767,0.79,0.4,0.32631101190476197,Low
+47-2082,Tapers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.6026785714285714,0.7135416666666667,0.62,0.4,0.3923854166666667,Medium
+47-2111,Electricians,Construction and Extraction,Construction and Extraction Occupations,0.0,0.6041666666666666,0.05282738095238093,0.15,0.6,0.10320684523809523,Low
+47-2121,Glaziers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.42857142857142855,0.45238095238095233,0.73,0.4,0.349095238095238,Medium
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",Construction and Extraction,Construction and Extraction Occupations,0.0,0.31919642857142855,0.5818452380952381,0.83,0.4,0.40146130952380954,Medium
+47-2132,"Insulation Workers, Mechanical",Construction and Extraction,Construction and Extraction Occupations,0.0439,0.4895833333333333,0.6205357142857143,0.64,0.4,0.3906939285714286,Medium
+47-2141,"Painters, Construction and Maintenance",Construction and Extraction,Construction and Extraction Occupations,0.0,0.3333333333333333,0.13095238095238093,0.75,0.4,0.2727380952380952,Low
+47-2142,Paperhangers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.30357142857142855,0.9389880952380952,0.87,0.4,0.49874702380952385,Medium
+47-2151,Pipelayers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.32142857142857145,0.5007440476190477,0.62,0.4,0.33918601190476194,Medium
+47-2152,"Plumbers, Pipefitters, and Steamfitters",Construction and Extraction,Construction and Extraction Occupations,0.0116,0.5818452380952381,0.07886904761904767,-0.01,0.6,0.08235726190476192,Low
+47-2161,Plasterers and Stucco Masons,Construction and Extraction,Construction and Extraction Occupations,0.0,0.4270833333333333,0.6614583333333333,0.84,0.2,0.4533645833333333,Medium
+47-2171,Reinforcing Iron and Rebar Workers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.5029761904761905,0.6815476190476191,0.9,0.4,0.4403869047619048,Medium
+47-2181,Roofers,Construction and Extraction,Construction and Extraction Occupations,0.0157,0.3705357142857143,0.2254464285714286,0.9,0.4,0.3326416071428572,Medium
+47-2211,Sheet Metal Workers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.5066964285714286,0.2433035714285714,0.82,0.4,0.31482589285714285,Low
+47-2221,Structural Iron and Steel Workers,Construction and Extraction,Construction and Extraction Occupations,0.0491,0.5833333333333334,0.3504464285714286,0.83,0.4,0.3632516071428572,Medium
+47-2231,Solar Photovoltaic Installers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.41369047619047616,0.7135416666666667,-0.01,0.4,0.2663854166666667,Low
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Construction and Extraction,Construction and Extraction Occupations,0.0,0.20684523809523808,0.5974702380952381,-0.01,0.4,0.23736755952380953,Low
+47-3012,Helpers--Carpenters,Construction and Extraction,Construction and Extraction Occupations,0.0,0.16220238095238096,0.5126488095238095,0.92,0.4,0.40216220238095235,Medium
+47-3013,Helpers--Electricians,Construction and Extraction,Construction and Extraction Occupations,0.0,0.17261904761904762,0.33854166666666663,0.74,0.4,0.3226354166666666,Low
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Construction and Extraction,Construction and Extraction Occupations,0.0,0.14583333333333334,0.7864583333333334,0.94,0.2,0.5046145833333333,Medium
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Construction and Extraction,Construction and Extraction Occupations,0.0,0.1636904761904762,0.3861607142857143,0.57,0.4,0.30054017857142856,Low
+47-3016,Helpers--Roofers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.15029761904761904,0.8147321428571428,0.72,0.4,0.4376830357142857,Medium
+47-4011,Construction and Building Inspectors,Construction and Extraction,Construction and Extraction Occupations,0.0481,0.6651785714285714,0.2611607142857143,0.63,0.6,0.2705301785714286,Low
+47-4021,Elevator and Escalator Installers and Repairers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.84375,0.6130952380952381,0.39,0.6,0.29127380952380955,Low
+47-4031,Fence Erectors,Construction and Extraction,Construction and Extraction Occupations,0.0,0.2425595238095238,0.5714285714285714,0.92,0.4,0.4168571428571428,Medium
+47-4041,Hazardous Materials Removal Workers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.40922619047619047,0.46502976190476186,0.53,0.6,0.2822574404761905,Low
+47-4051,Highway Maintenance Workers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.3586309523809524,0.2321428571428571,0.87,0.4,0.3220357142857143,Low
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,Construction and Extraction,Construction and Extraction Occupations,0.0,0.6309523809523809,0.7864583333333334,0.89,0.4,0.4646145833333334,Medium
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,Construction and Extraction,Construction and Extraction Occupations,0.0,0.33482142857142855,0.5818452380952381,0.83,0.2,0.43146130952380957,Medium
+47-5011,"Derrick Operators, Oil and Gas",Construction and Extraction,Construction and Extraction Occupations,0.0,0.46130952380952384,0.7269345238095238,0.8,0.2,0.46173363095238096,Medium
+47-5012,"Rotary Drill Operators, Oil and Gas",Construction and Extraction,Construction and Extraction Occupations,0.0,0.5803571428571429,0.6279761904761905,0.53,0.4,0.3529940476190476,Medium
+47-5013,"Service Unit Operators, Oil and Gas",Construction and Extraction,Construction and Extraction Occupations,0.0,0.4947916666666667,0.39880952380952384,0.93,0.4,0.37570238095238095,Medium
+47-5041,Continuous Mining Machine Operators,Construction and Extraction,Construction and Extraction Occupations,0.0,0.59375,0.7477678571428572,0.54,0.4,0.38494196428571426,Medium
+47-5051,"Rock Splitters, Quarry",Construction and Extraction,Construction and Extraction Occupations,0.0,0.23883928571428573,0.9159226190476191,0.96,0.2,0.5409806547619047,Medium
+47-5071,"Roustabouts, Oil and Gas",Construction and Extraction,Construction and Extraction Occupations,0.0,0.2931547619047619,0.38988095238095233,0.68,0.2,0.3534702380952381,Medium
+47-5081,Helpers--Extraction Workers,Construction and Extraction,Construction and Extraction Occupations,0.0,0.2708333333333333,0.671875,0.37,0.4,0.33196875000000003,Medium
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.1015,0.7440476190476191,0.11458333333333337,0.003,0.6,0.12984583333333333,Low
+49-2011,"Computer, Automated Teller, and Office Machine Repairers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.1067,0.31919642857142855,0.32068452380952384,0.74,0.6,0.33085113095238095,Medium
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.5982142857142857,0.7864583333333334,-0.01,0.6,0.2546145833333333,Low
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0333,0.6190476190476191,0.1964285714285714,0.36,0.6,0.19442714285714285,Low
+49-2091,Avionics Technicians,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.7261904761904762,0.8013392857142857,0.7,0.6,0.4003348214285714,Medium
+49-2092,"Electric Motor, Power Tool, and Related Repairers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.4181547619047619,0.7477678571428572,0.76,0.6,0.3989419642857143,Medium
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.6755952380952381,0.8668154761904762,0.91,0.6,0.45870386904761906,Medium
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.6428571428571429,0.5052083333333333,-0.01,0.6,0.1843020833333333,Low
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.8482142857142857,0.7269345238095238,-0.01,0.6,0.23973363095238095,Low
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.2544642857142857,0.8958333333333334,0.61,0.6,0.40595833333333337,Medium
+49-2097,Audiovisual Equipment Installers and Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.3072916666666667,0.6205357142857143,0.65,0.6,0.3451339285714286,Medium
+49-2098,Security and Fire Alarm Systems Installers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0303,0.4806547619047619,0.359375,0.82,0.6,0.32596375,Low
+49-3011,Aircraft Mechanics and Service Technicians,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.7098214285714286,0.32514880952380953,0.71,0.6,0.2832872023809524,Low
+49-3021,Automotive Body and Related Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.41517857142857145,0.25520833333333337,0.91,0.4,0.3358020833333334,Medium
+49-3022,Automotive Glass Installers and Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.22172619047619047,0.7269345238095238,0.55,0.4,0.381733630952381,Medium
+49-3023,Automotive Service Technicians and Mechanics,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.3898809523809524,0.07068452380952384,-0.01,0.6,0.07567113095238095,Low
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.4836309523809524,0.17559523809523814,0.73,0.6,0.24989880952380952,Low
+49-3041,Farm Equipment Mechanics and Service Technicians,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.3869047619047619,0.5327380952380952,0.75,0.6,0.34318452380952386,Medium
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.5491071428571429,0.2611607142857143,0.4,0.6,0.2052901785714286,Low
+49-3043,Rail Car Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.6235119047619048,0.671875,0.88,0.4,0.43396875,Medium
+49-3051,Motorboat Mechanics and Service Technicians,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.37351190476190477,0.6614583333333333,0.66,0.6,0.3573645833333333,Medium
+49-3052,Motorcycle Mechanics,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.2767857142857143,0.7477678571428572,0.79,0.6,0.40494196428571433,Medium
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.25148809523809523,0.5900297619047619,0.93,0.4,0.4235074404761905,Medium
+49-3091,Bicycle Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.12053571428571429,0.8013392857142857,0.94,0.4,0.4783348214285714,Medium
+49-3092,Recreational Vehicle Service Technicians,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.3072916666666667,0.7380952380952381,0.59,0.4,0.3925238095238095,Medium
+49-3093,Tire Repairers and Changers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.09970238095238096,0.33854166666666663,0.7,0.4,0.3146354166666666,Low
+49-9011,Mechanical Door Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.3958333333333333,0.7038690476190477,0.91,0.4,0.4479672619047619,Medium
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.6175595238095238,0.5461309523809523,0.63,0.6,0.3225327380952381,Low
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0191,0.4880952380952381,0.125,-0.01,0.6,0.09689,Low
+49-9031,Home Appliance Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.34226190476190477,0.5647321428571428,0.72,0.4,0.3751830357142857,Medium
+49-9041,Industrial Machinery Mechanics,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0239,0.5550595238095238,0.14583333333333337,0.67,0.6,0.24001833333333333,Low
+49-9043,"Maintenance Workers, Machinery","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.47767857142857145,0.4174107142857143,0.86,0.6,0.3363526785714286,Medium
+49-9044,Millwrights,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.6011904761904762,0.5572916666666667,0.59,0.4,0.3473229166666667,Medium
+49-9045,"Refractory Materials Repairers, Except Brickmasons","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.5505952380952381,0.9962797619047619,0.82,0.4,0.5030699404761905,Medium
+49-9051,Electrical Power-Line Installers and Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.7767857142857143,0.33854166666666663,0.1,0.6,0.16463541666666665,Low
+49-9052,Telecommunications Line Installers and Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.6488095238095238,0.29836309523809523,0.49,0.4,0.2625907738095238,Low
+49-9061,Camera and Photographic Equipment Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0412,0.3854166666666667,0.9553571428571429,0.97,0.6,0.5093192857142858,Medium
+49-9062,Medical Equipment Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.5148809523809523,0.48288690476190477,0.27,0.6,0.2347217261904762,Low
+49-9063,Musical Instrument Repairers and Tuners,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.26860119047619047,0.8958333333333334,0.91,0.6,0.46595833333333336,Medium
+49-9064,Watch and Clock Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.36755952380952384,0.9836309523809523,0.99,0.6,0.5039077380952381,Medium
+49-9071,"Maintenance and Repair Workers, General","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.31547619047619047,0.03273809523809523,0.64,0.6,0.1961845238095238,Low
+49-9081,Wind Turbine Service Technicians,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.5907738095238095,0.8244047619047619,-0.01,0.6,0.26410119047619046,Low
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.23363095238095238,0.5647321428571428,0.94,0.4,0.4191830357142857,Medium
+49-9092,Commercial Divers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.5133928571428571,0.9389880952380952,0.18,0.6,0.3307470238095238,Medium
+49-9094,Locksmiths and Safe Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.40476190476190477,0.7269345238095238,0.77,0.4,0.4257336309523809,Medium
+49-9095,Manufactured Building and Mobile Home Installers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.18154761904761904,0.9836309523809523,0.18,0.4,0.371907738095238,Medium
+49-9096,Riggers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.5349702380952381,0.7038690476190477,0.89,0.4,0.4439672619047619,Medium
+49-9097,Signal and Track Switch Repairers,"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.7708333333333334,0.8794642857142857,0.9,0.6,0.45986607142857144,Medium
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.13467261904761904,0.27380952380952384,0.79,0.4,0.316452380952381,Low
+49-9099,"Installation, Maintenance, and Repair Workers, All Other","Installation, Maintenance, and Repair","Installation, Maintenance, and Repair Occupations",0.0,0.34523809523809523,0.21279761904761907,0.5,0.6,0.21319940476190477,Low
+51-1011,First-Line Supervisors of Production and Operating Workers,Production,Production Occupations,0.0,0.6785714285714286,0.0803571428571429,0.016,0.4,0.11328928571428573,Low
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Production,Production Occupations,0.0494,0.5699404761904762,0.6815476190476191,0.79,0.4,0.43814690476190477,Medium
+51-2021,"Coil Winders, Tapers, and Finishers",Production,Production Occupations,0.0,0.2261904761904762,0.8668154761904762,0.73,0.4,0.45270386904761906,Medium
+51-2031,Engine and Other Machine Assemblers,Production,Production Occupations,0.0,0.44494047619047616,0.5520833333333333,0.82,0.4,0.39202083333333326,Medium
+51-2041,Structural Metal Fabricators and Fitters,Production,Production Occupations,0.0,0.34375,0.46502976190476186,0.41,0.6,0.2582574404761905,Low
+51-3011,Bakers,Production,Production Occupations,0.0,0.07738095238095238,0.1785714285714286,0.89,0.4,0.31264285714285717,Low
+51-3021,Butchers and Meat Cutters,Production,Production Occupations,0.0,0.17559523809523808,0.2410714285714286,0.93,0.4,0.3362678571428572,Medium
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",Production,Production Occupations,0.0,0.08482142857142858,0.21577380952380953,0.94,0.2,0.3619434523809524,Medium
+51-3023,Slaughterers and Meat Packers,Production,Production Occupations,0.0,0.10639880952380952,0.37351190476190477,0.6,0.4,0.3033779761904762,Low
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",Production,Production Occupations,0.0,0.16071428571428573,0.6421130952380952,-0.01,0.4,0.2485282738095238,Low
+51-3092,Food Batchmakers,Production,Production Occupations,0.0,0.14136904761904762,0.19047619047619047,0.7,0.4,0.2776190476190476,Low
+51-3093,Food Cooking Machine Operators and Tenders,Production,Production Occupations,0.0,0.14732142857142858,0.4933035714285714,0.61,0.4,0.33532589285714287,Medium
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.24702380952380953,0.40625,0.91,0.4,0.3735625,Medium
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.3318452380952381,0.8348214285714286,0.93,0.4,0.4847053571428571,Medium
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.3229166666666667,0.7269345238095238,0.83,0.4,0.43773363095238094,Medium
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.22916666666666666,0.2299107142857143,0.78,0.4,0.3034776785714286,Low
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.3020833333333333,0.8794642857142857,-0.01,0.4,0.3078660714285714,Low
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.24404761904761904,0.44047619047619047,-0.01,0.4,0.1981190476190476,Low
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.3392857142857143,0.6495535714285714,0.84,0.4,0.4203883928571428,Medium
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.43005952380952384,0.8147321428571428,-0.01,0.4,0.29168303571428567,Low
+51-4041,Machinists,Production,Production Occupations,0.0,0.43154761904761907,0.1294642857142857,0.65,0.6,0.22236607142857143,Low
+51-4051,Metal-Refining Furnace Operators and Tenders,Production,Production Occupations,0.0,0.39955357142857145,0.7380952380952381,0.88,0.4,0.45052380952380955,Medium
+51-4052,"Pourers and Casters, Metal",Production,Production Occupations,0.0,0.2976190476190476,0.9159226190476191,0.87,0.4,0.4929806547619048,Medium
+51-4061,"Model Makers, Metal and Plastic",Production,Production Occupations,0.0,0.6205357142857143,0.9389880952380952,0.93,0.6,0.48074702380952383,Medium
+51-4062,"Patternmakers, Metal and Plastic",Production,Production Occupations,0.0,0.4583333333333333,0.9836309523809523,0.9,0.6,0.4859077380952381,Medium
+51-4071,Foundry Mold and Coremakers,Production,Production Occupations,0.0,0.25297619047619047,0.8244047619047619,0.67,0.4,0.43010119047619044,Medium
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.17410714285714285,0.26636904761904767,-0.01,0.4,0.1545922619047619,Low
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.25,0.28050595238095233,-0.01,0.4,0.15812648809523808,Low
+51-4111,Tool and Die Makers,Production,Production Occupations,0.0,0.5625,0.45833333333333337,0.84,0.6,0.34258333333333335,Medium
+51-4121,"Welders, Cutters, Solderers, and Brazers",Production,Production Occupations,0.0,0.4017857142857143,0.10788690476190477,-0.01,0.4,0.11497172619047619,Low
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0,0.2961309523809524,0.5974702380952381,-0.01,0.4,0.23736755952380953,Low
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.2916666666666667,0.7730654761904762,-0.01,0.4,0.28126636904761904,Low
+51-4192,"Layout Workers, Metal and Plastic",Production,Production Occupations,0.0,0.49702380952380953,0.8958333333333334,0.84,0.4,0.4819583333333334,Medium
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Production,Production Occupations,0.0,0.1875,0.6063988095238095,-0.01,0.4,0.23959970238095238,Low
+51-4194,"Tool Grinders, Filers, and Sharpeners",Production,Production Occupations,0.0,0.30505952380952384,0.8348214285714286,0.88,0.4,0.4747053571428571,Medium
+51-5111,Prepress Technicians and Workers,Production,Production Occupations,0.1018,0.3794642857142857,0.6614583333333333,0.97,0.6,0.4600845833333333,Medium
+51-5112,Printing Press Operators,Production,Production Occupations,0.0,0.2648809523809524,0.2611607142857143,0.83,0.6,0.2912901785714286,Low
+51-5113,Print Binding and Finishing Workers,Production,Production Occupations,0.0,0.19940476190476192,0.5126488095238095,0.95,0.4,0.40816220238095235,Medium
+51-6011,Laundry and Dry-Cleaning Workers,Production,Production Occupations,0.0,0.025297619047619048,0.1741071428571429,0.71,0.2,0.3055267857142857,Low
+51-6021,"Pressers, Textile, Garment, and Related Materials",Production,Production Occupations,0.0,0.02976190476190476,0.6205357142857143,0.81,0.2,0.43713392857142863,Medium
+51-6031,Sewing Machine Operators,Production,Production Occupations,0.0,0.0625,0.28943452380952384,0.89,0.2,0.370358630952381,Medium
+51-6041,Shoe and Leather Workers and Repairers,Production,Production Occupations,0.0,0.11607142857142858,0.8147321428571428,0.52,0.4,0.39768303571428565,Medium
+51-6042,Shoe Machine Operators and Tenders,Production,Production Occupations,0.0,0.15476190476190477,0.9389880952380952,0.97,0.4,0.5187470238095238,Medium
+51-6051,"Sewers, Hand",Production,Production Occupations,0.0,0.11160714285714286,0.8668154761904762,0.99,0.4,0.504703869047619,Medium
+51-6052,"Tailors, Dressmakers, and Custom Sewers",Production,Production Occupations,0.0342,0.16517857142857142,0.5714285714285714,0.84,0.6,0.38453714285714286,Medium
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,Production,Production Occupations,0.0211,0.11458333333333333,0.8668154761904762,0.97,0.4,0.509143869047619,Medium
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0152,0.10416666666666667,0.8668154761904762,0.95,0.4,0.5027838690476191,Medium
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Production,Production Occupations,0.032,0.12648809523809523,0.7604166666666666,0.73,0.4,0.43890416666666665,Medium
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0,0.11755952380952381,0.6934523809523809,-0.01,0.4,0.2613630952380952,Low
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Production,Production Occupations,0.0,0.22321428571428573,0.7038690476190477,-0.01,0.4,0.26396726190476194,Low
+51-6092,Fabric and Apparel Patternmakers,Production,Production Occupations,0.0,0.38392857142857145,0.9270833333333334,0.005,0.6,0.2927708333333333,Low
+51-6093,Upholsterers,Production,Production Occupations,0.0,0.23139880952380953,0.5818452380952381,0.39,0.4,0.3134613095238096,Low
+51-7011,Cabinetmakers and Bench Carpenters,Production,Production Occupations,0.0,0.23660714285714285,0.31845238095238093,0.92,0.4,0.35361309523809525,Medium
+51-7021,Furniture Finishers,Production,Production Occupations,0.0,0.1800595238095238,0.6934523809523809,0.87,0.4,0.43736309523809525,Medium
+51-7031,"Model Makers, Wood",Production,Production Occupations,0.0,0.5669642857142857,0.9836309523809523,0.96,0.6,0.4979077380952381,Medium
+51-7032,"Patternmakers, Wood",Production,Production Occupations,0.0301,0.6845238095238095,0.9836309523809523,0.91,0.6,0.4999477380952381,Medium
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",Production,Production Occupations,0.0,0.13690476190476192,0.4754464285714286,0.86,0.4,0.3808616071428571,Medium
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Production,Production Occupations,0.0,0.14285714285714285,0.34672619047619047,0.97,0.4,0.3706815476190476,Medium
+51-8011,Nuclear Power Reactor Operators,Production,Production Occupations,0.0,0.9151785714285714,0.9389880952380952,0.95,0.6,0.4847470238095238,Medium
+51-8012,Power Distributors and Dispatchers,Production,Production Occupations,0.0,0.8779761904761905,0.8668154761904762,0.64,0.6,0.40470386904761907,Medium
+51-8013,Power Plant Operators,Production,Production Occupations,0.0257,0.8407738095238095,0.6391369047619048,0.85,0.4,0.43006422619047624,Medium
+51-8021,Stationary Engineers and Boiler Operators,Production,Production Occupations,0.0,0.6800595238095238,0.5974702380952381,0.89,0.6,0.3873675595238096,Medium
+51-8031,Water and Wastewater Treatment Plant and System Operators,Production,Production Occupations,0.0,0.47470238095238093,0.35565476190476186,0.61,0.6,0.27091369047619046,Low
+51-8091,Chemical Plant and System Operators,Production,Production Occupations,0.0,0.6934523809523809,0.6495535714285714,0.85,0.4,0.4223883928571428,Medium
+51-8092,Gas Plant Operators,Production,Production Occupations,0.0723,0.7782738095238095,0.8013392857142857,0.78,0.6,0.4452548214285715,Medium
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Production,Production Occupations,0.0405,0.7752976190476191,0.5647321428571428,0.71,0.4,0.3893830357142857,Medium
+51-8099,"Plant and System Operators, All Other",Production,Production Occupations,0.0,0.6339285714285714,0.8147321428571428,-0.01,0.4,0.29168303571428567,Low
+51-9011,Chemical Equipment Operators and Tenders,Production,Production Occupations,0.0,0.5104166666666666,0.39360119047619047,0.76,0.4,0.34040029761904766,Medium
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0,0.39211309523809523,0.47916666666666663,-0.01,0.4,0.20779166666666665,Low
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0425,0.27232142857142855,0.6130952380952381,-0.01,0.4,0.2582738095238095,Low
+51-9022,"Grinding and Polishing Workers, Hand",Production,Production Occupations,0.0,0.13839285714285715,0.671875,0.97,0.2,0.48196875,Medium
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0,0.28125,0.27604166666666663,0.83,0.4,0.32501041666666663,Low
+51-9031,"Cutters and Trimmers, Hand",Production,Production Occupations,0.0,0.13095238095238096,0.8958333333333334,0.64,0.2,0.47195833333333337,Medium
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0321,0.23511904761904762,0.44494047619047616,0.86,0.4,0.38607511904761904,Medium
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0,0.24553571428571427,0.43229166666666663,-0.01,0.4,0.19607291666666665,Low
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Production,Production Occupations,0.0,0.33779761904761907,0.6934523809523809,0.37,0.4,0.33736309523809527,Medium
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",Production,Production Occupations,0.0324,0.31398809523809523,0.0982142857142857,0.98,0.4,0.3235135714285714,Low
+51-9071,Jewelers and Precious Stone and Metal Workers,Production,Production Occupations,0.0,0.34970238095238093,0.5572916666666667,-0.01,0.6,0.19732291666666668,Low
+51-9081,Dental Laboratory Technicians,Production,Production Occupations,0.0,0.38095238095238093,0.5230654761904762,0.97,0.4,0.414766369047619,Medium
+51-9082,Medical Appliance Technicians,Production,Production Occupations,0.0,0.34077380952380953,0.7135416666666667,0.45,0.6,0.3283854166666667,Low
+51-9083,Ophthalmic Laboratory Technicians,Production,Production Occupations,0.0,0.17857142857142858,0.5751488095238095,0.97,0.4,0.42778720238095236,Medium
+51-9111,Packaging and Filling Machine Operators and Tenders,Production,Production Occupations,0.0,0.1488095238095238,0.11755952380952384,0.98,0.4,0.31538988095238096,Low
+51-9123,"Painting, Coating, and Decorating Workers",Production,Production Occupations,0.0,0.16666666666666666,0.8147321428571428,0.92,0.2,0.5076830357142857,Medium
+51-9141,Semiconductor Processing Technicians,Production,Production Occupations,0.0,0.28720238095238093,0.6495535714285714,0.88,0.4,0.4283883928571428,Medium
+51-9151,Photographic Process Workers and Processing Machine Operators,Production,Production Occupations,0.0108,0.12797619047619047,0.7380952380952381,0.99,0.4,0.47684380952380956,Medium
+51-9191,Adhesive Bonding Machine Operators and Tenders,Production,Production Occupations,0.0,0.21577380952380953,0.7269345238095238,0.95,0.4,0.46173363095238096,Medium
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Production,Production Occupations,0.0,0.15922619047619047,0.6495535714285714,-0.01,0.4,0.25038839285714287,Low
+51-9193,Cooling and Freezing Equipment Operators and Tenders,Production,Production Occupations,0.0,0.18601190476190477,0.8504464285714286,0.93,0.4,0.4886116071428571,Medium
+51-9194,Etchers and Engravers,Production,Production Occupations,0.0,0.17113095238095238,0.8244047619047619,0.98,0.4,0.4921011904761905,Medium
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",Production,Production Occupations,0.0,0.20535714285714285,0.5126488095238095,-0.01,0.4,0.21616220238095238,Low
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",Production,Production Occupations,0.0,0.3288690476190476,0.3839285714285714,0.67,0.4,0.3199821428571429,Low
+51-9197,Tire Builders,Production,Production Occupations,0.0,0.47172619047619047,0.7135416666666667,0.94,0.4,0.45638541666666665,Medium
+51-9198,Helpers--Production Workers,Production,Production Occupations,0.0393,0.09672619047619048,0.09375,0.66,0.4,0.26115750000000004,Low
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.9880952380952381,0.38988095238095233,0.18,0.8,0.16347023809523809,Low
+53-2012,Commercial Pilots,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.8601190476190477,0.5461309523809523,0.55,0.6,0.30653273809523807,Low
+53-2021,Air Traffic Controllers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.9776785714285714,0.7038690476190477,0.11,0.6,0.25796726190476194,Low
+53-2022,Airfield Operations Specialists,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0476,0.5520833333333334,0.8504464285714286,0.71,0.6,0.43365160714285717,Medium
+53-2031,Flight Attendants,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0913,0.6160714285714286,0.2723214285714286,0.35,0.6,0.23460035714285715,Low
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.06696428571428571,0.6614583333333333,0.25,0.4,0.3053645833333333,Low
+53-3031,Driver/Sales Workers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0281,0.05803571428571429,0.10788690476190477,0.98,0.4,0.3242117261904762,Low
+53-3032,Heavy and Tractor-Trailer Truck Drivers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.4330357142857143,0.011904761904761862,0.79,0.4,0.25097619047619046,Low
+53-3033,Light Truck Drivers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.19642857142857142,0.0401785714285714,0.69,0.4,0.23804464285714283,Low
+53-4011,Locomotive Engineers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.6949404761904762,0.6421130952380952,0.96,0.4,0.44252827380952375,Medium
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.5595238095238095,0.9389880952380952,0.91,0.4,0.5067470238095239,Medium
+53-4031,Railroad Conductors and Yardmasters,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.7113095238095238,0.5974702380952381,0.83,0.4,0.40536755952380954,Medium
+53-4041,Subway and Streetcar Operators,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.7544642857142857,0.8668154761904762,0.86,0.4,0.4787038690476191,Medium
+53-5011,Sailors and Marine Oilers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.3943452380952381,0.5818452380952381,0.83,0.4,0.40146130952380954,Medium
+53-5021,"Captains, Mates, and Pilots of Water Vessels",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.7633928571428571,0.6063988095238095,-0.01,0.4,0.23959970238095238,Low
+53-5022,Motorboat Operators,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.53125,0.9672619047619048,0.62,0.4,0.45581547619047613,Medium
+53-5031,Ship Engineers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.7805059523809523,0.8504464285714286,0.04,0.6,0.28061160714285716,Low
+53-6011,Bridge and Lock Tenders,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.5327380952380952,0.9553571428571429,0.97,0.2,0.5528392857142858,Medium
+53-6021,Parking Attendants,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.04017857142857143,0.2008928571428571,0.87,0.4,0.3142232142857143,Low
+53-6031,Automotive and Watercraft Service Attendants,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.04389880952380952,0.2366071428571429,0.83,0.4,0.3151517857142857,Low
+53-6041,Traffic Technicians,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.46875,0.8794642857142857,0.9,0.6,0.45986607142857144,Medium
+53-6051,Transportation Inspectors,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.8080357142857143,0.6205357142857143,-0.01,0.6,0.21313392857142857,Low
+53-6061,Passenger Attendants,Transportation and Material Moving,Transportation and Material Moving Occupations,0.1169,0.0818452380952381,0.6063988095238095,0.75,0.4,0.43835970238095234,Medium
+53-7011,Conveyor Operators and Tenders,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.20089285714285715,0.6614583333333333,0.93,0.2,0.4713645833333333,Medium
+53-7021,Crane and Tower Operators,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.5848214285714286,0.48809523809523814,0.9,0.6,0.3620238095238096,Medium
+53-7031,Dredge Operators,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.4538690476190476,0.9836309523809523,0.92,0.4,0.519907738095238,Medium
+53-7041,Hoist and Winch Operators,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.45535714285714285,0.9553571428571429,0.65,0.4,0.45883928571428567,Medium
+53-7051,Industrial Truck and Tractor Operators,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.23883928571428573,0.07291666666666663,0.93,0.4,0.29422916666666665,Low
+53-7061,Cleaners of Vehicles and Equipment,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.05357142857142857,0.0848214285714286,0.37,0.4,0.18520535714285713,Low
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.10639880952380952,0.004464285714285698,0.85,0.4,0.2611160714285714,Low
+53-7063,Machine Feeders and Offbearers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.13988095238095238,0.39657738095238093,0.93,0.4,0.37514434523809526,Medium
+53-7064,"Packers and Packagers, Hand",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.05505952380952381,0.055059523809523836,0.38,0.4,0.17976488095238097,Low
+53-7071,Gas Compressor and Gas Pumping Station Operators,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.7351190476190477,0.9553571428571429,0.91,0.4,0.5108392857142857,Medium
+53-7072,"Pump Operators, Except Wellhead Pumpers",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.44494047619047616,0.7864583333333334,0.9,0.4,0.4666145833333334,Medium
+53-7073,Wellhead Pumpers,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.5744047619047619,0.7730654761904762,0.84,0.4,0.4512663690476191,Medium
+53-7081,Refuse and Recyclable Material Collectors,Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.2857142857142857,0.22023809523809523,0.93,0.4,0.33105952380952386,Medium
+53-7121,"Tank Car, Truck, and Ship Loaders",Transportation and Material Moving,Transportation and Material Moving Occupations,0.0,0.3117559523809524,0.8348214285714286,0.72,0.4,0.4427053571428571,Medium

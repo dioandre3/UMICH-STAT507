@@ -1,0 +1,36 @@
+
+INDONESIA AI USAGE — DEEP DIVE FINDINGS
+========================================
+
+Q1. SHARE OF GLOBAL CLAUDE.AI USAGE
+  - Indonesia: 1.869% of global usage
+  - Pop share: 5.08% of working-age population
+  - AUI:       0.368
+  - Rank:      #11 (usage), #113 (AUI) of 172 countries
+
+Q2. SOC MAJOR GROUP COMPOSITION (top 100 tasks)
+  Top 3 SOC groups for Indonesia:
+    Computer & Mathematical  43.8%
+    Educational Instruction  32.8%
+Arts, Design, Entertainment  10.4%
+
+  Largest divergence from global median:
+    Most over-represented:  Educational Instruction  (+23.4pp)
+    Most under-represented: Computer & Mathematical  (-25.4pp)
+
+Q3. REQUEST CLUSTERS
+  Most distinctively Indonesian:
+    Provide technical and academic assistance across scientific research and educati
+      (1.9x global rate)
+
+  Most missing from Indonesia (vs global):
+    Help develop and debug complete web applications and user interfaces
+      (0.43x global rate)
+
+Files exported:
+  outputs/country_usage_aui.csv
+  outputs/soc_composition_comparison.csv
+  outputs/request_cluster_gaps.csv
+  outputs/indonesia_share_and_asean.png
+  outputs/soc_composition.png
+  outputs/request_cluster_gaps.png

@@ -1,0 +1,25 @@
+
+INDONESIA AI USAGE vs. US OBSERVED EXPOSURE — KEY FINDINGS
+==========================================================
+
+Context:
+  Indonesia AUI:   0.368
+  Global median:   0.757
+  Indonesia is at 49% of the global median adoption rate.
+
+Main result:
+  Spearman correlation between observed exposure and Indonesia usage share
+  across occupations with both > 0 (n=68):
+    rho = +0.463  (p = 0.0001)
+
+Quadrant counts:
+  High exposure + high ID use:  28
+  High exposure, low ID use:    145
+  Low exposure, high ID use:    9
+
+Interpretation:
+  Positive correlation: Indonesian AI usage follows where US-measured exposure is highest.
+
+Files exported:
+  outputs/indonesia_occupation_scatter.csv
+  outputs/indonesia_exposure_scatter.png

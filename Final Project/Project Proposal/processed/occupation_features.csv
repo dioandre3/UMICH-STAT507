@@ -1,0 +1,971 @@
+occ_code,title,observed_exposure,SOCcode,JobName,JobFamily,isBright,isGreen,JobZone,MedianSalary,JobForecast,ChanceAuto,WageGroup,major_group_code
+11-1011,Chief Executives,0.0333,11-1011.00,Chief Executives,Management,False,False,5.0,189600.0,16800.0,1.5,,11-0000
+11-1011,Chief Executives,0.0333,11-1011.03,Chief Sustainability Officers,Management,False,True,5.0,189600.0,16800.0,-1.0,Chief Executives,11-0000
+11-1021,General and Operations Managers,0.1378,11-1021.00,General and Operations Managers,Management,True,True,4.0,100930.0,230000.0,16.0,,11-0000
+11-1031,Legislators,0.0,11-1031.00,Legislators,Management,False,False,4.0,24670.0,4300.0,-1.0,,11-0000
+11-2011,Advertising and Promotions Managers,0.1731,11-2011.00,Advertising and Promotions Managers,Management,False,False,4.0,117130.0,2700.0,4.0,,11-0000
+11-2011,Advertising and Promotions Managers,0.1731,11-2011.01,Green Marketers,Management,False,True,-1.0,117130.0,2700.0,-1.0,Advertising and Promotions Managers,11-0000
+11-2021,Marketing Managers,0.3195,11-2021.00,Marketing Managers,Management,True,True,4.0,134290.0,26000.0,1.4,,11-0000
+11-2022,Sales Managers,0.0433,11-2022.00,Sales Managers,Management,False,False,4.0,124220.0,39000.0,1.3,,11-0000
+11-2032,Public Relations Managers,0.2315,,,,,,,,,,,11-0000
+11-3012,Administrative Services Managers,0.0,,,,,,,,,,,11-0000
+11-3013,Facilities Managers,0.1345,,,,,,,,,,,11-0000
+11-3021,Computer and Information Systems Managers,0.1559,11-3021.00,Computer and Information Systems Managers,Management,True,False,4.0,142530.0,38800.0,4.0,,11-0000
+11-3031,Financial Managers,0.3907,11-3031.00,Financial Managers,Management,True,False,-1.0,127990.0,64900.0,7.0,,11-0000
+11-3031,Financial Managers,0.3907,11-3031.02,"Financial Managers, Branch or Department",Management,True,False,4.0,127990.0,64900.0,-1.0,Financial Managers,11-0000
+11-3031,Financial Managers,0.3907,11-3031.01,Treasurers and Controllers,Management,True,False,5.0,127990.0,64900.0,-1.0,Financial Managers,11-0000
+11-3051,Industrial Production Managers,0.0132,11-3051.03,Biofuels Production Managers,Management,False,True,4.0,103380.0,13800.0,-1.0,Industrial Production Managers,11-0000
+11-3051,Industrial Production Managers,0.0132,11-3051.04,Biomass Power Plant Managers,Management,False,True,4.0,103380.0,13800.0,-1.0,Industrial Production Managers,11-0000
+11-3051,Industrial Production Managers,0.0132,11-3051.02,Geothermal Production Managers,Management,False,True,3.0,103380.0,13800.0,-1.0,Industrial Production Managers,11-0000
+11-3051,Industrial Production Managers,0.0132,11-3051.06,Hydroelectric Production Managers,Management,False,True,3.0,103380.0,13800.0,-1.0,Industrial Production Managers,11-0000
+11-3051,Industrial Production Managers,0.0132,11-3051.00,Industrial Production Managers,Management,False,True,4.0,103380.0,13800.0,3.0,,11-0000
+11-3051,Industrial Production Managers,0.0132,11-3051.05,Methane/Landfill Gas Collection System Operators,Management,False,True,-1.0,103380.0,13800.0,-1.0,Industrial Production Managers,11-0000
+11-3051,Industrial Production Managers,0.0132,11-3051.01,Quality Control Systems Managers,Management,False,False,4.0,103380.0,13800.0,-1.0,Industrial Production Managers,11-0000
+11-3061,Purchasing Managers,0.2004,11-3061.00,Purchasing Managers,Management,False,False,4.0,118940.0,6400.0,3.0,,11-0000
+11-3071,"Transportation, Storage, and Distribution Managers",0.0956,11-3071.03,Logistics Managers,Management,False,True,4.0,94730.0,11400.0,-1.0,"Transportation, Storage, and Distribution Managers",11-0000
+11-3071,"Transportation, Storage, and Distribution Managers",0.0956,11-3071.02,Storage and Distribution Managers,Management,False,True,4.0,94730.0,11400.0,-1.0,"Transportation, Storage, and Distribution Managers",11-0000
+11-3071,"Transportation, Storage, and Distribution Managers",0.0956,11-3071.01,Transportation Managers,Management,False,True,4.0,94730.0,11400.0,-1.0,"Transportation, Storage, and Distribution Managers",11-0000
+11-3071,"Transportation, Storage, and Distribution Managers",0.0956,11-3071.00,"Transportation, Storage, and Distribution Managers",Management,False,False,-1.0,94730.0,11400.0,59.0,,11-0000
+11-3111,Compensation and Benefits Managers,0.0,11-3111.00,Compensation and Benefits Managers,Management,False,False,4.0,121010.0,1400.0,96.0,,11-0000
+11-3121,Human Resources Managers,0.0,11-3121.00,Human Resources Managers,Management,True,False,4.0,113300.0,14400.0,0.6,,11-0000
+11-3131,Training and Development Managers,0.3777,11-3131.00,Training and Development Managers,Management,True,False,4.0,111340.0,3800.0,0.6,,11-0000
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",0.0,11-9013.03,Aquacultural Managers,Management,False,False,4.0,67950.0,95600.0,-1.0,"Farmers, Ranchers, and Other Agricultural Managers",11-0000
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",0.0,11-9013.02,Farm and Ranch Managers,Management,False,True,4.0,67950.0,95600.0,-1.0,"Farmers, Ranchers, and Other Agricultural Managers",11-0000
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",0.0,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",Management,False,False,-1.0,67950.0,95600.0,5.0,,11-0000
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",0.0,11-9013.01,Nursery and Greenhouse Managers,Management,False,False,3.0,67950.0,95600.0,-1.0,"Farmers, Ranchers, and Other Agricultural Managers",11-0000
+11-9021,Construction Managers,0.1186,11-9021.00,Construction Managers,Management,True,True,4.0,93370.0,40200.0,7.0,,11-0000
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",0.0395,11-9031.00,"Education Administrators, Preschool and Childcare Center/Program",Management,True,False,4.0,47940.0,5800.0,1.5,,11-0000
+11-9032,"Education Administrators, Kindergarten through Secondary",0.0525,11-9032.00,"Education Administrators, Elementary and Secondary School",Management,False,False,5.0,95310.0,22900.0,0.5,,11-0000
+11-9033,"Education Administrators, Postsecondary",0.0644,11-9033.00,"Education Administrators, Postsecondary",Management,True,False,5.0,94340.0,16800.0,1.0,,11-0000
+11-9041,Architectural and Engineering Managers,0.0306,11-9041.00,Architectural and Engineering Managers,Management,False,True,5.0,140760.0,14600.0,1.7,,11-0000
+11-9041,Architectural and Engineering Managers,0.0306,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Management,False,True,4.0,140760.0,14600.0,-1.0,Architectural and Engineering Managers,11-0000
+11-9051,Food Service Managers,0.0,11-9051.00,Food Service Managers,Management,True,False,2.0,54240.0,46900.0,8.0,,11-0000
+11-9071,Gambling Managers,0.0,11-9071.00,Gaming Managers,Management,True,False,3.0,74700.0,700.0,9.0,,11-0000
+11-9081,Lodging Managers,0.1215,11-9081.00,Lodging Managers,Management,False,False,4.0,53390.0,5500.0,0.4,,11-0000
+11-9111,Medical and Health Services Managers,0.0659,11-9111.00,Medical and Health Services Managers,Management,True,False,5.0,99730.0,42200.0,0.7,,11-0000
+11-9121,Natural Sciences Managers,0.0613,11-9121.01,Clinical Research Coordinators,Management,False,False,4.0,123860.0,6100.0,-1.0,Natural Sciences Managers,11-0000
+11-9121,Natural Sciences Managers,0.0613,11-9121.00,Natural Sciences Managers,Management,False,True,5.0,123860.0,6100.0,1.8,,11-0000
+11-9121,Natural Sciences Managers,0.0613,11-9121.02,Water Resource Specialists,Management,False,True,4.0,123860.0,6100.0,-1.0,Natural Sciences Managers,11-0000
+11-9131,Postmasters and Mail Superintendents,0.0,11-9131.00,Postmasters and Mail Superintendents,Management,False,False,2.0,75970.0,500.0,75.0,,11-0000
+11-9141,"Property, Real Estate, and Community Association Managers",0.1653,11-9141.00,"Property, Real Estate, and Community Association Managers",Management,True,False,4.0,58340.0,31600.0,81.0,,11-0000
+11-9151,Social and Community Service Managers,0.1808,11-9151.00,Social and Community Service Managers,Management,True,False,4.0,65320.0,17800.0,0.7,,11-0000
+11-9161,Emergency Management Directors,0.0,11-9161.00,Emergency Management Directors,Management,False,False,4.0,74420.0,900.0,0.3,,11-0000
+11-9171,Funeral Home Managers,0.0108,,,,,,,,,,,11-0000
+11-9179,"Personal Service Managers, All Other",0.1244,,,,,,,,,,,11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,Management,False,True,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.02,Compliance Managers,Management,False,True,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.03,Investment Fund Managers,Management,False,False,5.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.08,Loss Prevention Managers,Management,False,False,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.00,"Managers, All Other",Management,False,False,-1.0,107480.0,91300.0,25.0,,11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.01,Regulatory Affairs Managers,Management,False,True,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.07,Security Managers,Management,False,False,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.04,Supply Chain Managers,Management,False,True,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.09,Wind Energy Operations Managers,Management,False,True,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+11-9199,"Managers, All Other",0.0686,11-9199.10,Wind Energy Project Managers,Management,False,True,4.0,107480.0,91300.0,-1.0,"Managers, All Other",11-0000
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",0.118,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",Business and Financial Operations,True,False,4.0,66040.0,2600.0,24.0,,13-0000
+13-1031,"Claims Adjusters, Examiners, and Investigators",0.0818,13-1031.00,"Claims Adjusters, Examiners, and Investigators",Business and Financial Operations,False,False,-1.0,65900.0,25800.0,98.0,,13-0000
+13-1031,"Claims Adjusters, Examiners, and Investigators",0.0818,13-1031.01,"Claims Examiners, Property and Casualty Insurance",Business and Financial Operations,False,False,4.0,65900.0,25800.0,-1.0,"Claims Adjusters, Examiners, and Investigators",13-0000
+13-1031,"Claims Adjusters, Examiners, and Investigators",0.0818,13-1031.02,"Insurance Adjusters, Examiners, and Investigators",Business and Financial Operations,False,False,4.0,65900.0,25800.0,-1.0,"Claims Adjusters, Examiners, and Investigators",13-0000
+13-1032,"Insurance Appraisers, Auto Damage",0.0,13-1032.00,"Insurance Appraisers, Auto Damage",Business and Financial Operations,False,False,3.0,62520.0,1600.0,98.0,,13-0000
+13-1041,Compliance Officers,0.1211,13-1041.00,Compliance Officers,Business and Financial Operations,False,False,-1.0,68860.0,30700.0,8.0,,13-0000
+13-1041,Compliance Officers,0.1211,13-1041.06,Coroners,Business and Financial Operations,False,False,3.0,68860.0,30700.0,-1.0,Compliance Officers,13-0000
+13-1041,Compliance Officers,0.1211,13-1041.01,Environmental Compliance Inspectors,Business and Financial Operations,False,False,4.0,68860.0,30700.0,-1.0,Compliance Officers,13-0000
+13-1041,Compliance Officers,0.1211,13-1041.03,Equal Opportunity Representatives and Officers,Business and Financial Operations,False,False,4.0,68860.0,30700.0,-1.0,Compliance Officers,13-0000
+13-1041,Compliance Officers,0.1211,13-1041.04,Government Property Inspectors and Investigators,Business and Financial Operations,False,False,3.0,68860.0,30700.0,-1.0,Compliance Officers,13-0000
+13-1041,Compliance Officers,0.1211,13-1041.02,Licensing Examiners and Inspectors,Business and Financial Operations,False,False,3.0,68860.0,30700.0,-1.0,Compliance Officers,13-0000
+13-1041,Compliance Officers,0.1211,13-1041.07,Regulatory Affairs Specialists,Business and Financial Operations,False,True,4.0,68860.0,30700.0,-1.0,Compliance Officers,13-0000
+13-1051,Cost Estimators,0.0,13-1051.00,Cost Estimators,Business and Financial Operations,True,False,4.0,64040.0,24200.0,57.0,,13-0000
+13-1071,Human Resources Specialists,0.4034,13-1071.00,Human Resources Specialists,Business and Financial Operations,False,False,4.0,60880.0,67700.0,-1.0,,13-0000
+13-1074,Farm Labor Contractors,0.0,13-1074.00,Farm Labor Contractors,Business and Financial Operations,True,False,2.0,46150.0,200.0,97.0,,13-0000
+13-1075,Labor Relations Specialists,0.0,13-1075.00,Labor Relations Specialists,Business and Financial Operations,False,False,4.0,67790.0,7000.0,-1.0,,13-0000
+13-1081,Logisticians,0.1571,13-1081.00,Logisticians,Business and Financial Operations,False,False,4.0,74600.0,17900.0,1.2,,13-0000
+13-1081,Logisticians,0.1571,13-1081.02,Logistics Analysts,Business and Financial Operations,False,True,4.0,74600.0,17900.0,-1.0,Logisticians,13-0000
+13-1081,Logisticians,0.1571,13-1081.01,Logistics Engineers,Business and Financial Operations,False,True,4.0,74600.0,17900.0,-1.0,Logisticians,13-0000
+13-1111,Management Analysts,0.2435,13-1111.00,Management Analysts,Business and Financial Operations,True,False,5.0,83610.0,99900.0,13.0,,13-0000
+13-1121,"Meeting, Convention, and Event Planners",0.1023,13-1121.00,"Meeting, Convention, and Event Planners",Business and Financial Operations,True,False,4.0,49370.0,16800.0,4.0,,13-0000
+13-1131,Fundraisers,0.0466,13-1131.00,Fundraisers,Business and Financial Operations,True,False,4.0,56950.0,11300.0,-1.0,,13-0000
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",0.0649,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",Business and Financial Operations,False,False,4.0,63000.0,9200.0,47.0,,13-0000
+13-1151,Training and Development Specialists,0.2793,13-1151.00,Training and Development Specialists,Business and Financial Operations,True,True,4.0,60870.0,37300.0,1.4,,13-0000
+13-1161,Market Research Analysts and Marketing Specialists,0.6483,13-1161.00,Market Research Analysts and Marketing Specialists,Business and Financial Operations,True,False,4.0,63120.0,90700.0,61.0,,13-0000
+13-1199,"Business Operations Specialists, All Other",0.1846,13-1199.04,Business Continuity Planners,Business and Financial Operations,True,False,4.0,70530.0,119600.0,-1.0,"Business Operations Specialists, All Other",13-0000
+13-1199,"Business Operations Specialists, All Other",0.1846,13-1199.00,"Business Operations Specialists, All Other",Business and Financial Operations,True,False,-1.0,70530.0,119600.0,23.0,,13-0000
+13-1199,"Business Operations Specialists, All Other",0.1846,13-1199.03,Customs Brokers,Business and Financial Operations,True,False,3.0,70530.0,119600.0,-1.0,"Business Operations Specialists, All Other",13-0000
+13-1199,"Business Operations Specialists, All Other",0.1846,13-1199.01,Energy Auditors,Business and Financial Operations,True,True,3.0,70530.0,119600.0,-1.0,"Business Operations Specialists, All Other",13-0000
+13-1199,"Business Operations Specialists, All Other",0.1846,13-1199.06,Online Merchants,Business and Financial Operations,True,False,4.0,70530.0,119600.0,-1.0,"Business Operations Specialists, All Other",13-0000
+13-1199,"Business Operations Specialists, All Other",0.1846,13-1199.02,Security Management Specialists,Business and Financial Operations,True,False,4.0,70530.0,119600.0,-1.0,"Business Operations Specialists, All Other",13-0000
+13-1199,"Business Operations Specialists, All Other",0.1846,13-1199.05,Sustainability Specialists,Business and Financial Operations,True,True,4.0,70530.0,119600.0,-1.0,"Business Operations Specialists, All Other",13-0000
+13-2011,Accountants and Auditors,0.3478,13-2011.01,Accountants,Business and Financial Operations,True,False,4.0,70500.0,146000.0,-1.0,Accountants and Auditors,13-0000
+13-2011,Accountants and Auditors,0.3478,13-2011.00,Accountants and Auditors,Business and Financial Operations,True,False,-1.0,70500.0,146000.0,94.0,,13-0000
+13-2011,Accountants and Auditors,0.3478,13-2011.02,Auditors,Business and Financial Operations,True,False,4.0,70500.0,146000.0,-1.0,Accountants and Auditors,13-0000
+13-2031,Budget Analysts,0.0672,13-2031.00,Budget Analysts,Business and Financial Operations,False,False,4.0,76220.0,4800.0,94.0,,13-0000
+13-2041,Credit Analysts,0.1685,13-2041.00,Credit Analysts,Business and Financial Operations,False,False,4.0,71520.0,7400.0,98.0,,13-0000
+13-2051,Financial and Investment Analysts,0.5716,13-2051.00,Financial Analysts,Business and Financial Operations,False,True,4.0,85660.0,30900.0,23.0,,13-0000
+13-2052,Personal Financial Advisors,0.3504,13-2052.00,Personal Financial Advisors,Business and Financial Operations,True,True,4.0,88890.0,23200.0,58.0,,13-0000
+13-2053,Insurance Underwriters,0.0625,13-2053.00,Insurance Underwriters,Business and Financial Operations,False,False,4.0,69380.0,8400.0,99.0,,13-0000
+13-2054,Financial Risk Specialists,0.2649,,,,,,,,,,,13-0000
+13-2061,Financial Examiners,0.0428,13-2061.00,Financial Examiners,Business and Financial Operations,True,False,4.0,80180.0,5200.0,17.0,,13-0000
+13-2071,Credit Counselors,0.2341,13-2071.00,Credit Counselors,Business and Financial Operations,True,False,4.0,45180.0,3800.0,4.0,,13-0000
+13-2071,Credit Counselors,0.2341,13-2071.01,Loan Counselors,Business and Financial Operations,True,False,4.0,45180.0,3800.0,-1.0,Credit Counselors,13-0000
+13-2072,Loan Officers,0.1857,13-2072.00,Loan Officers,Business and Financial Operations,True,False,3.0,63040.0,29900.0,98.0,,13-0000
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",0.0275,13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",Business and Financial Operations,False,False,3.0,54440.0,4600.0,93.0,,13-0000
+13-2082,Tax Preparers,0.1283,13-2082.00,Tax Preparers,Business and Financial Operations,False,False,3.0,39390.0,10600.0,99.0,,13-0000
+13-2099,"Financial Specialists, All Other",0.2202,13-2099.01,Financial Quantitative Analysts,Business and Financial Operations,False,True,5.0,70280.0,13700.0,-1.0,"Financial Specialists, All Other",13-0000
+13-2099,"Financial Specialists, All Other",0.2202,13-2099.00,"Financial Specialists, All Other",Business and Financial Operations,False,False,-1.0,70280.0,13700.0,33.0,,13-0000
+13-2099,"Financial Specialists, All Other",0.2202,13-2099.04,"Fraud Examiners, Investigators and Analysts",Business and Financial Operations,False,False,4.0,70280.0,13700.0,-1.0,"Financial Specialists, All Other",13-0000
+13-2099,"Financial Specialists, All Other",0.2202,13-2099.03,Investment Underwriters,Business and Financial Operations,False,True,-1.0,70280.0,13700.0,-1.0,"Financial Specialists, All Other",13-0000
+13-2099,"Financial Specialists, All Other",0.2202,13-2099.02,Risk Management Specialists,Business and Financial Operations,False,True,4.0,70280.0,13700.0,-1.0,"Financial Specialists, All Other",13-0000
+15-1211,Computer Systems Analysts,0.2763,,,,,,,,,,,15-0000
+15-1212,Information Security Analysts,0.4859,,,,,,,,,,,15-0000
+15-1221,Computer and Information Research Scientists,0.3404,,,,,,,,,,,15-0000
+15-1231,Computer Network Support Specialists,0.2867,,,,,,,,,,,15-0000
+15-1232,Computer User Support Specialists,0.4685,,,,,,,,,,,15-0000
+15-1241,Computer Network Architects,0.1987,,,,,,,,,,,15-0000
+15-1242,Database Administrators,0.3315,,,,,,,,,,,15-0000
+15-1243,Database Architects,0.5787,,,,,,,,,,,15-0000
+15-1244,Network and Computer Systems Administrators,0.3373,,,,,,,,,,,15-0000
+15-1251,Computer Programmers,0.7451,,,,,,,,,,,15-0000
+15-1252,Software Developers,0.288,,,,,,,,,,,15-0000
+15-1253,Software Quality Assurance Analysts and Testers,0.5195,,,,,,,,,,,15-0000
+15-1254,Web Developers,0.4802,,,,,,,,,,,15-0000
+15-1255,Web and Digital Interface Designers,0.249,,,,,,,,,,,15-0000
+15-1299,"Computer Occupations, All Other",0.3106,,,,,,,,,,,15-0000
+15-2011,Actuaries,0.0539,15-2011.00,Actuaries,Computer and Mathematical,True,False,4.0,102880.0,2200.0,21.0,,15-0000
+15-2021,Mathematicians,0.4241,15-2021.00,Mathematicians,Computer and Mathematical,True,False,5.0,101900.0,300.0,5.0,,15-0000
+15-2031,Operations Research Analysts,0.4288,15-2031.00,Operations Research Analysts,Computer and Mathematical,True,False,5.0,83390.0,10900.0,4.0,,15-0000
+15-2041,Statisticians,0.2107,15-2041.01,Biostatisticians,Computer and Mathematical,True,False,5.0,87780.0,5300.0,-1.0,Statisticians,15-0000
+15-2041,Statisticians,0.2107,15-2041.02,Clinical Data Managers,Computer and Mathematical,True,False,4.0,87780.0,5300.0,-1.0,Statisticians,15-0000
+15-2041,Statisticians,0.2107,15-2041.00,Statisticians,Computer and Mathematical,True,False,5.0,87780.0,5300.0,22.0,,15-0000
+15-2051,Data Scientists,0.4605,,,,,,,,,,,15-0000
+15-2099,"Mathematical Science Occupations, All Other",0.4793,15-2099.00,"Mathematical Science Occupations, All Other",Computer and Mathematical,False,False,-1.0,57190.0,200.0,-1.0,Miscellaneous Mathematical Science Occupations,15-0000
+17-1011,"Architects, Except Landscape and Naval",0.0784,17-1011.00,"Architects, Except Landscape and Naval",Architecture and Engineering,True,True,4.0,79380.0,11800.0,1.8,,17-0000
+17-1012,Landscape Architects,0.0,17-1012.00,Landscape Architects,Architecture and Engineering,False,True,4.0,68230.0,1900.0,5.0,,17-0000
+17-1021,Cartographers and Photogrammetrists,0.08,17-1021.00,Cartographers and Photogrammetrists,Architecture and Engineering,True,False,4.0,64430.0,1100.0,88.0,,17-0000
+17-1022,Surveyors,0.0022,17-1022.01,Geodetic Surveyors,Architecture and Engineering,False,False,4.0,62580.0,4000.0,-1.0,Surveyors,17-0000
+17-1022,Surveyors,0.0022,17-1022.00,Surveyors,Architecture and Engineering,False,False,4.0,62580.0,4000.0,38.0,,17-0000
+17-2011,Aerospace Engineers,0.0753,17-2011.00,Aerospace Engineers,Architecture and Engineering,False,True,4.0,115220.0,4500.0,1.7,,17-0000
+17-2021,Agricultural Engineers,0.0,17-2021.00,Agricultural Engineers,Architecture and Engineering,False,False,4.0,77110.0,200.0,49.0,,17-0000
+17-2031,Bioengineers and Biomedical Engineers,0.1328,17-2031.00,Biomedical Engineers,Architecture and Engineering,False,False,4.0,88550.0,1500.0,4.0,,17-0000
+17-2041,Chemical Engineers,0.0,17-2041.00,Chemical Engineers,Architecture and Engineering,False,True,4.0,104910.0,2400.0,1.7,,17-0000
+17-2051,Civil Engineers,0.0081,17-2051.00,Civil Engineers,Architecture and Engineering,False,True,4.0,86640.0,28300.0,1.9,,17-0000
+17-2051,Civil Engineers,0.0081,17-2051.01,Transportation Engineers,Architecture and Engineering,False,True,4.0,86640.0,28300.0,-1.0,Civil Engineers,17-0000
+17-2061,Computer Hardware Engineers,0.1453,17-2061.00,Computer Hardware Engineers,Architecture and Engineering,False,False,4.0,114600.0,5200.0,22.0,,17-0000
+17-2071,Electrical Engineers,0.059,17-2071.00,Electrical Engineers,Architecture and Engineering,False,True,4.0,96640.0,13900.0,10.0,,17-0000
+17-2072,"Electronics Engineers, Except Computer",0.0999,17-2072.00,"Electronics Engineers, Except Computer",Architecture and Engineering,False,True,4.0,102700.0,9000.0,3.0,,17-0000
+17-2072,"Electronics Engineers, Except Computer",0.0999,17-2072.01,Radio Frequency Identification Device Specialists,Architecture and Engineering,False,False,4.0,102700.0,9000.0,-1.0,"Electronics Engineers, Except Computer",17-0000
+17-2081,Environmental Engineers,0.0358,17-2081.00,Environmental Engineers,Architecture and Engineering,False,True,5.0,87620.0,4600.0,1.8,,17-0000
+17-2081,Environmental Engineers,0.0358,17-2081.01,Water/Wastewater Engineers,Architecture and Engineering,False,True,4.0,87620.0,4600.0,-1.0,Environmental Engineers,17-0000
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.0,17-2111.02,Fire-Prevention and Protection Engineers,Architecture and Engineering,False,False,4.0,89130.0,2000.0,-1.0,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-0000
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.0,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Architecture and Engineering,False,False,-1.0,89130.0,2000.0,3.0,,17-0000
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.0,17-2111.01,Industrial Safety and Health Engineers,Architecture and Engineering,False,True,4.0,89130.0,2000.0,-1.0,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-0000
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.0,17-2111.03,Product Safety Engineers,Architecture and Engineering,False,False,4.0,89130.0,2000.0,-1.0,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-0000
+17-2112,Industrial Engineers,0.0367,17-2112.01,Human Factors Engineers and Ergonomists,Architecture and Engineering,True,False,5.0,87040.0,22600.0,-1.0,Industrial Engineers,17-0000
+17-2112,Industrial Engineers,0.0367,17-2112.00,Industrial Engineers,Architecture and Engineering,True,True,4.0,87040.0,22600.0,3.0,,17-0000
+17-2121,Marine Engineers and Naval Architects,0.0358,17-2121.02,Marine Architects,Architecture and Engineering,True,False,4.0,92560.0,800.0,-1.0,Marine Engineers and Naval Architects,17-0000
+17-2121,Marine Engineers and Naval Architects,0.0358,17-2121.01,Marine Engineers,Architecture and Engineering,True,False,4.0,92560.0,800.0,-1.0,Marine Engineers and Naval Architects,17-0000
+17-2121,Marine Engineers and Naval Architects,0.0358,17-2121.00,Marine Engineers and Naval Architects,Architecture and Engineering,True,False,-1.0,92560.0,800.0,1.0,,17-0000
+17-2131,Materials Engineers,0.0,17-2131.00,Materials Engineers,Architecture and Engineering,False,False,4.0,92390.0,1700.0,2.0,,17-0000
+17-2141,Mechanical Engineers,0.0813,17-2141.02,Automotive Engineers,Architecture and Engineering,False,True,4.0,87370.0,22900.0,-1.0,Mechanical Engineers,17-0000
+17-2141,Mechanical Engineers,0.0813,17-2141.01,Fuel Cell Engineers,Architecture and Engineering,False,True,5.0,87370.0,22900.0,-1.0,Mechanical Engineers,17-0000
+17-2141,Mechanical Engineers,0.0813,17-2141.00,Mechanical Engineers,Architecture and Engineering,False,True,4.0,87370.0,22900.0,1.1,,17-0000
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",0.0,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",Architecture and Engineering,False,False,4.0,92250.0,500.0,14.0,,17-0000
+17-2161,Nuclear Engineers,0.0,17-2161.00,Nuclear Engineers,Architecture and Engineering,False,True,4.0,107600.0,1100.0,7.0,,17-0000
+17-2171,Petroleum Engineers,0.0,17-2171.00,Petroleum Engineers,Architecture and Engineering,False,False,4.0,137170.0,2500.0,16.0,,17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.01,Biochemical Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.03,Energy Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.00,"Engineers, All Other",Architecture and Engineering,False,False,-1.0,96980.0,11700.0,1.4,,17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.04,Manufacturing Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.05,Mechatronics Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.06,Microsystems Engineers,Architecture and Engineering,False,True,5.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.09,Nanosystems Engineers,Architecture and Engineering,False,True,5.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.07,Photonics Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.08,Robotics Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.11,Solar Energy Systems Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.02,Validation Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-2199,"Engineers, All Other",0.0659,17-2199.10,Wind Energy Engineers,Architecture and Engineering,False,True,4.0,96980.0,11700.0,-1.0,"Engineers, All Other",17-0000
+17-3011,Architectural and Civil Drafters,0.0,17-3011.00,Architectural and Civil Drafters,Architecture and Engineering,False,False,-1.0,54920.0,10700.0,52.0,,17-0000
+17-3011,Architectural and Civil Drafters,0.0,17-3011.01,Architectural Drafters,Architecture and Engineering,False,True,4.0,54920.0,10700.0,-1.0,Architectural and Civil Drafters,17-0000
+17-3011,Architectural and Civil Drafters,0.0,17-3011.02,Civil Drafters,Architecture and Engineering,False,False,3.0,54920.0,10700.0,-1.0,Architectural and Civil Drafters,17-0000
+17-3012,Electrical and Electronics Drafters,0.0889,17-3012.00,Electrical and Electronics Drafters,Architecture and Engineering,False,False,-1.0,60070.0,2800.0,81.0,,17-0000
+17-3012,Electrical and Electronics Drafters,0.0889,17-3012.02,Electrical Drafters,Architecture and Engineering,False,False,3.0,60070.0,2800.0,-1.0,Electrical and Electronics Drafters,17-0000
+17-3012,Electrical and Electronics Drafters,0.0889,17-3012.01,Electronic Drafters,Architecture and Engineering,False,False,3.0,60070.0,2800.0,-1.0,Electrical and Electronics Drafters,17-0000
+17-3013,Mechanical Drafters,0.0,17-3013.00,Mechanical Drafters,Architecture and Engineering,False,False,3.0,55920.0,5400.0,68.0,,17-0000
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,0.0,17-3021.00,Aerospace Engineering and Operations Technicians,Architecture and Engineering,False,False,3.0,67010.0,1100.0,48.0,,17-0000
+17-3022,Civil Engineering Technologists and Technicians,0.0776,17-3022.00,Civil Engineering Technicians,Architecture and Engineering,False,False,3.0,52580.0,7700.0,75.0,,17-0000
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,0.0202,17-3023.00,Electrical and Electronic Engineering Technicians,Architecture and Engineering,False,False,-1.0,64330.0,12700.0,-1.0,,17-0000
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,0.0202,17-3023.03,Electrical Engineering Technicians,Architecture and Engineering,False,True,3.0,64330.0,12700.0,-1.0,Electrical and Electronic Engineering Technicians,17-0000
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,0.0202,17-3023.01,Electronics Engineering Technicians,Architecture and Engineering,False,True,3.0,64330.0,12700.0,-1.0,Electrical and Electronic Engineering Technicians,17-0000
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,0.0,17-3024.00,Electro-Mechanical Technicians,Architecture and Engineering,False,True,3.0,57790.0,1400.0,81.0,,17-0000
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,0.0,17-3024.01,Robotics Technicians,Architecture and Engineering,False,True,3.0,57790.0,1400.0,-1.0,Electro-Mechanical Technicians,17-0000
+17-3025,Environmental Engineering Technologists and Technicians,0.1029,17-3025.00,Environmental Engineering Technicians,Architecture and Engineering,True,True,4.0,50560.0,2000.0,25.0,,17-0000
+17-3026,Industrial Engineering Technologists and Technicians,0.0,17-3026.00,Industrial Engineering Technicians,Architecture and Engineering,False,True,3.0,55460.0,6600.0,3.0,,17-0000
+17-3027,Mechanical Engineering Technologists and Technicians,0.0683,17-3027.01,Automotive Engineering Technicians,Architecture and Engineering,False,True,3.0,56250.0,4300.0,-1.0,Mechanical Engineering Technicians,17-0000
+17-3027,Mechanical Engineering Technologists and Technicians,0.0683,17-3027.00,Mechanical Engineering Technicians,Architecture and Engineering,False,False,3.0,56250.0,4300.0,38.0,,17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.02,Electrical Engineering Technologists,Architecture and Engineering,False,True,4.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.03,Electromechanical Engineering Technologists,Architecture and Engineering,False,True,4.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.04,Electronics Engineering Technologists,Architecture and Engineering,False,True,3.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.00,"Engineering Technicians, Except Drafters, All Other",Architecture and Engineering,False,False,-1.0,63200.0,8800.0,24.0,,17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.10,Fuel Cell Technicians,Architecture and Engineering,False,True,-1.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.05,Industrial Engineering Technologists,Architecture and Engineering,False,True,4.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.06,Manufacturing Engineering Technologists,Architecture and Engineering,False,True,4.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.09,Manufacturing Production Technicians,Architecture and Engineering,False,True,3.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.07,Mechanical Engineering Technologists,Architecture and Engineering,False,True,3.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.12,Nanotechnology Engineering Technicians,Architecture and Engineering,False,True,3.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.11,Nanotechnology Engineering Technologists,Architecture and Engineering,False,True,4.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.01,Non-Destructive Testing Specialists,Architecture and Engineering,False,False,2.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",0.0,17-3029.08,Photonics Technicians,Architecture and Engineering,False,True,3.0,63200.0,8800.0,-1.0,"Engineering Technicians, Except Drafters, All Other",17-0000
+17-3031,Surveying and Mapping Technicians,0.0,17-3031.02,Mapping Technicians,Architecture and Engineering,False,False,3.0,44380.0,7200.0,-1.0,Surveying and Mapping Technicians,17-0000
+17-3031,Surveying and Mapping Technicians,0.0,17-3031.00,Surveying and Mapping Technicians,Architecture and Engineering,False,False,-1.0,44380.0,7200.0,96.0,,17-0000
+17-3031,Surveying and Mapping Technicians,0.0,17-3031.01,Surveying Technicians,Architecture and Engineering,False,False,3.0,44380.0,7200.0,-1.0,Surveying and Mapping Technicians,17-0000
+19-1011,Animal Scientists,0.0,19-1011.00,Animal Scientists,"Life, Physical, and Social Science",True,False,5.0,58380.0,300.0,6.0,,19-0000
+19-1012,Food Scientists and Technologists,0.0,19-1012.00,Food Scientists and Technologists,"Life, Physical, and Social Science",False,False,4.0,65300.0,1800.0,8.0,,19-0000
+19-1013,Soil and Plant Scientists,0.0513,19-1013.00,Soil and Plant Scientists,"Life, Physical, and Social Science",True,True,5.0,63950.0,2200.0,2.0,,19-0000
+19-1021,Biochemists and Biophysicists,0.0756,19-1021.00,Biochemists and Biophysicists,"Life, Physical, and Social Science",False,False,5.0,93280.0,3100.0,3.0,,19-0000
+19-1022,Microbiologists,0.0969,19-1022.00,Microbiologists,"Life, Physical, and Social Science",False,False,5.0,71650.0,2100.0,1.2,,19-0000
+19-1023,Zoologists and Wildlife Biologists,0.0606,19-1023.00,Zoologists and Wildlife Biologists,"Life, Physical, and Social Science",False,True,5.0,63420.0,1900.0,30.0,,19-0000
+19-1029,"Biological Scientists, All Other",0.2452,19-1029.01,Bioinformatics Scientists,"Life, Physical, and Social Science",False,False,5.0,79590.0,4700.0,-1.0,"Biological Scientists, All Other",19-0000
+19-1029,"Biological Scientists, All Other",0.2452,19-1029.00,"Biological Scientists, All Other","Life, Physical, and Social Science",False,False,-1.0,79590.0,4700.0,1.5,,19-0000
+19-1029,"Biological Scientists, All Other",0.2452,19-1029.03,Geneticists,"Life, Physical, and Social Science",False,False,5.0,79590.0,4700.0,-1.0,"Biological Scientists, All Other",19-0000
+19-1029,"Biological Scientists, All Other",0.2452,19-1029.02,Molecular and Cellular Biologists,"Life, Physical, and Social Science",False,False,5.0,79590.0,4700.0,-1.0,"Biological Scientists, All Other",19-0000
+19-1031,Conservation Scientists,0.0,19-1031.00,Conservation Scientists,"Life, Physical, and Social Science",False,False,-1.0,61310.0,2600.0,1.6,,19-0000
+19-1031,Conservation Scientists,0.0,19-1031.03,Park Naturalists,"Life, Physical, and Social Science",False,False,4.0,61310.0,2600.0,-1.0,Conservation Scientists,19-0000
+19-1031,Conservation Scientists,0.0,19-1031.02,Range Managers,"Life, Physical, and Social Science",False,False,4.0,61310.0,2600.0,-1.0,Conservation Scientists,19-0000
+19-1031,Conservation Scientists,0.0,19-1031.01,Soil and Water Conservationists,"Life, Physical, and Social Science",False,True,4.0,61310.0,2600.0,-1.0,Conservation Scientists,19-0000
+19-1032,Foresters,0.0,19-1032.00,Foresters,"Life, Physical, and Social Science",False,False,4.0,61410.0,1000.0,0.8,,19-0000
+19-1041,Epidemiologists,0.0,19-1041.00,Epidemiologists,"Life, Physical, and Social Science",False,False,5.0,69660.0,700.0,20.0,,19-0000
+19-1042,"Medical Scientists, Except Epidemiologists",0.0381,19-1042.00,"Medical Scientists, Except Epidemiologists","Life, Physical, and Social Science",True,False,5.0,84810.0,13200.0,0.5,,19-0000
+19-2011,Astronomers,0.3849,19-2011.00,Astronomers,"Life, Physical, and Social Science",False,False,5.0,105680.0,200.0,4.0,,19-0000
+19-2012,Physicists,0.2727,19-2012.00,Physicists,"Life, Physical, and Social Science",True,False,5.0,120950.0,1800.0,10.0,,19-0000
+19-2021,Atmospheric and Space Scientists,0.038,19-2021.00,Atmospheric and Space Scientists,"Life, Physical, and Social Science",True,True,4.0,94110.0,1100.0,67.0,,19-0000
+19-2031,Chemists,0.2614,19-2031.00,Chemists,"Life, Physical, and Social Science",False,True,4.0,76890.0,8400.0,10.0,,19-0000
+19-2032,Materials Scientists,0.1843,19-2032.00,Materials Scientists,"Life, Physical, and Social Science",False,True,5.0,99800.0,800.0,2.0,,19-0000
+19-2041,"Environmental Scientists and Specialists, Including Health",0.0548,19-2041.01,Climate Change Analysts,"Life, Physical, and Social Science",True,True,5.0,71130.0,10300.0,-1.0,"Environmental Scientists and Specialists, Including Health",19-0000
+19-2041,"Environmental Scientists and Specialists, Including Health",0.0548,19-2041.02,Environmental Restoration Planners,"Life, Physical, and Social Science",True,True,5.0,71130.0,10300.0,-1.0,"Environmental Scientists and Specialists, Including Health",19-0000
+19-2041,"Environmental Scientists and Specialists, Including Health",0.0548,19-2041.00,"Environmental Scientists and Specialists, Including Health","Life, Physical, and Social Science",True,True,4.0,71130.0,10300.0,3.0,,19-0000
+19-2041,"Environmental Scientists and Specialists, Including Health",0.0548,19-2041.03,Industrial Ecologists,"Life, Physical, and Social Science",True,True,5.0,71130.0,10300.0,-1.0,"Environmental Scientists and Specialists, Including Health",19-0000
+19-2042,"Geoscientists, Except Hydrologists and Geographers",0.043,19-2042.00,"Geoscientists, Except Hydrologists and Geographers","Life, Physical, and Social Science",False,True,4.0,91130.0,3600.0,63.0,,19-0000
+19-2043,Hydrologists,0.0748,19-2043.00,Hydrologists,"Life, Physical, and Social Science",True,True,5.0,79370.0,800.0,1.4,,19-0000
+19-2099,"Physical Scientists, All Other",0.0379,19-2099.00,"Physical Scientists, All Other","Life, Physical, and Social Science",False,False,-1.0,107230.0,1900.0,43.0,,19-0000
+19-2099,"Physical Scientists, All Other",0.0379,19-2099.01,Remote Sensing Scientists and Technologists,"Life, Physical, and Social Science",False,True,5.0,107230.0,1900.0,-1.0,"Physical Scientists, All Other",19-0000
+19-3011,Economists,0.2418,19-3011.00,Economists,"Life, Physical, and Social Science",True,False,5.0,104340.0,1800.0,43.0,,19-0000
+19-3011,Economists,0.2418,19-3011.01,Environmental Economists,"Life, Physical, and Social Science",True,True,5.0,104340.0,1800.0,-1.0,Economists,19-0000
+19-3022,Survey Researchers,0.4316,19-3022.00,Survey Researchers,"Life, Physical, and Social Science",False,False,5.0,57700.0,1500.0,23.0,,19-0000
+19-3032,Industrial-Organizational Psychologists,0.1577,19-3032.00,Industrial-Organizational Psychologists,"Life, Physical, and Social Science",True,False,5.0,97260.0,100.0,1.2,,19-0000
+19-3033,Clinical and Counseling Psychologists,0.0591,,,,,,,,,,,19-0000
+19-3034,School Psychologists,0.0467,,,,,,,,,,,19-0000
+19-3039,"Psychologists, All Other",0.0,19-3039.01,Neuropsychologists and Clinical Neuropsychologists,"Life, Physical, and Social Science",True,False,5.0,100770.0,1600.0,-1.0,"Psychologists, All Other",19-0000
+19-3039,"Psychologists, All Other",0.0,19-3039.00,"Psychologists, All Other","Life, Physical, and Social Science",True,False,-1.0,100770.0,1600.0,0.4,,19-0000
+19-3041,Sociologists,0.3833,19-3041.00,Sociologists,"Life, Physical, and Social Science",True,False,5.0,82050.0,400.0,6.0,,19-0000
+19-3051,Urban and Regional Planners,0.0959,19-3051.00,Urban and Regional Planners,"Life, Physical, and Social Science",True,True,5.0,73050.0,4200.0,13.0,,19-0000
+19-3091,Anthropologists and Archeologists,0.1354,19-3091.01,Anthropologists,"Life, Physical, and Social Science",True,False,5.0,62410.0,800.0,-1.0,Anthropologists and Archeologists,19-0000
+19-3091,Anthropologists and Archeologists,0.1354,19-3091.00,Anthropologists and Archeologists,"Life, Physical, and Social Science",True,False,-1.0,62410.0,800.0,0.8,,19-0000
+19-3091,Anthropologists and Archeologists,0.1354,19-3091.02,Archeologists,"Life, Physical, and Social Science",True,False,5.0,62410.0,800.0,-1.0,Anthropologists and Archeologists,19-0000
+19-3092,Geographers,0.1096,19-3092.00,Geographers,"Life, Physical, and Social Science",False,False,5.0,80300.0,200.0,25.0,,19-0000
+19-3093,Historians,0.028,19-3093.00,Historians,"Life, Physical, and Social Science",False,False,5.0,61140.0,400.0,44.0,,19-0000
+19-3094,Political Scientists,0.452,19-3094.00,Political Scientists,"Life, Physical, and Social Science",False,False,5.0,117570.0,800.0,4.0,,19-0000
+19-3099,"Social Scientists and Related Workers, All Other",0.0327,19-3099.00,"Social Scientists and Related Workers, All Other","Life, Physical, and Social Science",False,False,-1.0,81340.0,4800.0,4.0,,19-0000
+19-3099,"Social Scientists and Related Workers, All Other",0.0327,19-3099.01,Transportation Planners,"Life, Physical, and Social Science",False,True,4.0,81340.0,4800.0,-1.0,"Social Scientists and Related Workers, All Other",19-0000
+19-4012,Agricultural Technicians,0.0058,,,,,,,,,,,19-0000
+19-4013,Food Science Technicians,0.2038,,,,,,,,,,,19-0000
+19-4021,Biological Technicians,0.0599,19-4021.00,Biological Technicians,"Life, Physical, and Social Science",True,False,4.0,44500.0,9800.0,30.0,,19-0000
+19-4031,Chemical Technicians,0.3148,19-4031.00,Chemical Technicians,"Life, Physical, and Social Science",False,True,3.0,48160.0,7200.0,57.0,,19-0000
+19-4042,"Environmental Science and Protection Technicians, Including Health",0.1444,,,,,,,,,,,19-0000
+19-4043,"Geological Technicians, Except Hydrologic Technicians",0.229,,,,,,,,,,,19-0000
+19-4051,Nuclear Technicians,0.0,19-4051.01,Nuclear Equipment Operation Technicians,"Life, Physical, and Social Science",False,True,3.0,79140.0,900.0,-1.0,Nuclear Technicians,19-0000
+19-4051,Nuclear Technicians,0.0,19-4051.02,Nuclear Monitoring Technicians,"Life, Physical, and Social Science",False,False,3.0,79140.0,900.0,-1.0,Nuclear Technicians,19-0000
+19-4051,Nuclear Technicians,0.0,19-4051.00,Nuclear Technicians,"Life, Physical, and Social Science",False,False,-1.0,79140.0,900.0,85.0,,19-0000
+19-4061,Social Science Research Assistants,0.4393,19-4061.01,City and Regional Planning Aides,"Life, Physical, and Social Science",True,False,4.0,46640.0,5300.0,-1.0,Social Science Research Assistants,19-0000
+19-4061,Social Science Research Assistants,0.4393,19-4061.00,Social Science Research Assistants,"Life, Physical, and Social Science",True,False,4.0,46640.0,5300.0,65.0,,19-0000
+19-4071,Forest and Conservation Technicians,0.0221,,,,,,,,,,,19-0000
+19-4092,Forensic Science Technicians,0.0,19-4092.00,Forensic Science Technicians,"Life, Physical, and Social Science",True,False,4.0,58230.0,2400.0,1.0,,19-0000
+19-4099,"Life, Physical, and Social Science Technicians, All Other",0.0955,19-4099.00,"Life, Physical, and Social Science Technicians, All Other","Life, Physical, and Social Science",True,False,-1.0,49670.0,9400.0,61.0,,19-0000
+19-4099,"Life, Physical, and Social Science Technicians, All Other",0.0955,19-4099.02,Precision Agriculture Technicians,"Life, Physical, and Social Science",True,True,4.0,49670.0,9400.0,-1.0,"Life, Physical, and Social Science Technicians, All Other",19-0000
+19-4099,"Life, Physical, and Social Science Technicians, All Other",0.0955,19-4099.01,Quality Control Analysts,"Life, Physical, and Social Science",True,False,3.0,49670.0,9400.0,-1.0,"Life, Physical, and Social Science Technicians, All Other",19-0000
+19-4099,"Life, Physical, and Social Science Technicians, All Other",0.0955,19-4099.03,Remote Sensing Technicians,"Life, Physical, and Social Science",True,True,4.0,49670.0,9400.0,-1.0,"Life, Physical, and Social Science Technicians, All Other",19-0000
+19-5011,Occupational Health and Safety Specialists,0.0,,,,,,,,,,,19-0000
+19-5012,Occupational Health and Safety Technicians,0.0,,,,,,,,,,,19-0000
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",0.1182,21-1012.00,"Educational, Guidance, School, and Vocational Counselors",Community and Social Service,True,False,5.0,56310.0,37300.0,0.9,,21-0000
+21-1013,Marriage and Family Therapists,0.0,21-1013.00,Marriage and Family Therapists,Community and Social Service,True,False,5.0,50090.0,7500.0,1.4,,21-0000
+21-1015,Rehabilitation Counselors,0.0,21-1015.00,Rehabilitation Counselors,Community and Social Service,True,False,5.0,35630.0,14000.0,0.9,,21-0000
+21-1021,"Child, Family, and School Social Workers",0.0074,21-1021.00,"Child, Family, and School Social Workers",Community and Social Service,True,False,4.0,46270.0,36900.0,3.0,,21-0000
+21-1022,Healthcare Social Workers,0.0916,21-1022.00,Healthcare Social Workers,Community and Social Service,True,False,5.0,56200.0,22200.0,0.4,,21-0000
+21-1023,Mental Health and Substance Abuse Social Workers,0.0,21-1023.00,Mental Health and Substance Abuse Social Workers,Community and Social Service,True,False,5.0,44840.0,15500.0,0.3,,21-0000
+21-1091,Health Education Specialists,0.1376,21-1091.00,Health Educators,Community and Social Service,True,False,4.0,54220.0,8000.0,5.0,,21-0000
+21-1092,Probation Officers and Correctional Treatment Specialists,0.0,21-1092.00,Probation Officers and Correctional Treatment Specialists,Community and Social Service,False,False,4.0,53020.0,8200.0,25.0,,21-0000
+21-1093,Social and Human Service Assistants,0.0,21-1093.00,Social and Human Service Assistants,Community and Social Service,True,False,4.0,33750.0,57500.0,13.0,,21-0000
+21-1094,Community Health Workers,0.0,21-1094.00,Community Health Workers,Community and Social Service,True,False,4.0,39540.0,8200.0,-1.0,,21-0000
+21-2011,Clergy,0.1116,21-2011.00,Clergy,Community and Social Service,False,False,5.0,48990.0,27500.0,0.8,,21-0000
+21-2021,"Directors, Religious Activities and Education",0.153,21-2021.00,"Directors, Religious Activities and Education",Community and Social Service,False,False,4.0,40810.0,20900.0,3.0,,21-0000
+23-1011,Lawyers,0.1673,23-1011.00,Lawyers,Legal,False,False,5.0,120910.0,45700.0,4.0,,23-0000
+23-1012,Judicial Law Clerks,0.1704,23-1012.00,Judicial Law Clerks,Legal,False,False,5.0,53540.0,800.0,41.0,,23-0000
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.3048,23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",Legal,False,False,5.0,99850.0,800.0,64.0,,23-0000
+23-1022,"Arbitrators, Mediators, and Conciliators",0.2426,23-1022.00,"Arbitrators, Mediators, and Conciliators",Legal,True,True,5.0,62270.0,400.0,6.0,,23-0000
+23-1023,"Judges, Magistrate Judges, and Magistrates",0.3109,23-1023.00,"Judges, Magistrate Judges, and Magistrates",Legal,False,False,5.0,133920.0,1500.0,40.0,,23-0000
+23-2011,Paralegals and Legal Assistants,0.2927,23-2011.00,Paralegals and Legal Assistants,Legal,True,False,3.0,50940.0,40400.0,94.0,,23-0000
+23-2093,"Title Examiners, Abstractors, and Searchers",0.0216,23-2093.00,"Title Examiners, Abstractors, and Searchers",Legal,False,False,2.0,47130.0,5500.0,99.0,,23-0000
+25-1011,"Business Teachers, Postsecondary",0.3072,25-1011.00,"Business Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,83960.0,11200.0,-1.0,,25-0000
+25-1021,"Computer Science Teachers, Postsecondary",0.2414,25-1021.00,"Computer Science Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,82220.0,3600.0,-1.0,,25-0000
+25-1022,"Mathematical Science Teachers, Postsecondary",0.4305,25-1022.00,"Mathematical Science Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,73230.0,5300.0,-1.0,,25-0000
+25-1031,"Architecture Teachers, Postsecondary",0.0,25-1031.00,"Architecture Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,86980.0,800.0,-1.0,,25-0000
+25-1032,"Engineering Teachers, Postsecondary",0.3589,25-1032.00,"Engineering Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,101720.0,4700.0,-1.0,,25-0000
+25-1041,"Agricultural Sciences Teachers, Postsecondary",0.0,25-1041.00,"Agricultural Sciences Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,84640.0,1200.0,-1.0,,25-0000
+25-1042,"Biological Science Teachers, Postsecondary",0.2914,25-1042.00,"Biological Science Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,82550.0,6400.0,-1.0,,25-0000
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",0.0206,25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,86900.0,200.0,-1.0,,25-0000
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0.0396,25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,90860.0,1200.0,-1.0,,25-0000
+25-1052,"Chemistry Teachers, Postsecondary",0.2185,25-1052.00,"Chemistry Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,79550.0,2400.0,-1.0,,25-0000
+25-1053,"Environmental Science Teachers, Postsecondary",0.0232,25-1053.00,"Environmental Science Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,79910.0,700.0,-1.0,,25-0000
+25-1054,"Physics Teachers, Postsecondary",0.0,25-1054.00,"Physics Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,90800.0,1600.0,-1.0,,25-0000
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",0.0236,25-1061.00,"Anthropology and Archeology Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,83940.0,700.0,-1.0,,25-0000
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",0.0,25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,74440.0,1200.0,-1.0,,25-0000
+25-1063,"Economics Teachers, Postsecondary",0.0,25-1063.00,"Economics Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,101480.0,1500.0,-1.0,,25-0000
+25-1064,"Geography Teachers, Postsecondary",0.0,25-1064.00,"Geography Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,80350.0,400.0,-1.0,,25-0000
+25-1065,"Political Science Teachers, Postsecondary",0.0,25-1065.00,"Political Science Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,83370.0,1900.0,-1.0,,25-0000
+25-1066,"Psychology Teachers, Postsecondary",0.3219,25-1066.00,"Psychology Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,76710.0,4800.0,-1.0,,25-0000
+25-1067,"Sociology Teachers, Postsecondary",0.0,25-1067.00,"Sociology Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,74140.0,1600.0,-1.0,,25-0000
+25-1071,"Health Specialties Teachers, Postsecondary",0.3045,25-1071.00,"Health Specialties Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,97370.0,29400.0,-1.0,,25-0000
+25-1072,"Nursing Instructors and Teachers, Postsecondary",0.1909,25-1072.00,"Nursing Instructors and Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,73490.0,7700.0,-1.0,,25-0000
+25-1081,"Education Teachers, Postsecondary",0.2621,25-1081.00,"Education Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,64780.0,7400.0,-1.0,,25-0000
+25-1082,"Library Science Teachers, Postsecondary",0.018,25-1082.00,"Library Science Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,71560.0,500.0,-1.0,,25-0000
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",0.0,25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,61900.0,1700.0,-1.0,,25-0000
+25-1112,"Law Teachers, Postsecondary",0.0,25-1112.00,"Law Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,111140.0,2200.0,-1.0,,25-0000
+25-1113,"Social Work Teachers, Postsecondary",0.0,25-1113.00,"Social Work Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,68300.0,1500.0,-1.0,,25-0000
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",0.2142,25-1121.00,"Art, Drama, and Music Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,69960.0,11100.0,-1.0,,25-0000
+25-1122,"Communications Teachers, Postsecondary",0.2111,25-1122.00,"Communications Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,68910.0,3200.0,-1.0,,25-0000
+25-1123,"English Language and Literature Teachers, Postsecondary",0.3618,25-1123.00,"English Language and Literature Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,66590.0,7300.0,-1.0,,25-0000
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",0.2403,25-1124.00,"Foreign Language and Literature Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,67640.0,3000.0,-1.0,,25-0000
+25-1125,"History Teachers, Postsecondary",0.0994,25-1125.00,"History Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,74590.0,2400.0,-1.0,,25-0000
+25-1126,"Philosophy and Religion Teachers, Postsecondary",0.2197,25-1126.00,"Philosophy and Religion Teachers, Postsecondary","Education, Training, and Library",True,False,5.0,71890.0,3100.0,-1.0,,25-0000
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary",0.0,25-1192.00,"Home Economics Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,71380.0,200.0,-1.0,,25-0000
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",0.1138,25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary","Education, Training, and Library",False,False,5.0,62620.0,1800.0,-1.0,,25-0000
+25-1194,"Career/Technical Education Teachers, Postsecondary",0.1563,25-1194.00,"Vocational Education Teachers, Postsecondary","Education, Training, and Library",False,False,3.0,53120.0,9800.0,-1.0,,25-0000
+25-2011,"Preschool Teachers, Except Special Education",0.0,25-2011.00,"Preschool Teachers, Except Special Education","Education, Training, and Library",True,False,3.0,29780.0,58100.0,0.7,,25-0000
+25-2012,"Kindergarten Teachers, Except Special Education",0.0,25-2012.00,"Kindergarten Teachers, Except Special Education","Education, Training, and Library",False,False,4.0,55470.0,14300.0,15.0,,25-0000
+25-2021,"Elementary School Teachers, Except Special Education",0.103,25-2021.00,"Elementary School Teachers, Except Special Education","Education, Training, and Library",True,False,4.0,58230.0,112400.0,0.4,,25-0000
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",0.2972,25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education","Education, Training, and Library",False,False,4.0,58600.0,48300.0,-1.0,,25-0000
+25-2023,"Career/Technical Education Teachers, Middle School",0.0,25-2023.00,"Career/Technical Education Teachers, Middle School","Education, Training, and Library",False,False,4.0,59230.0,900.0,26.0,,25-0000
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",0.2901,25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education","Education, Training, and Library",False,False,4.0,60320.0,80300.0,-1.0,,25-0000
+25-2032,"Career/Technical Education Teachers, Secondary School",0.0,25-2032.00,"Career/Technical Education Teachers, Secondary School","Education, Training, and Library",False,False,4.0,60250.0,5600.0,0.9,,25-0000
+25-2051,"Special Education Teachers, Preschool",0.0058,25-2051.00,"Special Education Teachers, Preschool","Education, Training, and Library",True,False,5.0,55840.0,2100.0,-1.0,,25-0000
+25-2057,"Special Education Teachers, Middle School",0.134,,,,,,,,,,,25-0000
+25-2058,"Special Education Teachers, Secondary School",0.0989,,,,,,,,,,,25-0000
+25-2059,"Special Education Teachers, All Other",0.0257,25-2059.01,Adapted Physical Education Specialists,"Education, Training, and Library",True,False,4.0,56680.0,3200.0,-1.0,"Special Education Teachers, All Other",25-0000
+25-2059,"Special Education Teachers, All Other",0.0257,25-2059.00,"Special Education Teachers, All Other","Education, Training, and Library",True,False,-1.0,56680.0,3200.0,-1.0,,25-0000
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.0636,25-3011.00,Adult Basic and Secondary Education and Literacy Teachers and Instructors,"Education, Training, and Library",False,False,4.0,53630.0,6600.0,19.0,,25-0000
+25-3021,Self-Enrichment Teachers,0.0662,25-3021.00,Self-Enrichment Education Teachers,"Education, Training, and Library",True,False,3.0,38720.0,49000.0,13.0,,25-0000
+25-3041,Tutors,0.4077,,,,,,,,,,,25-0000
+25-4011,Archivists,0.1348,25-4011.00,Archivists,"Education, Training, and Library",True,False,5.0,52240.0,1000.0,76.0,,25-0000
+25-4012,Curators,0.4123,25-4012.00,Curators,"Education, Training, and Library",True,False,5.0,53780.0,1700.0,0.7,,25-0000
+25-4013,Museum Technicians and Conservators,0.0,25-4013.00,Museum Technicians and Conservators,"Education, Training, and Library",True,False,4.0,43020.0,1800.0,59.0,,25-0000
+25-4022,Librarians and Media Collections Specialists,0.2032,,,,,,,,,,,25-0000
+25-4031,Library Technicians,0.054,25-4031.00,Library Technicians,"Education, Training, and Library",False,False,3.0,34040.0,14000.0,99.0,,25-0000
+25-9021,Farm and Home Management Educators,0.0,25-9021.00,Farm and Home Management Advisors,"Education, Training, and Library",False,True,5.0,49840.0,1000.0,0.8,,25-0000
+25-9031,Instructional Coordinators,0.3043,25-9031.00,Instructional Coordinators,"Education, Training, and Library",False,False,5.0,64450.0,18600.0,0.4,,25-0000
+25-9031,Instructional Coordinators,0.3043,25-9031.01,Instructional Designers and Technologists,"Education, Training, and Library",False,False,5.0,64450.0,18600.0,-1.0,Instructional Coordinators,25-0000
+25-9044,"Teaching Assistants, Postsecondary",0.1002,,,,,,,,,,,25-0000
+27-1011,Art Directors,0.2098,27-1011.00,Art Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,92780.0,11100.0,2.0,,27-0000
+27-1012,Craft Artists,0.0539,27-1012.00,Craft Artists,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,34240.0,1100.0,4.0,,27-0000
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.3565,27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators","Arts, Design, Entertainment, Sports, and Media",False,False,3.0,49380.0,3100.0,4.0,,27-0000
+27-1014,Special Effects Artists and Animators,0.3571,27-1014.00,Multimedia Artists and Animators,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,72520.0,8300.0,1.5,,27-0000
+27-1021,Commercial and Industrial Designers,0.0437,27-1021.00,Commercial and Industrial Designers,"Arts, Design, Entertainment, Sports, and Media",False,True,4.0,66590.0,4600.0,4.0,,27-0000
+27-1022,Fashion Designers,0.0568,27-1022.00,Fashion Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,72720.0,2600.0,2.0,,27-0000
+27-1023,Floral Designers,0.0,27-1023.00,Floral Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,2.0,27200.0,4400.0,5.0,,27-0000
+27-1024,Graphic Designers,0.3672,27-1024.00,Graphic Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,50370.0,30300.0,8.0,,27-0000
+27-1025,Interior Designers,0.0,27-1025.00,Interior Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,53370.0,8000.0,2.0,,27-0000
+27-1026,Merchandise Displayers and Window Trimmers,0.0,27-1026.00,Merchandise Displayers and Window Trimmers,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,28450.0,17300.0,48.0,,27-0000
+27-1027,Set and Exhibit Designers,0.0,27-1027.00,Set and Exhibit Designers,"Arts, Design, Entertainment, Sports, and Media",False,False,5.0,54270.0,1500.0,0.6,,27-0000
+27-2011,Actors,0.1011,27-2011.00,Actors,"Arts, Design, Entertainment, Sports, and Media",False,False,2.0,17.54,7700.0,37.0,,27-0000
+27-2012,Producers and Directors,0.092,27-2012.02,"Directors- Stage, Motion Pictures, Television, and Radio","Arts, Design, Entertainment, Sports, and Media",False,False,4.0,71680.0,16000.0,-1.0,Producers and Directors,27-0000
+27-2012,Producers and Directors,0.092,27-2012.01,Producers,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,71680.0,16000.0,-1.0,Producers and Directors,27-0000
+27-2012,Producers and Directors,0.092,27-2012.00,Producers and Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,-1.0,71680.0,16000.0,2.0,,27-0000
+27-2012,Producers and Directors,0.092,27-2012.03,Program Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,71680.0,16000.0,-1.0,Producers and Directors,27-0000
+27-2012,Producers and Directors,0.092,27-2012.04,Talent Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,71680.0,16000.0,-1.0,Producers and Directors,27-0000
+27-2012,Producers and Directors,0.092,27-2012.05,Technical Directors/Managers,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,71680.0,16000.0,-1.0,Producers and Directors,27-0000
+27-2021,Athletes and Sports Competitors,0.0,27-2021.00,Athletes and Sports Competitors,"Arts, Design, Entertainment, Sports, and Media",False,False,2.0,50650.0,2100.0,28.0,,27-0000
+27-2022,Coaches and Scouts,0.0,27-2022.00,Coaches and Scouts,"Arts, Design, Entertainment, Sports, and Media",True,False,4.0,33780.0,47600.0,1.3,,27-0000
+27-2023,"Umpires, Referees, and Other Sports Officials",0.0,27-2023.00,"Umpires, Referees, and Other Sports Officials","Arts, Design, Entertainment, Sports, and Media",False,False,3.0,27020.0,3400.0,98.0,,27-0000
+27-2031,Dancers,0.0,27-2031.00,Dancers,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,16.31,2400.0,13.0,,27-0000
+27-2032,Choreographers,0.0801,27-2032.00,Choreographers,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,47800.0,1200.0,0.4,,27-0000
+27-2041,Music Directors and Composers,0.0368,27-2041.04,Music Composers and Arrangers,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,49630.0,7800.0,-1.0,Music Directors and Composers,27-0000
+27-2041,Music Directors and Composers,0.0368,27-2041.01,Music Directors,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,49630.0,7800.0,-1.0,Music Directors and Composers,27-0000
+27-2041,Music Directors and Composers,0.0368,27-2041.00,Music Directors and Composers,"Arts, Design, Entertainment, Sports, and Media",False,False,-1.0,49630.0,7800.0,1.5,,27-0000
+27-2042,Musicians and Singers,0.0,27-2042.00,Musicians and Singers,"Arts, Design, Entertainment, Sports, and Media",False,False,-1.0,28.15,22400.0,7.0,,27-0000
+27-2042,Musicians and Singers,0.0,27-2042.02,"Musicians, Instrumental","Arts, Design, Entertainment, Sports, and Media",False,False,4.0,28.15,22400.0,-1.0,Musicians and Singers,27-0000
+27-2042,Musicians and Singers,0.0,27-2042.01,Singers,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,28.15,22400.0,-1.0,Musicians and Singers,27-0000
+27-3011,Broadcast Announcers and Radio Disc Jockeys,0.0634,27-3011.00,Radio and Television Announcers,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,33220.0,4000.0,10.0,,27-0000
+27-3023,"News Analysts, Reporters, and Journalists",0.2098,,,,,,,,,,,27-0000
+27-3031,Public Relations Specialists,0.453,27-3031.00,Public Relations Specialists,"Arts, Design, Entertainment, Sports, and Media",False,True,4.0,60000.0,30700.0,18.0,,27-0000
+27-3041,Editors,0.246,27-3041.00,Editors,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,59480.0,12400.0,6.0,,27-0000
+27-3042,Technical Writers,0.4747,27-3042.00,Technical Writers,"Arts, Design, Entertainment, Sports, and Media",True,False,4.0,71850.0,6100.0,89.0,,27-0000
+27-3043,Writers and Authors,0.2462,27-3043.04,Copy Writers,"Arts, Design, Entertainment, Sports, and Media",False,False,4.0,62170.0,12800.0,-1.0,Writers and Authors,27-0000
+27-3043,Writers and Authors,0.2462,27-3043.05,"Poets, Lyricists and Creative Writers","Arts, Design, Entertainment, Sports, and Media",False,False,4.0,62170.0,12800.0,-1.0,Writers and Authors,27-0000
+27-3043,Writers and Authors,0.2462,27-3043.00,Writers and Authors,"Arts, Design, Entertainment, Sports, and Media",False,False,-1.0,62170.0,12800.0,4.0,,27-0000
+27-3091,Interpreters and Translators,0.4304,27-3091.00,Interpreters and Translators,"Arts, Design, Entertainment, Sports, and Media",True,False,4.0,49930.0,9800.0,38.0,,27-0000
+27-3092,Court Reporters and Simultaneous Captioners,0.3431,,,,,,,,,,,27-0000
+27-4011,Audio and Video Technicians,0.0173,27-4011.00,Audio and Video Equipment Technicians,"Arts, Design, Entertainment, Sports, and Media",True,False,3.0,43770.0,11600.0,55.0,,27-0000
+27-4012,Broadcast Technicians,0.0197,27-4012.00,Broadcast Technicians,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,40080.0,3800.0,74.0,,27-0000
+27-4014,Sound Engineering Technicians,0.0,27-4014.00,Sound Engineering Technicians,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,52390.0,1700.0,13.0,,27-0000
+27-4021,Photographers,0.195,27-4021.00,Photographers,"Arts, Design, Entertainment, Sports, and Media",False,False,3.0,34000.0,11800.0,2.0,,27-0000
+27-4031,"Camera Operators, Television, Video, and Film",0.1651,27-4031.00,"Camera Operators, Television, Video, and Motion Picture","Arts, Design, Entertainment, Sports, and Media",True,False,3.0,54570.0,3200.0,60.0,,27-0000
+27-4032,Film and Video Editors,0.2234,27-4032.00,Film and Video Editors,"Arts, Design, Entertainment, Sports, and Media",True,False,3.0,62650.0,4700.0,31.0,,27-0000
+29-1011,Chiropractors,0.0,29-1011.00,Chiropractors,Healthcare Practitioners and Technical,True,False,5.0,71410.0,1800.0,3.0,,29-0000
+29-1021,"Dentists, General",0.0309,29-1021.00,"Dentists, General",Healthcare Practitioners and Technical,True,False,5.0,151850.0,5300.0,0.4,,29-0000
+29-1022,Oral and Maxillofacial Surgeons,0.0,29-1022.00,Oral and Maxillofacial Surgeons,Healthcare Practitioners and Technical,True,False,5.0,208000.0,200.0,0.4,,29-0000
+29-1023,Orthodontists,0.0,29-1023.00,Orthodontists,Healthcare Practitioners and Technical,True,False,5.0,208000.0,300.0,2.0,,29-0000
+29-1024,Prosthodontists,0.0,29-1024.00,Prosthodontists,Healthcare Practitioners and Technical,True,False,5.0,176540.0,0.0,6.0,,29-0000
+29-1031,Dietitians and Nutritionists,0.1328,29-1031.00,Dietitians and Nutritionists,Healthcare Practitioners and Technical,True,False,5.0,60370.0,5500.0,0.4,,29-0000
+29-1041,Optometrists,0.0,29-1041.00,Optometrists,Healthcare Practitioners and Technical,True,False,5.0,111790.0,1700.0,14.0,,29-0000
+29-1051,Pharmacists,0.0896,29-1051.00,Pharmacists,Healthcare Practitioners and Technical,False,False,5.0,126120.0,14100.0,1.2,,29-0000
+29-1071,Physician Assistants,0.0,29-1071.01,Anesthesiologist Assistants,Healthcare Practitioners and Technical,True,False,5.0,108610.0,11500.0,-1.0,Physician Assistants,29-0000
+29-1071,Physician Assistants,0.0,29-1071.00,Physician Assistants,Healthcare Practitioners and Technical,True,False,5.0,108610.0,11500.0,14.0,,29-0000
+29-1081,Podiatrists,0.0,29-1081.00,Podiatrists,Healthcare Practitioners and Technical,False,False,5.0,129550.0,700.0,0.5,,29-0000
+29-1122,Occupational Therapists,0.008,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Healthcare Practitioners and Technical,True,False,5.0,84270.0,10500.0,-1.0,Occupational Therapists,29-0000
+29-1122,Occupational Therapists,0.008,29-1122.00,Occupational Therapists,Healthcare Practitioners and Technical,True,False,5.0,84270.0,10500.0,0.4,,29-0000
+29-1123,Physical Therapists,0.0174,29-1123.00,Physical Therapists,Healthcare Practitioners and Technical,True,False,5.0,87930.0,16900.0,2.0,,29-0000
+29-1124,Radiation Therapists,0.0,29-1124.00,Radiation Therapists,Healthcare Practitioners and Technical,True,False,3.0,82330.0,1100.0,34.0,,29-0000
+29-1125,Recreational Therapists,0.0,29-1125.01,Art Therapists,Healthcare Practitioners and Technical,True,False,5.0,47860.0,1100.0,-1.0,Recreational Therapists,29-0000
+29-1125,Recreational Therapists,0.0,29-1125.02,Music Therapists,Healthcare Practitioners and Technical,True,False,4.0,47860.0,1100.0,-1.0,Recreational Therapists,29-0000
+29-1125,Recreational Therapists,0.0,29-1125.00,Recreational Therapists,Healthcare Practitioners and Technical,True,False,4.0,47860.0,1100.0,0.3,,29-0000
+29-1126,Respiratory Therapists,0.0,29-1126.00,Respiratory Therapists,Healthcare Practitioners and Technical,True,False,3.0,60280.0,10600.0,7.0,,29-0000
+29-1127,Speech-Language Pathologists,0.0,29-1127.00,Speech-Language Pathologists,Healthcare Practitioners and Technical,True,False,5.0,77510.0,13500.0,0.6,,29-0000
+29-1128,Exercise Physiologists,0.0,29-1128.00,Exercise Physiologists,Healthcare Practitioners and Technical,True,False,5.0,49270.0,1100.0,-1.0,,29-0000
+29-1129,"Therapists, All Other",0.0402,29-1129.00,"Therapists, All Other",Healthcare Practitioners and Technical,True,False,-1.0,50980.0,2200.0,-1.0,,29-0000
+29-1131,Veterinarians,0.0926,29-1131.00,Veterinarians,Healthcare Practitioners and Technical,True,False,5.0,93830.0,5100.0,4.0,,29-0000
+29-1141,Registered Nurses,0.0595,29-1141.01,Acute Care Nurses,Healthcare Practitioners and Technical,True,False,3.0,71730.0,210400.0,-1.0,Registered Nurses,29-0000
+29-1141,Registered Nurses,0.0595,29-1141.02,Advanced Practice Psychiatric Nurses,Healthcare Practitioners and Technical,True,False,5.0,71730.0,210400.0,-1.0,Registered Nurses,29-0000
+29-1141,Registered Nurses,0.0595,29-1141.04,Clinical Nurse Specialists,Healthcare Practitioners and Technical,True,False,5.0,71730.0,210400.0,-1.0,Registered Nurses,29-0000
+29-1141,Registered Nurses,0.0595,29-1141.03,Critical Care Nurses,Healthcare Practitioners and Technical,True,False,3.0,71730.0,210400.0,-1.0,Registered Nurses,29-0000
+29-1141,Registered Nurses,0.0595,29-1141.00,Registered Nurses,Healthcare Practitioners and Technical,True,False,3.0,71730.0,210400.0,0.9,,29-0000
+29-1151,Nurse Anesthetists,0.0,29-1151.00,Nurse Anesthetists,Healthcare Practitioners and Technical,True,False,5.0,167950.0,3200.0,-1.0,,29-0000
+29-1161,Nurse Midwives,0.052,29-1161.00,Nurse Midwives,Healthcare Practitioners and Technical,True,False,5.0,103770.0,500.0,-1.0,,29-0000
+29-1171,Nurse Practitioners,0.0944,29-1171.00,Nurse Practitioners,Healthcare Practitioners and Technical,True,False,5.0,107030.0,16900.0,-1.0,,29-0000
+29-1181,Audiologists,0.0,29-1181.00,Audiologists,Healthcare Practitioners and Technical,True,False,5.0,75920.0,800.0,0.3,,29-0000
+29-1211,Anesthesiologists,0.0,,,,,,,,,,,29-0000
+29-1213,Dermatologists,0.0,,,,,,,,,,,29-0000
+29-1215,Family Medicine Physicians,0.0,,,,,,,,,,,29-0000
+29-1216,General Internal Medicine Physicians,0.084,,,,,,,,,,,29-0000
+29-1217,Neurologists,0.0,,,,,,,,,,,29-0000
+29-1218,Obstetricians and Gynecologists,0.0685,,,,,,,,,,,29-0000
+29-1221,"Pediatricians, General",0.0,,,,,,,,,,,29-0000
+29-1222,"Physicians, Pathologists",0.1577,,,,,,,,,,,29-0000
+29-1223,Psychiatrists,0.0,,,,,,,,,,,29-0000
+29-1224,Radiologists,0.199,,,,,,,,,,,29-0000
+29-1229,"Physicians, All Other",0.0297,,,,,,,,,,,29-0000
+29-1241,"Ophthalmologists, Except Pediatric",0.0,,,,,,,,,,,29-0000
+29-1242,"Orthopedic Surgeons, Except Pediatric",0.0,,,,,,,,,,,29-0000
+29-1243,Pediatric Surgeons,0.0,,,,,,,,,,,29-0000
+29-1291,Acupuncturists,0.0,,,,,,,,,,,29-0000
+29-1292,Dental Hygienists,0.0,,,,,,,,,,,29-0000
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",0.0222,,,,,,,,,,,29-0000
+29-2031,Cardiovascular Technologists and Technicians,0.0,29-2031.00,Cardiovascular Technologists and Technicians,Healthcare Practitioners and Technical,True,False,3.0,56850.0,3700.0,23.0,,29-0000
+29-2032,Diagnostic Medical Sonographers,0.0,29-2032.00,Diagnostic Medical Sonographers,Healthcare Practitioners and Technical,True,False,3.0,72510.0,5800.0,35.0,,29-0000
+29-2033,Nuclear Medicine Technologists,0.0513,29-2033.00,Nuclear Medicine Technologists,Healthcare Practitioners and Technical,True,False,3.0,76820.0,1200.0,13.0,,29-0000
+29-2034,Radiologic Technologists and Technicians,0.0,29-2034.00,Radiologic Technologists,Healthcare Practitioners and Technical,True,False,3.0,59520.0,14000.0,-1.0,,29-0000
+29-2035,Magnetic Resonance Imaging Technologists,0.039,29-2035.00,Magnetic Resonance Imaging Technologists,Healthcare Practitioners and Technical,True,False,3.0,71670.0,2700.0,-1.0,,29-0000
+29-2042,Emergency Medical Technicians,0.0,,,,,,,,,,,29-0000
+29-2043,Paramedics,0.0,,,,,,,,,,,29-0000
+29-2051,Dietetic Technicians,0.2446,29-2051.00,Dietetic Technicians,Healthcare Practitioners and Technical,False,False,2.0,27140.0,3100.0,13.0,,29-0000
+29-2052,Pharmacy Technicians,0.0735,29-2052.00,Pharmacy Technicians,Healthcare Practitioners and Technical,True,False,3.0,32700.0,38300.0,92.0,,29-0000
+29-2053,Psychiatric Technicians,0.0,29-2053.00,Psychiatric Technicians,Healthcare Practitioners and Technical,True,False,3.0,32870.0,7500.0,4.0,,29-0000
+29-2055,Surgical Technologists,0.0,29-2055.00,Surgical Technologists,Healthcare Practitioners and Technical,True,False,3.0,47300.0,10400.0,34.0,,29-0000
+29-2056,Veterinary Technologists and Technicians,0.0,29-2056.00,Veterinary Technologists and Technicians,Healthcare Practitioners and Technical,True,False,3.0,34420.0,11800.0,3.0,,29-0000
+29-2057,Ophthalmic Medical Technicians,0.0,29-2057.00,Ophthalmic Medical Technicians,Healthcare Practitioners and Technical,True,False,3.0,36530.0,5600.0,-1.0,,29-0000
+29-2061,Licensed Practical and Licensed Vocational Nurses,0.0,29-2061.00,Licensed Practical and Licensed Vocational Nurses,Healthcare Practitioners and Technical,True,False,3.0,46240.0,66300.0,6.0,,29-0000
+29-2072,Medical Records Specialists,0.6674,,,,,,,,,,,29-0000
+29-2081,"Opticians, Dispensing",0.0,29-2081.00,"Opticians, Dispensing",Healthcare Practitioners and Technical,True,False,3.0,37010.0,6600.0,71.0,,29-0000
+29-2091,Orthotists and Prosthetists,0.0,29-2091.00,Orthotists and Prosthetists,Healthcare Practitioners and Technical,True,False,5.0,69120.0,900.0,0.4,,29-0000
+29-2092,Hearing Aid Specialists,0.0,29-2092.00,Hearing Aid Specialists,Healthcare Practitioners and Technical,True,False,3.0,52770.0,700.0,-1.0,,29-0000
+29-2099,"Health Technologists and Technicians, All Other",0.0445,29-2099.00,"Health Technologists and Technicians, All Other",Healthcare Practitioners and Technical,True,False,-1.0,42920.0,11700.0,40.0,,29-0000
+29-2099,"Health Technologists and Technicians, All Other",0.0445,29-2099.01,Neurodiagnostic Technologists,Healthcare Practitioners and Technical,True,False,3.0,42920.0,11700.0,-1.0,"Health Technologists and Technicians, All Other",29-0000
+29-2099,"Health Technologists and Technicians, All Other",0.0445,29-2099.05,Ophthalmic Medical Technologists,Healthcare Practitioners and Technical,True,False,3.0,42920.0,11700.0,-1.0,"Health Technologists and Technicians, All Other",29-0000
+29-2099,"Health Technologists and Technicians, All Other",0.0445,29-2099.06,Radiologic Technicians,Healthcare Practitioners and Technical,True,False,3.0,42920.0,11700.0,-1.0,"Health Technologists and Technicians, All Other",29-0000
+29-2099,"Health Technologists and Technicians, All Other",0.0445,29-2099.07,Surgical Assistants,Healthcare Practitioners and Technical,True,False,3.0,42920.0,11700.0,-1.0,"Health Technologists and Technicians, All Other",29-0000
+29-9021,Health Information Technologists and Medical Registrars,0.3063,,,,,,,,,,,29-0000
+29-9091,Athletic Trainers,0.0531,29-9091.00,Athletic Trainers,Healthcare Practitioners and Technical,True,False,5.0,47510.0,2500.0,0.7,,29-0000
+29-9092,Genetic Counselors,0.0123,29-9092.00,Genetic Counselors,Healthcare Practitioners and Technical,True,False,5.0,80370.0,300.0,-1.0,,29-0000
+29-9093,Surgical Assistants,0.0,,,,,,,,,,,29-0000
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",0.0,29-9099.00,"Healthcare Practitioners and Technical Workers, All Other",Healthcare Practitioners and Technical,True,False,-1.0,54620.0,2500.0,6.0,,29-0000
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",0.0,29-9099.01,Midwives,Healthcare Practitioners and Technical,True,False,4.0,54620.0,2500.0,-1.0,"Healthcare Practitioners and Technical Workers, All Other",29-0000
+31-1131,Nursing Assistants,0.0,,,,,,,,,,,31-0000
+31-1132,Orderlies,0.0,,,,,,,,,,,31-0000
+31-1133,Psychiatric Aides,0.0,,,,,,,,,,,31-0000
+31-2011,Occupational Therapy Assistants,0.0,31-2011.00,Occupational Therapy Assistants,Healthcare Support,True,False,3.0,60220.0,7000.0,3.0,,31-0000
+31-2012,Occupational Therapy Aides,0.0661,31-2012.00,Occupational Therapy Aides,Healthcare Support,True,False,3.0,28160.0,1100.0,27.0,,31-0000
+31-2021,Physical Therapist Assistants,0.0,31-2021.00,Physical Therapist Assistants,Healthcare Support,True,False,3.0,58040.0,16500.0,1.8,,31-0000
+31-2022,Physical Therapist Aides,0.0,31-2022.00,Physical Therapist Aides,Healthcare Support,True,False,2.0,26240.0,8000.0,61.0,,31-0000
+31-9011,Massage Therapists,0.0,31-9011.00,Massage Therapists,Healthcare Support,True,False,3.0,41420.0,24200.0,54.0,,31-0000
+31-9091,Dental Assistants,0.0,31-9091.00,Dental Assistants,Healthcare Support,True,False,3.0,38660.0,44800.0,51.0,,31-0000
+31-9092,Medical Assistants,0.0476,31-9092.00,Medical Assistants,Healthcare Support,True,False,3.0,33610.0,99700.0,30.0,,31-0000
+31-9093,Medical Equipment Preparers,0.0,31-9093.00,Medical Equipment Preparers,Healthcare Support,True,False,2.0,36240.0,7300.0,78.0,,31-0000
+31-9094,Medical Transcriptionists,0.6365,31-9094.00,Medical Transcriptionists,Healthcare Support,False,False,3.0,34770.0,7700.0,89.0,,31-0000
+31-9095,Pharmacy Aides,0.022,31-9095.00,Pharmacy Aides,Healthcare Support,False,False,2.0,26450.0,4000.0,72.0,,31-0000
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,0.0179,31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers,Healthcare Support,True,False,3.0,27540.0,18100.0,86.0,,31-0000
+31-9097,Phlebotomists,0.0,31-9097.00,Phlebotomists,Healthcare Support,True,False,3.0,34480.0,18100.0,-1.0,,31-0000
+31-9099,"Healthcare Support Workers, All Other",0.0,31-9099.02,Endoscopy Technicians,Healthcare Support,True,False,3.0,37830.0,11700.0,-1.0,"Healthcare Support Workers, All Other",31-0000
+31-9099,"Healthcare Support Workers, All Other",0.0,31-9099.00,"Healthcare Support Workers, All Other",Healthcare Support,True,False,-1.0,37830.0,11700.0,63.0,,31-0000
+31-9099,"Healthcare Support Workers, All Other",0.0,31-9099.01,Speech-Language Pathology Assistants,Healthcare Support,True,False,3.0,37830.0,11700.0,-1.0,"Healthcare Support Workers, All Other",31-0000
+33-1011,First-Line Supervisors of Correctional Officers,0.0315,33-1011.00,First-Line Supervisors of Correctional Officers,Protective Service,False,False,3.0,63340.0,2800.0,3.0,,33-0000
+33-1012,First-Line Supervisors of Police and Detectives,0.0,33-1012.00,First-Line Supervisors of Police and Detectives,Protective Service,False,False,3.0,89030.0,8300.0,0.4,,33-0000
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,0.0,33-1021.00,First-Line Supervisors of Fire Fighting and Prevention Workers,Protective Service,False,False,-1.0,76330.0,4800.0,0.4,,33-0000
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,0.0,33-1021.02,Forest Fire Fighting and Prevention Supervisors,Protective Service,False,False,3.0,76330.0,4800.0,-1.0,First-Line Supervisors of Fire Fighting and Prevention Workers,33-0000
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,0.0,33-1021.01,Municipal Fire Fighting and Prevention Supervisors,Protective Service,False,False,3.0,76330.0,4800.0,-1.0,First-Line Supervisors of Fire Fighting and Prevention Workers,33-0000
+33-2011,Firefighters,0.0,33-2011.00,Firefighters,Protective Service,False,False,-1.0,49620.0,25000.0,17.0,,33-0000
+33-2011,Firefighters,0.0,33-2011.02,Forest Firefighters,Protective Service,False,False,2.0,49620.0,25000.0,-1.0,Firefighters,33-0000
+33-2011,Firefighters,0.0,33-2011.01,Municipal Firefighters,Protective Service,False,False,3.0,49620.0,25000.0,-1.0,Firefighters,33-0000
+33-2021,Fire Inspectors and Investigators,0.0,33-2021.01,Fire Inspectors,Protective Service,False,False,3.0,62510.0,1300.0,-1.0,Fire Inspectors and Investigators,33-0000
+33-2021,Fire Inspectors and Investigators,0.0,33-2021.00,Fire Inspectors and Investigators,Protective Service,False,False,-1.0,62510.0,1300.0,48.0,,33-0000
+33-2021,Fire Inspectors and Investigators,0.0,33-2021.02,Fire Investigators,Protective Service,False,False,3.0,62510.0,1300.0,-1.0,Fire Inspectors and Investigators,33-0000
+33-2022,Forest Fire Inspectors and Prevention Specialists,0.0,33-2022.00,Forest Fire Inspectors and Prevention Specialists,Protective Service,True,False,3.0,39600.0,300.0,5.0,,33-0000
+33-3011,Bailiffs,0.0,33-3011.00,Bailiffs,Protective Service,False,False,2.0,45760.0,1700.0,36.0,,33-0000
+33-3012,Correctional Officers and Jailers,0.0,33-3012.00,Correctional Officers and Jailers,Protective Service,False,False,2.0,44330.0,33800.0,60.0,,33-0000
+33-3021,Detectives and Criminal Investigators,0.0374,33-3021.03,Criminal Investigators and Special Agents,Protective Service,False,False,3.0,81920.0,7500.0,-1.0,Detectives and Criminal Investigators,33-0000
+33-3021,Detectives and Criminal Investigators,0.0374,33-3021.00,Detectives and Criminal Investigators,Protective Service,False,False,-1.0,81920.0,7500.0,34.0,,33-0000
+33-3021,Detectives and Criminal Investigators,0.0374,33-3021.05,Immigration and Customs Inspectors,Protective Service,False,False,3.0,81920.0,7500.0,-1.0,Detectives and Criminal Investigators,33-0000
+33-3021,Detectives and Criminal Investigators,0.0374,33-3021.06,Intelligence Analysts,Protective Service,False,False,4.0,81920.0,7500.0,-1.0,Detectives and Criminal Investigators,33-0000
+33-3021,Detectives and Criminal Investigators,0.0374,33-3021.01,Police Detectives,Protective Service,False,False,3.0,81920.0,7500.0,-1.0,Detectives and Criminal Investigators,33-0000
+33-3021,Detectives and Criminal Investigators,0.0374,33-3021.02,Police Identification and Records Officers,Protective Service,False,False,3.0,81920.0,7500.0,-1.0,Detectives and Criminal Investigators,33-0000
+33-3031,Fish and Game Wardens,0.0,33-3031.00,Fish and Game Wardens,Protective Service,False,True,4.0,57710.0,500.0,8.0,,33-0000
+33-3041,Parking Enforcement Workers,0.0,33-3041.00,Parking Enforcement Workers,Protective Service,False,False,2.0,39840.0,200.0,84.0,,33-0000
+33-3051,Police and Sheriff's Patrol Officers,0.1234,33-3051.00,Police and Sheriff's Patrol Officers,Protective Service,False,False,-1.0,61380.0,52900.0,-1.0,,33-0000
+33-3051,Police and Sheriff's Patrol Officers,0.1234,33-3051.01,Police Patrol Officers,Protective Service,False,False,3.0,61380.0,52900.0,-1.0,Police and Sheriff's Patrol Officers,33-0000
+33-3051,Police and Sheriff's Patrol Officers,0.1234,33-3051.03,Sheriffs and Deputy Sheriffs,Protective Service,False,False,3.0,61380.0,52900.0,-1.0,Police and Sheriff's Patrol Officers,33-0000
+33-3052,Transit and Railroad Police,0.0,33-3052.00,Transit and Railroad Police,Protective Service,False,False,3.0,74030.0,300.0,57.0,,33-0000
+33-9011,Animal Control Workers,0.0,33-9011.00,Animal Control Workers,Protective Service,False,False,2.0,36330.0,1300.0,21.0,,33-0000
+33-9021,Private Detectives and Investigators,0.0,33-9021.00,Private Detectives and Investigators,Protective Service,True,False,3.0,50090.0,3300.0,31.0,,33-0000
+33-9031,Gambling Surveillance Officers and Gambling Investigators,0.0,33-9031.00,Gaming Surveillance Officers and Gaming Investigators,Protective Service,False,False,2.0,32680.0,1400.0,95.0,,33-0000
+33-9032,Security Guards,0.0,33-9032.00,Security Guards,Protective Service,True,False,2.0,28490.0,153800.0,84.0,,33-0000
+33-9091,Crossing Guards and Flaggers,0.0,33-9091.00,Crossing Guards,Protective Service,False,False,2.0,28960.0,14200.0,49.0,,33-0000
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.0,33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Protective Service,True,False,2.0,22410.0,39000.0,-1.0,,33-0000
+33-9093,Transportation Security Screeners,0.0,33-9093.00,Transportation Security Screeners,Protective Service,False,False,2.0,41490.0,4700.0,-1.0,,33-0000
+33-9099,"Protective Service Workers, All Other",0.0571,33-9099.00,"Protective Service Workers, All Other",Protective Service,False,False,-1.0,30720.0,35400.0,-1.0,,33-0000
+33-9099,"Protective Service Workers, All Other",0.0571,33-9099.02,Retail Loss Prevention Specialists,Protective Service,False,False,2.0,30720.0,35400.0,-1.0,"Protective Service Workers, All Other",33-0000
+35-1011,Chefs and Head Cooks,0.0,35-1011.00,Chefs and Head Cooks,Food Preparation and Serving Related,True,False,3.0,48460.0,20700.0,10.0,,35-0000
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,0.0564,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,Food Preparation and Serving Related,True,False,2.0,32450.0,169900.0,63.0,,35-0000
+35-2011,"Cooks, Fast Food",0.0,35-2011.00,"Cooks, Fast Food",Food Preparation and Serving Related,False,False,1.0,22330.0,63000.0,81.0,,35-0000
+35-2012,"Cooks, Institution and Cafeteria",0.0,35-2012.00,"Cooks, Institution and Cafeteria",Food Preparation and Serving Related,False,False,2.0,26860.0,62500.0,83.0,,35-0000
+35-2013,"Cooks, Private Household",0.0,35-2013.00,"Cooks, Private Household",Food Preparation and Serving Related,False,False,3.0,37590.0,5700.0,30.0,,35-0000
+35-2014,"Cooks, Restaurant",0.0116,35-2014.00,"Cooks, Restaurant",Food Preparation and Serving Related,True,False,2.0,26530.0,243800.0,96.0,,35-0000
+35-2015,"Cooks, Short Order",0.0,35-2015.00,"Cooks, Short Order",Food Preparation and Serving Related,False,False,2.0,23800.0,22200.0,94.0,,35-0000
+35-2021,Food Preparation Workers,0.0,35-2021.00,Food Preparation Workers,Food Preparation and Serving Related,True,False,1.0,23730.0,158500.0,87.0,,35-0000
+35-3011,Bartenders,0.0,35-3011.00,Bartenders,Food Preparation and Serving Related,True,False,2.0,22550.0,123100.0,77.0,,35-0000
+35-3023,Fast Food and Counter Workers,0.0,,,,,,,,,,,35-0000
+35-3031,Waiters and Waitresses,0.0,35-3031.00,Waiters and Waitresses,Food Preparation and Serving Related,True,False,2.0,21780.0,539000.0,94.0,,35-0000
+35-3041,"Food Servers, Nonrestaurant",0.0,35-3041.00,"Food Servers, Nonrestaurant",Food Preparation and Serving Related,True,False,1.0,23290.0,46500.0,86.0,,35-0000
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,0.0,35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,Food Preparation and Serving Related,True,False,1.0,22270.0,88000.0,91.0,,35-0000
+35-9021,Dishwashers,0.0,35-9021.00,Dishwashers,Food Preparation and Serving Related,False,False,1.0,22730.0,85000.0,77.0,,35-0000
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.0734,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Food Preparation and Serving Related,True,False,2.0,22160.0,107600.0,97.0,,35-0000
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,0.0436,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,Building and Grounds Cleaning and Maintenance,True,False,2.0,39940.0,30400.0,94.0,,37-0000
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.1083,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Building and Grounds Cleaning and Maintenance,True,False,3.0,48220.0,24300.0,-1.0,,37-0000
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.0,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Building and Grounds Cleaning and Maintenance,True,False,2.0,26110.0,343100.0,66.0,,37-0000
+37-2012,Maids and Housekeeping Cleaners,0.0,37-2012.00,Maids and Housekeeping Cleaners,Building and Grounds Cleaning and Maintenance,True,False,2.0,23770.0,197000.0,69.0,,37-0000
+37-2021,Pest Control Workers,0.046,37-2021.00,Pest Control Workers,Building and Grounds Cleaning and Maintenance,True,False,2.0,35610.0,12600.0,66.0,,37-0000
+37-3011,Landscaping and Groundskeeping Workers,0.0,37-3011.00,Landscaping and Groundskeeping Workers,Building and Grounds Cleaning and Maintenance,True,False,1.0,29000.0,173600.0,95.0,,37-0000
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.0,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",Building and Grounds Cleaning and Maintenance,True,False,2.0,35320.0,5000.0,97.0,,37-0000
+37-3013,Tree Trimmers and Pruners,0.0,37-3013.00,Tree Trimmers and Pruners,Building and Grounds Cleaning and Maintenance,True,False,2.0,38190.0,8100.0,77.0,,37-0000
+39-1013,First-Line Supervisors of Gambling Services Workers,0.0,,,,,,,,,,,39-0000
+39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",0.0443,,,,,,,,,,,39-0000
+39-1022,First-Line Supervisors of Personal Service Workers,0.0407,,,,,,,,,,,39-0000
+39-2011,Animal Trainers,0.0,39-2011.00,Animal Trainers,Personal Care and Service,True,False,2.0,29290.0,7600.0,10.0,,39-0000
+39-2021,Animal Caretakers,0.0,39-2021.00,Nonfarm Animal Caretakers,Personal Care and Service,True,False,2.0,23760.0,54500.0,82.0,,39-0000
+39-3011,Gambling Dealers,0.0,39-3011.00,Gaming Dealers,Personal Care and Service,False,False,2.0,20120.0,15500.0,96.0,,39-0000
+39-3012,Gambling and Sports Book Writers and Runners,0.0,39-3012.00,Gaming and Sports Book Writers and Runners,Personal Care and Service,False,False,2.0,24430.0,1800.0,91.0,,39-0000
+39-3021,Motion Picture Projectionists,0.0,39-3021.00,Motion Picture Projectionists,Personal Care and Service,False,False,2.0,22760.0,800.0,97.0,,39-0000
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",0.0,39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",Personal Care and Service,False,False,2.0,22260.0,34100.0,96.0,,39-0000
+39-3091,Amusement and Recreation Attendants,0.0619,39-3091.00,Amusement and Recreation Attendants,Personal Care and Service,True,False,1.0,22260.0,83500.0,72.0,,39-0000
+39-3092,Costume Attendants,0.0,39-3092.00,Costume Attendants,Personal Care and Service,False,False,2.0,41190.0,1600.0,61.0,,39-0000
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",0.0,39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants",Personal Care and Service,True,False,2.0,24030.0,4500.0,43.0,,39-0000
+39-4011,Embalmers,0.0,39-4011.00,Embalmers,Personal Care and Service,False,False,3.0,44250.0,700.0,54.0,,39-0000
+39-4021,Funeral Attendants,0.0,39-4021.00,Funeral Attendants,Personal Care and Service,False,False,2.0,26400.0,6000.0,37.0,,39-0000
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",0.0,39-4031.00,"Morticians, Undertakers, and Funeral Directors",Personal Care and Service,False,False,3.0,52650.0,3600.0,20.0,,39-0000
+39-5011,Barbers,0.0,39-5011.00,Barbers,Personal Care and Service,True,False,3.0,27960.0,10100.0,80.0,,39-0000
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",0.0304,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",Personal Care and Service,True,False,3.0,24730.0,94600.0,11.0,,39-0000
+39-5091,"Makeup Artists, Theatrical and Performance",0.0,39-5091.00,"Makeup Artists, Theatrical and Performance",Personal Care and Service,True,False,3.0,64250.0,600.0,1.0,,39-0000
+39-5092,Manicurists and Pedicurists,0.0,39-5092.00,Manicurists and Pedicurists,Personal Care and Service,True,False,2.0,24330.0,20300.0,95.0,,39-0000
+39-5093,Shampooers,0.0,39-5093.00,Shampooers,Personal Care and Service,True,False,2.0,21640.0,2500.0,79.0,,39-0000
+39-5094,Skincare Specialists,0.0,39-5094.00,Skincare Specialists,Personal Care and Service,True,False,3.0,31290.0,9400.0,29.0,,39-0000
+39-6011,Baggage Porters and Bellhops,0.073,39-6011.00,Baggage Porters and Bellhops,Personal Care and Service,False,False,2.0,24210.0,6600.0,83.0,,39-0000
+39-6012,Concierges,0.1875,39-6012.00,Concierges,Personal Care and Service,False,False,3.0,30400.0,5800.0,21.0,,39-0000
+39-9011,Childcare Workers,0.0122,39-9011.00,Childcare Workers,Personal Care and Service,True,False,2.0,23240.0,177900.0,8.0,,39-0000
+39-9011,Childcare Workers,0.0122,39-9011.01,Nannies,Personal Care and Service,True,False,2.0,23240.0,177900.0,-1.0,Childcare Workers,39-0000
+39-9031,Exercise Trainers and Group Fitness Instructors,0.0,39-9031.00,Fitness Trainers and Aerobics Instructors,Personal Care and Service,True,False,3.0,39820.0,67600.0,9.0,,39-0000
+39-9032,Recreation Workers,0.0,39-9032.00,Recreation Workers,Personal Care and Service,True,False,4.0,25060.0,74000.0,0.6,,39-0000
+39-9041,Residential Advisors,0.067,39-9041.00,Residential Advisors,Personal Care and Service,True,False,3.0,27860.0,20000.0,6.0,,39-0000
+41-1011,First-Line Supervisors of Retail Sales Workers,0.2627,41-1011.00,First-Line Supervisors of Retail Sales Workers,Sales and Related,True,False,2.0,39630.0,165500.0,28.0,,41-0000
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,0.2295,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,Sales and Related,False,False,4.0,73390.0,37000.0,8.0,,41-0000
+41-2011,Cashiers,0.0846,41-2011.00,Cashiers,Sales and Related,True,False,2.0,22430.0,661300.0,97.0,,41-0000
+41-2012,Gambling Change Persons and Booth Cashiers,0.0,41-2012.00,Gaming Change Persons and Booth Cashiers,Sales and Related,False,False,2.0,24880.0,4300.0,83.0,,41-0000
+41-2021,Counter and Rental Clerks,0.2048,41-2021.00,Counter and Rental Clerks,Sales and Related,False,False,2.0,27290.0,58700.0,97.0,,41-0000
+41-2022,Parts Salespersons,0.0,41-2022.00,Parts Salespersons,Sales and Related,False,False,2.0,30430.0,30500.0,98.0,,41-0000
+41-2031,Retail Salespersons,0.3222,41-2031.00,Retail Salespersons,Sales and Related,True,False,2.0,24200.0,641300.0,92.0,,41-0000
+41-3011,Advertising Sales Agents,0.1482,41-3011.00,Advertising Sales Agents,Sales and Related,False,False,4.0,51740.0,19500.0,54.0,,41-0000
+41-3021,Insurance Sales Agents,0.3188,41-3021.00,Insurance Sales Agents,Sales and Related,True,False,4.0,50600.0,53400.0,92.0,,41-0000
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",0.4413,41-3031.02,"Sales Agents, Financial Services",Sales and Related,False,False,3.0,64120.0,44600.0,-1.0,"Securities, Commodities, and Financial Services Sales Agents",41-0000
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",0.4413,41-3031.01,"Sales Agents, Securities and Commodities",Sales and Related,False,False,4.0,64120.0,44600.0,-1.0,"Securities, Commodities, and Financial Services Sales Agents",41-0000
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",0.4413,41-3031.03,Securities and Commodities Traders,Sales and Related,False,True,4.0,64120.0,44600.0,-1.0,"Securities, Commodities, and Financial Services Sales Agents",41-0000
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",0.4413,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",Sales and Related,False,False,-1.0,64120.0,44600.0,1.6,,41-0000
+41-3041,Travel Agents,0.4054,41-3041.00,Travel Agents,Sales and Related,False,False,3.0,38700.0,9700.0,10.0,,41-0000
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.2706,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Sales and Related,False,True,4.0,79680.0,36000.0,-1.0,,41-0000
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.2706,41-4011.07,Solar Sales Representatives and Assessors,Sales and Related,False,True,3.0,79680.0,36000.0,-1.0,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-0000
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.6279,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Sales and Related,True,False,4.0,58510.0,151100.0,85.0,,41-0000
+41-9011,Demonstrators and Product Promoters,0.0788,41-9011.00,Demonstrators and Product Promoters,Sales and Related,False,False,2.0,28960.0,15800.0,51.0,,41-0000
+41-9012,Models,0.0,41-9012.00,Models,Sales and Related,False,False,1.0,23770.0,600.0,98.0,,41-0000
+41-9021,Real Estate Brokers,0.2609,41-9021.00,Real Estate Brokers,Sales and Related,True,False,4.0,58210.0,10100.0,97.0,,41-0000
+41-9022,Real Estate Sales Agents,0.2828,41-9022.00,Real Estate Sales Agents,Sales and Related,True,False,3.0,48690.0,38900.0,86.0,,41-0000
+41-9031,Sales Engineers,0.3224,41-9031.00,Sales Engineers,Sales and Related,False,False,4.0,101420.0,7900.0,0.4,,41-0000
+41-9041,Telemarketers,0.2852,41-9041.00,Telemarketers,Sales and Related,False,False,2.0,25250.0,21400.0,99.0,,41-0000
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.1758,41-9091.00,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",Sales and Related,False,False,1.0,26430.0,7800.0,-1.0,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",41-0000
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,0.1856,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,Office and Administrative Support,True,False,3.0,55810.0,161100.0,1.4,,43-0000
+43-2011,"Switchboard Operators, Including Answering Service",0.3863,43-2011.00,"Switchboard Operators, Including Answering Service",Office and Administrative Support,False,False,2.0,29420.0,6300.0,96.0,,43-0000
+43-2021,Telephone Operators,0.0,43-2021.00,Telephone Operators,Office and Administrative Support,False,False,2.0,37240.0,500.0,97.0,,43-0000
+43-3011,Bill and Account Collectors,0.2989,43-3011.00,Bill and Account Collectors,Office and Administrative Support,False,False,2.0,36020.0,27700.0,95.0,,43-0000
+43-3021,Billing and Posting Clerks,0.1924,43-3021.00,Billing and Posting Clerks,Office and Administrative Support,True,False,-1.0,37800.0,60500.0,96.0,,43-0000
+43-3021,Billing and Posting Clerks,0.1924,43-3021.02,"Billing, Cost, and Rate Clerks",Office and Administrative Support,True,False,2.0,37800.0,60500.0,-1.0,Billing and Posting Clerks,43-0000
+43-3021,Billing and Posting Clerks,0.1924,43-3021.01,Statement Clerks,Office and Administrative Support,True,False,2.0,37800.0,60500.0,-1.0,Billing and Posting Clerks,43-0000
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",0.3104,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",Office and Administrative Support,True,False,3.0,40240.0,188500.0,98.0,,43-0000
+43-3041,Gambling Cage Workers,0.0653,43-3041.00,Gaming Cage Workers,Office and Administrative Support,False,False,2.0,27490.0,2300.0,39.0,,43-0000
+43-3051,Payroll and Timekeeping Clerks,0.0487,43-3051.00,Payroll and Timekeeping Clerks,Office and Administrative Support,False,False,2.0,45050.0,15800.0,97.0,,43-0000
+43-3061,Procurement Clerks,0.2436,43-3061.00,Procurement Clerks,Office and Administrative Support,False,False,3.0,42670.0,6700.0,98.0,,43-0000
+43-3071,Tellers,0.0231,43-3071.00,Tellers,Office and Administrative Support,False,False,2.0,29450.0,47600.0,98.0,,43-0000
+43-4011,Brokerage Clerks,0.1744,43-4011.00,Brokerage Clerks,Office and Administrative Support,False,False,3.0,51400.0,6200.0,98.0,,43-0000
+43-4021,Correspondence Clerks,0.2786,43-4021.00,Correspondence Clerks,Office and Administrative Support,False,False,2.0,37290.0,700.0,86.0,,43-0000
+43-4031,"Court, Municipal, and License Clerks",0.102,43-4031.01,Court Clerks,Office and Administrative Support,False,False,2.0,38450.0,14900.0,-1.0,"Court, Municipal, and License Clerks",43-0000
+43-4031,"Court, Municipal, and License Clerks",0.102,43-4031.00,"Court, Municipal, and License Clerks",Office and Administrative Support,False,False,-1.0,38450.0,14900.0,46.0,,43-0000
+43-4031,"Court, Municipal, and License Clerks",0.102,43-4031.03,License Clerks,Office and Administrative Support,False,False,2.0,38450.0,14900.0,-1.0,"Court, Municipal, and License Clerks",43-0000
+43-4031,"Court, Municipal, and License Clerks",0.102,43-4031.02,Municipal Clerks,Office and Administrative Support,False,False,3.0,38450.0,14900.0,-1.0,"Court, Municipal, and License Clerks",43-0000
+43-4041,"Credit Authorizers, Checkers, and Clerks",0.1296,43-4041.01,Credit Authorizers,Office and Administrative Support,False,False,3.0,38750.0,2800.0,-1.0,"Credit Authorizers, Checkers, and Clerks",43-0000
+43-4041,"Credit Authorizers, Checkers, and Clerks",0.1296,43-4041.00,"Credit Authorizers, Checkers, and Clerks",Office and Administrative Support,False,False,-1.0,38750.0,2800.0,97.0,,43-0000
+43-4041,"Credit Authorizers, Checkers, and Clerks",0.1296,43-4041.02,Credit Checkers,Office and Administrative Support,False,False,2.0,38750.0,2800.0,-1.0,"Credit Authorizers, Checkers, and Clerks",43-0000
+43-4051,Customer Service Representatives,0.7011,43-4051.00,Customer Service Representatives,Office and Administrative Support,True,True,2.0,33750.0,387600.0,55.0,,43-0000
+43-4051,Customer Service Representatives,0.7011,43-4051.03,Patient Representatives,Office and Administrative Support,True,False,4.0,33750.0,387600.0,-1.0,Customer Service Representatives,43-0000
+43-4061,"Eligibility Interviewers, Government Programs",0.0597,43-4061.00,"Eligibility Interviewers, Government Programs",Office and Administrative Support,False,False,3.0,46020.0,14700.0,70.0,,43-0000
+43-4071,File Clerks,0.1568,43-4071.00,File Clerks,Office and Administrative Support,False,False,2.0,31700.0,11900.0,97.0,,43-0000
+43-4081,"Hotel, Motel, and Resort Desk Clerks",0.1725,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",Office and Administrative Support,False,False,2.0,23700.0,41900.0,94.0,,43-0000
+43-4111,"Interviewers, Except Eligibility and Loan",0.3851,43-4111.00,"Interviewers, Except Eligibility and Loan",Office and Administrative Support,False,False,2.0,34060.0,26200.0,94.0,,43-0000
+43-4121,"Library Assistants, Clerical",0.0978,43-4121.00,"Library Assistants, Clerical",Office and Administrative Support,False,False,2.0,26500.0,13700.0,95.0,,43-0000
+43-4131,Loan Interviewers and Clerks,0.2022,43-4131.00,Loan Interviewers and Clerks,Office and Administrative Support,True,False,3.0,39890.0,25900.0,92.0,,43-0000
+43-4141,New Accounts Clerks,0.0,43-4141.00,New Accounts Clerks,Office and Administrative Support,False,False,2.0,35800.0,4400.0,99.0,,43-0000
+43-4151,Order Clerks,0.0748,43-4151.00,Order Clerks,Office and Administrative Support,False,False,2.0,33460.0,19100.0,98.0,,43-0000
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",0.4046,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",Office and Administrative Support,False,False,3.0,40390.0,13800.0,90.0,,43-0000
+43-4171,Receptionists and Information Clerks,0.4338,43-4171.00,Receptionists and Information Clerks,Office and Administrative Support,True,False,2.0,29140.0,157900.0,96.0,,43-0000
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,0.2467,43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks,Office and Administrative Support,False,False,2.0,37220.0,15800.0,61.0,,43-0000
+43-5011,Cargo and Freight Agents,0.0165,43-5011.00,Cargo and Freight Agents,Office and Administrative Support,True,False,2.0,43210.0,10100.0,99.0,,43-0000
+43-5011,Cargo and Freight Agents,0.0165,43-5011.01,Freight Forwarders,Office and Administrative Support,True,True,2.0,43210.0,10100.0,-1.0,Cargo and Freight Agents,43-0000
+43-5021,Couriers and Messengers,0.0412,43-5021.00,Couriers and Messengers,Office and Administrative Support,False,False,2.0,28720.0,10100.0,94.0,,43-0000
+43-5031,Public Safety Telecommunicators,0.0465,43-5031.00,"Police, Fire, and Ambulance Dispatchers",Office and Administrative Support,False,False,2.0,40660.0,10100.0,49.0,,43-0000
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",0.2258,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",Office and Administrative Support,False,True,2.0,39470.0,19600.0,96.0,,43-0000
+43-5041,"Meter Readers, Utilities",0.0,43-5041.00,"Meter Readers, Utilities",Office and Administrative Support,False,False,2.0,40360.0,2800.0,85.0,,43-0000
+43-5051,Postal Service Clerks,0.0,43-5051.00,Postal Service Clerks,Office and Administrative Support,False,False,2.0,55280.0,3700.0,95.0,,43-0000
+43-5052,Postal Service Mail Carriers,0.0,43-5052.00,Postal Service Mail Carriers,Office and Administrative Support,False,False,2.0,55210.0,15500.0,68.0,,43-0000
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.0,43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Office and Administrative Support,False,False,2.0,58770.0,4900.0,-1.0,,43-0000
+43-5061,"Production, Planning, and Expediting Clerks",0.0934,43-5061.00,"Production, Planning, and Expediting Clerks",Office and Administrative Support,False,True,3.0,47580.0,39700.0,88.0,,43-0000
+43-5071,"Shipping, Receiving, and Inventory Clerks",0.0,43-5071.00,"Shipping, Receiving, and Traffic Clerks",Office and Administrative Support,False,True,2.0,33030.0,64800.0,98.0,,43-0000
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.0,43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Office and Administrative Support,False,False,2.0,32310.0,8100.0,95.0,,43-0000
+43-6011,Executive Secretaries and Executive Administrative Assistants,0.2336,43-6011.00,Executive Secretaries and Executive Administrative Assistants,Office and Administrative Support,False,False,3.0,59340.0,50500.0,86.0,,43-0000
+43-6012,Legal Secretaries and Administrative Assistants,0.0,43-6012.00,Legal Secretaries,Office and Administrative Support,False,False,3.0,46360.0,14300.0,98.0,,43-0000
+43-6013,Medical Secretaries and Administrative Assistants,0.3623,43-6013.00,Medical Secretaries,Office and Administrative Support,True,False,3.0,35760.0,82400.0,81.0,,43-0000
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.4528,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Office and Administrative Support,True,False,2.0,36630.0,233500.0,96.0,,43-0000
+43-9021,Data Entry Keyers,0.6707,43-9021.00,Data Entry Keyers,Office and Administrative Support,False,False,2.0,32170.0,14800.0,99.0,,43-0000
+43-9022,Word Processors and Typists,0.2385,43-9022.00,Word Processors and Typists,Office and Administrative Support,False,False,2.0,39750.0,4100.0,81.0,,43-0000
+43-9031,Desktop Publishers,0.464,43-9031.00,Desktop Publishers,Office and Administrative Support,False,False,3.0,42910.0,1200.0,16.0,,43-0000
+43-9041,Insurance Claims and Policy Processing Clerks,0.1467,43-9041.00,Insurance Claims and Policy Processing Clerks,Office and Administrative Support,False,False,-1.0,39660.0,32700.0,98.0,,43-0000
+43-9041,Insurance Claims and Policy Processing Clerks,0.1467,43-9041.01,Insurance Claims Clerks,Office and Administrative Support,False,False,3.0,39660.0,32700.0,-1.0,Insurance Claims and Policy Processing Clerks,43-0000
+43-9041,Insurance Claims and Policy Processing Clerks,0.1467,43-9041.02,Insurance Policy Processing Clerks,Office and Administrative Support,False,False,2.0,39660.0,32700.0,-1.0,Insurance Claims and Policy Processing Clerks,43-0000
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.0,43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service",Office and Administrative Support,False,False,2.0,30430.0,9100.0,94.0,,43-0000
+43-9061,"Office Clerks, General",0.4504,43-9061.00,"Office Clerks, General",Office and Administrative Support,True,False,2.0,32730.0,360400.0,96.0,,43-0000
+43-9071,"Office Machine Operators, Except Computer",0.0239,43-9071.00,"Office Machine Operators, Except Computer",Office and Administrative Support,False,False,2.0,32790.0,5300.0,92.0,,43-0000
+43-9081,Proofreaders and Copy Markers,0.1781,43-9081.00,Proofreaders and Copy Markers,Office and Administrative Support,False,False,4.0,39140.0,2100.0,84.0,,43-0000
+43-9111,Statistical Assistants,0.5099,43-9111.01,Bioinformatics Technicians,Office and Administrative Support,True,False,4.0,48330.0,1800.0,-1.0,Statistical Assistants,43-0000
+43-9111,Statistical Assistants,0.5099,43-9111.00,Statistical Assistants,Office and Administrative Support,True,False,4.0,48330.0,1800.0,66.0,,43-0000
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.0,45-1011.07,First-Line Supervisors of Agricultural Crop and Horticultural Workers,"Farming, Fishing, and Forestry",False,True,3.0,46960.0,8400.0,-1.0,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-0000
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.0,45-1011.08,First-Line Supervisors of Animal Husbandry and Animal Care Workers,"Farming, Fishing, and Forestry",False,False,3.0,46960.0,8400.0,-1.0,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-0000
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.0,45-1011.06,First-Line Supervisors of Aquacultural Workers,"Farming, Fishing, and Forestry",False,False,4.0,46960.0,8400.0,-1.0,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-0000
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.0,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Farming, Fishing, and Forestry",False,False,-1.0,46960.0,8400.0,57.0,,45-0000
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.0,45-1011.05,First-Line Supervisors of Logging Workers,"Farming, Fishing, and Forestry",False,True,2.0,46960.0,8400.0,-1.0,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-0000
+45-2011,Agricultural Inspectors,0.0,45-2011.00,Agricultural Inspectors,"Farming, Fishing, and Forestry",False,True,2.0,44140.0,2700.0,94.0,,45-0000
+45-2021,Animal Breeders,0.0,45-2021.00,Animal Breeders,"Farming, Fishing, and Forestry",False,False,2.0,37060.0,1500.0,95.0,,45-0000
+45-2041,"Graders and Sorters, Agricultural Products",0.0,45-2041.00,"Graders and Sorters, Agricultural Products","Farming, Fishing, and Forestry",False,False,1.0,24430.0,5800.0,41.0,,45-0000
+45-2091,Agricultural Equipment Operators,0.0,45-2091.00,Agricultural Equipment Operators,"Farming, Fishing, and Forestry",True,False,1.0,31190.0,12100.0,-1.0,,45-0000
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0203,45-2092.02,"Farmworkers and Laborers, Crop","Farming, Fishing, and Forestry",False,False,1.0,24320.0,88800.0,-1.0,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-0000
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0203,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farming, Fishing, and Forestry",False,False,-1.0,24320.0,88800.0,-1.0,,45-0000
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0203,45-2092.01,Nursery Workers,"Farming, Fishing, and Forestry",False,False,2.0,24320.0,88800.0,-1.0,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-0000
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.0,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farming, Fishing, and Forestry",False,False,2.0,26560.0,40600.0,-1.0,,45-0000
+45-4011,Forest and Conservation Workers,0.0,45-4011.00,Forest and Conservation Workers,"Farming, Fishing, and Forestry",False,True,3.0,27460.0,2400.0,87.0,,45-0000
+45-4021,Fallers,0.0,45-4021.00,Fallers,"Farming, Fishing, and Forestry",False,False,1.0,44080.0,800.0,76.0,,45-0000
+45-4022,Logging Equipment Operators,0.0,45-4022.00,Logging Equipment Operators,"Farming, Fishing, and Forestry",False,False,1.0,40510.0,5000.0,79.0,,45-0000
+45-4023,Log Graders and Scalers,0.0,45-4023.00,Log Graders and Scalers,"Farming, Fishing, and Forestry",False,False,2.0,38220.0,700.0,97.0,,45-0000
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,0.0296,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,Construction and Extraction,True,False,3.0,65230.0,79400.0,17.0,,47-0000
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,0.0296,47-1011.03,Solar Energy Installation Managers,Construction and Extraction,True,True,3.0,65230.0,79400.0,-1.0,First-Line Supervisors of Construction Trades and Extraction Workers,47-0000
+47-2011,Boilermakers,0.0,47-2011.00,Boilermakers,Construction and Extraction,False,True,3.0,62150.0,1600.0,68.0,,47-0000
+47-2021,Brickmasons and Blockmasons,0.0,47-2021.00,Brickmasons and Blockmasons,Construction and Extraction,True,False,2.0,50950.0,10000.0,82.0,,47-0000
+47-2022,Stonemasons,0.0,47-2022.00,Stonemasons,Construction and Extraction,True,False,3.0,41220.0,1900.0,89.0,,47-0000
+47-2031,Carpenters,0.0,47-2031.00,Carpenters,Construction and Extraction,True,False,-1.0,46590.0,116300.0,72.0,,47-0000
+47-2031,Carpenters,0.0,47-2031.01,Construction Carpenters,Construction and Extraction,True,True,2.0,46590.0,116300.0,-1.0,Carpenters,47-0000
+47-2031,Carpenters,0.0,47-2031.02,Rough Carpenters,Construction and Extraction,True,True,2.0,46590.0,116300.0,-1.0,Carpenters,47-0000
+47-2041,Carpet Installers,0.0,47-2041.00,Carpet Installers,Construction and Extraction,False,False,2.0,39340.0,3500.0,87.0,,47-0000
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.0,47-2042.00,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Construction and Extraction,True,False,2.0,42760.0,2500.0,79.0,,47-0000
+47-2043,Floor Sanders and Finishers,0.0,47-2043.00,Floor Sanders and Finishers,Construction and Extraction,True,False,2.0,37510.0,700.0,87.0,,47-0000
+47-2044,Tile and Stone Setters,0.0,47-2044.00,Tile and Marble Setters,Construction and Extraction,True,False,2.0,41840.0,6900.0,75.0,,47-0000
+47-2051,Cement Masons and Concrete Finishers,0.0,47-2051.00,Cement Masons and Concrete Finishers,Construction and Extraction,True,True,1.0,43000.0,23300.0,94.0,,47-0000
+47-2053,Terrazzo Workers and Finishers,0.0,47-2053.00,Terrazzo Workers and Finishers,Construction and Extraction,True,False,2.0,42500.0,400.0,88.0,,47-0000
+47-2061,Construction Laborers,0.0281,47-2061.00,Construction Laborers,Construction and Extraction,True,True,2.0,35800.0,179300.0,88.0,,47-0000
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",0.0,47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",Construction and Extraction,True,False,2.0,39780.0,6700.0,83.0,,47-0000
+47-2072,Pile Driver Operators,0.0,47-2072.00,Pile-Driver Operators,Construction and Extraction,True,False,2.0,58680.0,500.0,82.0,,47-0000
+47-2073,Operating Engineers and Other Construction Equipment Operators,0.0,47-2073.00,Operating Engineers and Other Construction Equipment Operators,Construction and Extraction,True,True,2.0,47810.0,52500.0,95.0,,47-0000
+47-2081,Drywall and Ceiling Tile Installers,0.0,47-2081.00,Drywall and Ceiling Tile Installers,Construction and Extraction,False,False,2.0,43730.0,12600.0,79.0,,47-0000
+47-2082,Tapers,0.0,47-2082.00,Tapers,Construction and Extraction,False,False,2.0,55080.0,2200.0,62.0,,47-0000
+47-2111,Electricians,0.0,47-2111.00,Electricians,Construction and Extraction,True,True,3.0,55190.0,94600.0,15.0,,47-0000
+47-2121,Glaziers,0.0,47-2121.00,Glaziers,Construction and Extraction,True,False,2.0,43550.0,7000.0,73.0,,47-0000
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",0.0,47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall",Construction and Extraction,False,True,2.0,38480.0,4000.0,83.0,,47-0000
+47-2132,"Insulation Workers, Mechanical",0.0439,47-2132.00,"Insulation Workers, Mechanical",Construction and Extraction,True,False,2.0,47740.0,3300.0,64.0,,47-0000
+47-2141,"Painters, Construction and Maintenance",0.0,47-2141.00,"Painters, Construction and Maintenance",Construction and Extraction,False,False,2.0,38940.0,41400.0,75.0,,47-0000
+47-2142,Paperhangers,0.0,47-2142.00,Paperhangers,Construction and Extraction,False,False,2.0,38090.0,500.0,87.0,,47-0000
+47-2151,Pipelayers,0.0,47-2151.00,Pipelayers,Construction and Extraction,True,False,2.0,38560.0,5500.0,62.0,,47-0000
+47-2152,"Plumbers, Pipefitters, and Steamfitters",0.0116,47-2152.01,Pipe Fitters and Steamfitters,Construction and Extraction,True,True,3.0,53910.0,66100.0,-1.0,"Plumbers, Pipefitters, and Steamfitters",47-0000
+47-2152,"Plumbers, Pipefitters, and Steamfitters",0.0116,47-2152.02,Plumbers,Construction and Extraction,True,True,3.0,53910.0,66100.0,-1.0,"Plumbers, Pipefitters, and Steamfitters",47-0000
+47-2152,"Plumbers, Pipefitters, and Steamfitters",0.0116,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",Construction and Extraction,True,False,-1.0,53910.0,66100.0,35.0,,47-0000
+47-2161,Plasterers and Stucco Masons,0.0,47-2161.00,Plasterers and Stucco Masons,Construction and Extraction,False,False,1.0,43540.0,2700.0,84.0,,47-0000
+47-2171,Reinforcing Iron and Rebar Workers,0.0,47-2171.00,Reinforcing Iron and Rebar Workers,Construction and Extraction,True,False,2.0,48320.0,2500.0,90.0,,47-0000
+47-2181,Roofers,0.0157,47-2181.00,Roofers,Construction and Extraction,True,True,2.0,39970.0,19500.0,90.0,,47-0000
+47-2211,Sheet Metal Workers,0.0,47-2211.00,Sheet Metal Workers,Construction and Extraction,True,True,2.0,48460.0,17300.0,82.0,,47-0000
+47-2221,Structural Iron and Steel Workers,0.0491,47-2221.00,Structural Iron and Steel Workers,Construction and Extraction,True,True,2.0,53970.0,10900.0,83.0,,47-0000
+47-2231,Solar Photovoltaic Installers,0.0,47-2231.00,Solar Photovoltaic Installers,Construction and Extraction,True,True,2.0,42680.0,2200.0,-1.0,,47-0000
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.0,47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Construction and Extraction,True,False,2.0,33380.0,3700.0,-1.0,,47-0000
+47-3012,Helpers--Carpenters,0.0,47-3012.00,Helpers--Carpenters,Construction and Extraction,True,True,2.0,30880.0,5300.0,92.0,,47-0000
+47-3013,Helpers--Electricians,0.0,47-3013.00,Helpers--Electricians,Construction and Extraction,True,False,2.0,31410.0,11400.0,74.0,,47-0000
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0.0,47-3014.00,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Construction and Extraction,False,False,1.0,29960.0,1600.0,94.0,,47-0000
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.0,47-3015.00,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Construction and Extraction,True,False,2.0,30980.0,9200.0,57.0,,47-0000
+47-3016,Helpers--Roofers,0.0,47-3016.00,Helpers--Roofers,Construction and Extraction,True,False,2.0,30390.0,1400.0,72.0,,47-0000
+47-4011,Construction and Building Inspectors,0.0481,47-4011.00,Construction and Building Inspectors,Construction and Extraction,True,True,3.0,59700.0,15800.0,63.0,,47-0000
+47-4021,Elevator and Escalator Installers and Repairers,0.0,47-4021.00,Elevator Installers and Repairers,Construction and Extraction,True,False,3.0,79780.0,3500.0,39.0,,47-0000
+47-4031,Fence Erectors,0.0,47-4031.00,Fence Erectors,Construction and Extraction,True,False,2.0,34800.0,4200.0,92.0,,47-0000
+47-4041,Hazardous Materials Removal Workers,0.0,47-4041.00,Hazardous Materials Removal Workers,Construction and Extraction,True,True,3.0,42030.0,6600.0,53.0,,47-0000
+47-4051,Highway Maintenance Workers,0.0,47-4051.00,Highway Maintenance Workers,Construction and Extraction,False,False,2.0,39690.0,18400.0,87.0,,47-0000
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,0.0,47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,Construction and Extraction,True,True,2.0,56930.0,1600.0,89.0,,47-0000
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,0.0,47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners,Construction and Extraction,True,False,1.0,38970.0,4000.0,83.0,,47-0000
+47-5011,"Derrick Operators, Oil and Gas",0.0,47-5011.00,"Derrick Operators, Oil and Gas",Construction and Extraction,True,False,1.0,46120.0,2100.0,80.0,,47-0000
+47-5012,"Rotary Drill Operators, Oil and Gas",0.0,47-5012.00,"Rotary Drill Operators, Oil and Gas",Construction and Extraction,True,False,2.0,53800.0,3200.0,53.0,,47-0000
+47-5013,"Service Unit Operators, Oil and Gas",0.0,47-5013.00,"Service Unit Operators, Oil, Gas, and Mining",Construction and Extraction,True,True,2.0,47860.0,8700.0,93.0,,47-0000
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",0.0,,,,,,,,,,,47-0000
+47-5023,"Earth Drillers, Except Oil and Gas",0.0,,,,,,,,,,,47-0000
+47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",0.0,,,,,,,,,,,47-0000
+47-5041,Continuous Mining Machine Operators,0.0,47-5041.00,Continuous Mining Machine Operators,Construction and Extraction,False,True,2.0,54520.0,1900.0,54.0,,47-0000
+47-5043,"Roof Bolters, Mining",0.0,,,,,,,,,,,47-0000
+47-5044,"Loading and Moving Machine Operators, Underground Mining",0.0,,,,,,,,,,,47-0000
+47-5051,"Rock Splitters, Quarry",0.0,47-5051.00,"Rock Splitters, Quarry",Construction and Extraction,False,False,1.0,34750.0,700.0,96.0,,47-0000
+47-5071,"Roustabouts, Oil and Gas",0.0,47-5071.00,"Roustabouts, Oil and Gas",Construction and Extraction,True,False,1.0,37580.0,9100.0,68.0,,47-0000
+47-5081,Helpers--Extraction Workers,0.0,47-5081.00,Helpers--Extraction Workers,Construction and Extraction,True,False,2.0,36350.0,2600.0,37.0,,47-0000
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.1015,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers","Installation, Maintenance, and Repair",False,True,3.0,66140.0,47500.0,0.3,,49-0000
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",0.1067,49-2011.00,"Computer, Automated Teller, and Office Machine Repairers","Installation, Maintenance, and Repair",False,False,3.0,38480.0,11900.0,74.0,,49-0000
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",0.0,49-2021.01,Radio Mechanics,"Installation, Maintenance, and Repair",False,False,3.0,54890.0,1600.0,-1.0,"Radio, Cellular, and Tower Equipment Installers and Repairers",49-0000
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",0.0,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers","Installation, Maintenance, and Repair",False,False,3.0,54890.0,1600.0,-1.0,,49-0000
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.0333,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers","Installation, Maintenance, and Repair",False,False,3.0,56100.0,23600.0,36.0,,49-0000
+49-2091,Avionics Technicians,0.0,49-2091.00,Avionics Technicians,"Installation, Maintenance, and Repair",False,False,3.0,64140.0,1500.0,70.0,,49-0000
+49-2092,"Electric Motor, Power Tool, and Related Repairers",0.0,49-2092.00,"Electric Motor, Power Tool, and Related Repairers","Installation, Maintenance, and Repair",False,False,3.0,42840.0,1900.0,76.0,,49-0000
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.0,49-2093.00,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Installation, Maintenance, and Repair",False,False,3.0,60340.0,1000.0,91.0,,49-0000
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.0,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Installation, Maintenance, and Repair",False,True,3.0,58110.0,5400.0,-1.0,,49-0000
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.0,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Installation, Maintenance, and Repair",False,False,3.0,80200.0,2100.0,-1.0,,49-0000
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",0.0,49-2096.00,"Electronic Equipment Installers and Repairers, Motor Vehicles","Installation, Maintenance, and Repair",False,False,3.0,35590.0,800.0,61.0,,49-0000
+49-2097,Audiovisual Equipment Installers and Repairers,0.0,49-2097.00,Electronic Home Entertainment Equipment Installers and Repairers,"Installation, Maintenance, and Repair",False,False,3.0,38160.0,3300.0,65.0,,49-0000
+49-2098,Security and Fire Alarm Systems Installers,0.0303,49-2098.00,Security and Fire Alarm Systems Installers,"Installation, Maintenance, and Repair",True,False,3.0,47190.0,10500.0,82.0,,49-0000
+49-3011,Aircraft Mechanics and Service Technicians,0.0,49-3011.00,Aircraft Mechanics and Service Technicians,"Installation, Maintenance, and Repair",False,False,3.0,62920.0,11800.0,71.0,,49-0000
+49-3021,Automotive Body and Related Repairers,0.0,49-3021.00,Automotive Body and Related Repairers,"Installation, Maintenance, and Repair",False,False,2.0,42730.0,16000.0,91.0,,49-0000
+49-3022,Automotive Glass Installers and Repairers,0.0,49-3022.00,Automotive Glass Installers and Repairers,"Installation, Maintenance, and Repair",False,False,2.0,34170.0,2100.0,55.0,,49-0000
+49-3023,Automotive Service Technicians and Mechanics,0.0,49-3023.01,Automotive Master Mechanics,"Installation, Maintenance, and Repair",False,False,3.0,40710.0,74000.0,-1.0,Automotive Service Technicians and Mechanics,49-0000
+49-3023,Automotive Service Technicians and Mechanics,0.0,49-3023.00,Automotive Service Technicians and Mechanics,"Installation, Maintenance, and Repair",False,False,-1.0,40710.0,74000.0,59.0,,49-0000
+49-3023,Automotive Service Technicians and Mechanics,0.0,49-3023.02,Automotive Specialty Technicians,"Installation, Maintenance, and Repair",False,True,3.0,40710.0,74000.0,-1.0,Automotive Service Technicians and Mechanics,49-0000
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,0.0,49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists,"Installation, Maintenance, and Repair",False,True,3.0,47350.0,28400.0,73.0,,49-0000
+49-3041,Farm Equipment Mechanics and Service Technicians,0.0,49-3041.00,Farm Equipment Mechanics and Service Technicians,"Installation, Maintenance, and Repair",False,False,3.0,40630.0,4800.0,75.0,,49-0000
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",0.0,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines","Installation, Maintenance, and Repair",False,False,3.0,51920.0,15800.0,40.0,,49-0000
+49-3043,Rail Car Repairers,0.0,49-3043.00,Rail Car Repairers,"Installation, Maintenance, and Repair",False,False,2.0,56220.0,2600.0,88.0,,49-0000
+49-3051,Motorboat Mechanics and Service Technicians,0.0,49-3051.00,Motorboat Mechanics and Service Technicians,"Installation, Maintenance, and Repair",False,False,3.0,40180.0,2700.0,66.0,,49-0000
+49-3052,Motorcycle Mechanics,0.0,49-3052.00,Motorcycle Mechanics,"Installation, Maintenance, and Repair",True,False,3.0,36790.0,1900.0,79.0,,49-0000
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,0.0,49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics,"Installation, Maintenance, and Repair",False,False,2.0,35400.0,3800.0,93.0,,49-0000
+49-3091,Bicycle Repairers,0.0,49-3091.00,Bicycle Repairers,"Installation, Maintenance, and Repair",True,False,2.0,28960.0,1500.0,94.0,,49-0000
+49-3092,Recreational Vehicle Service Technicians,0.0,49-3092.00,Recreational Vehicle Service Technicians,"Installation, Maintenance, and Repair",True,False,2.0,38160.0,2000.0,59.0,,49-0000
+49-3093,Tire Repairers and Changers,0.0,49-3093.00,Tire Repairers and Changers,"Installation, Maintenance, and Repair",False,False,2.0,27890.0,11400.0,70.0,,49-0000
+49-9011,Mechanical Door Repairers,0.0,49-9011.00,Mechanical Door Repairers,"Installation, Maintenance, and Repair",True,False,2.0,41010.0,2300.0,91.0,,49-0000
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",0.0,49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door","Installation, Maintenance, and Repair",False,False,3.0,56070.0,4600.0,63.0,,49-0000
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.0191,49-9021.01,Heating and Air Conditioning Mechanics and Installers,"Installation, Maintenance, and Repair",True,True,3.0,47610.0,42800.0,-1.0,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-0000
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.0191,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Installation, Maintenance, and Repair",True,False,-1.0,47610.0,42800.0,65.0,,49-0000
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.0191,49-9021.02,Refrigeration Mechanics and Installers,"Installation, Maintenance, and Repair",True,True,3.0,47610.0,42800.0,-1.0,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-0000
+49-9031,Home Appliance Repairers,0.0,49-9031.00,Home Appliance Repairers,"Installation, Maintenance, and Repair",False,False,2.0,39270.0,4300.0,72.0,,49-0000
+49-9041,Industrial Machinery Mechanics,0.0239,49-9041.00,Industrial Machinery Mechanics,"Installation, Maintenance, and Repair",False,True,3.0,52340.0,37800.0,67.0,,49-0000
+49-9043,"Maintenance Workers, Machinery",0.0,49-9043.00,"Maintenance Workers, Machinery","Installation, Maintenance, and Repair",False,False,3.0,47060.0,8000.0,86.0,,49-0000
+49-9044,Millwrights,0.0,49-9044.00,Millwrights,"Installation, Maintenance, and Repair",True,True,2.0,55060.0,4400.0,59.0,,49-0000
+49-9045,"Refractory Materials Repairers, Except Brickmasons",0.0,49-9045.00,"Refractory Materials Repairers, Except Brickmasons","Installation, Maintenance, and Repair",False,False,2.0,52190.0,100.0,82.0,,49-0000
+49-9051,Electrical Power-Line Installers and Repairers,0.0,49-9051.00,Electrical Power-Line Installers and Repairers,"Installation, Maintenance, and Repair",True,True,3.0,70910.0,11400.0,10.0,,49-0000
+49-9052,Telecommunications Line Installers and Repairers,0.0,49-9052.00,Telecommunications Line Installers and Repairers,"Installation, Maintenance, and Repair",False,False,2.0,58280.0,13900.0,49.0,,49-0000
+49-9061,Camera and Photographic Equipment Repairers,0.0412,49-9061.00,Camera and Photographic Equipment Repairers,"Installation, Maintenance, and Repair",False,False,3.0,40620.0,400.0,97.0,,49-0000
+49-9062,Medical Equipment Repairers,0.0,49-9062.00,Medical Equipment Repairers,"Installation, Maintenance, and Repair",False,False,3.0,49210.0,6000.0,27.0,,49-0000
+49-9063,Musical Instrument Repairers and Tuners,0.0,49-9063.00,Musical Instrument Repairers and Tuners,"Installation, Maintenance, and Repair",False,False,3.0,36330.0,800.0,91.0,,49-0000
+49-9064,Watch and Clock Repairers,0.0,49-9064.00,Watch Repairers,"Installation, Maintenance, and Repair",False,False,3.0,39910.0,200.0,99.0,,49-0000
+49-9071,"Maintenance and Repair Workers, General",0.0,49-9071.00,"Maintenance and Repair Workers, General","Installation, Maintenance, and Repair",True,True,3.0,38300.0,156900.0,64.0,,49-0000
+49-9081,Wind Turbine Service Technicians,0.0,49-9081.00,Wind Turbine Service Technicians,"Installation, Maintenance, and Repair",True,True,3.0,54370.0,1300.0,-1.0,,49-0000
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",0.0,49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers","Installation, Maintenance, and Repair",False,False,2.0,34560.0,4300.0,94.0,,49-0000
+49-9092,Commercial Divers,0.0,49-9092.00,Commercial Divers,"Installation, Maintenance, and Repair",True,False,3.0,49140.0,500.0,18.0,,49-0000
+49-9094,Locksmiths and Safe Repairers,0.0,49-9094.00,Locksmiths and Safe Repairers,"Installation, Maintenance, and Repair",False,False,2.0,41450.0,2100.0,77.0,,49-0000
+49-9095,Manufactured Building and Mobile Home Installers,0.0,49-9095.00,Manufactured Building and Mobile Home Installers,"Installation, Maintenance, and Repair",False,False,2.0,32040.0,200.0,18.0,,49-0000
+49-9096,Riggers,0.0,49-9096.00,Riggers,"Installation, Maintenance, and Repair",False,False,2.0,50370.0,2300.0,89.0,,49-0000
+49-9097,Signal and Track Switch Repairers,0.0,49-9097.00,Signal and Track Switch Repairers,"Installation, Maintenance, and Repair",False,False,3.0,70490.0,900.0,90.0,,49-0000
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",0.0,49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers","Installation, Maintenance, and Repair",True,True,2.0,29450.0,15100.0,79.0,,49-0000
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",0.0,49-9099.01,Geothermal Technicians,"Installation, Maintenance, and Repair",False,True,2.0,39320.0,21300.0,-1.0,"Installation, Maintenance, and Repair Workers, All Other",49-0000
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",0.0,49-9099.00,"Installation, Maintenance, and Repair Workers, All Other","Installation, Maintenance, and Repair",False,False,-1.0,39320.0,21300.0,50.0,,49-0000
+51-1011,First-Line Supervisors of Production and Operating Workers,0.0,51-1011.00,First-Line Supervisors of Production and Operating Workers,Production,False,True,2.0,60420.0,65200.0,1.6,,51-0000
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.0494,51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Production,False,True,2.0,53340.0,2500.0,79.0,,51-0000
+51-2021,"Coil Winders, Tapers, and Finishers",0.0,51-2021.00,"Coil Winders, Tapers, and Finishers",Production,False,False,2.0,34400.0,1000.0,73.0,,51-0000
+51-2031,Engine and Other Machine Assemblers,0.0,51-2031.00,Engine and Other Machine Assemblers,Production,False,True,2.0,44380.0,4500.0,82.0,,51-0000
+51-2041,Structural Metal Fabricators and Fitters,0.0,51-2041.00,Structural Metal Fabricators and Fitters,Production,False,True,3.0,39290.0,6600.0,41.0,,51-0000
+51-2051,Fiberglass Laminators and Fabricators,0.0,,,,,,,,,,,51-0000
+51-2061,Timing Device Assemblers and Adjusters,0.0392,,,,,,,,,,,51-0000
+51-3011,Bakers,0.0,51-3011.00,Bakers,Production,False,False,2.0,26520.0,28100.0,89.0,,51-0000
+51-3021,Butchers and Meat Cutters,0.0,51-3021.00,Butchers and Meat Cutters,Production,False,False,2.0,31580.0,17400.0,93.0,,51-0000
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",0.0,51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",Production,False,False,1.0,26950.0,20800.0,94.0,,51-0000
+51-3023,Slaughterers and Meat Packers,0.0,51-3023.00,Slaughterers and Meat Packers,Production,False,False,2.0,28260.0,9900.0,60.0,,51-0000
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.0,51-3091.00,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",Production,False,False,2.0,30840.0,2900.0,-1.0,,51-0000
+51-3092,Food Batchmakers,0.0,51-3092.00,Food Batchmakers,Production,False,False,2.0,29720.0,24800.0,70.0,,51-0000
+51-3093,Food Cooking Machine Operators and Tenders,0.0,51-3093.00,Food Cooking Machine Operators and Tenders,Production,False,False,2.0,30120.0,5700.0,61.0,,51-0000
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,35150.0,8300.0,91.0,,51-0000
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4022.00,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,38900.0,1200.0,93.0,,51-0000
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,38650.0,2100.0,83.0,,51-0000
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,True,2.0,34460.0,18600.0,78.0,,51-0000
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4032.00,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,True,2.0,38020.0,900.0,-1.0,,51-0000
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,34850.0,7400.0,-1.0,,51-0000
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,39180.0,2800.0,84.0,,51-0000
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,43590.0,1400.0,-1.0,,51-0000
+51-4041,Machinists,0.0,51-4041.00,Machinists,Production,False,True,3.0,43630.0,41600.0,65.0,,51-0000
+51-4051,Metal-Refining Furnace Operators and Tenders,0.0,51-4051.00,Metal-Refining Furnace Operators and Tenders,Production,False,False,2.0,41220.0,2000.0,88.0,,51-0000
+51-4052,"Pourers and Casters, Metal",0.0,51-4052.00,"Pourers and Casters, Metal",Production,False,False,2.0,37730.0,700.0,87.0,,51-0000
+51-4061,"Model Makers, Metal and Plastic",0.0,51-4061.00,"Model Makers, Metal and Plastic",Production,False,False,3.0,56130.0,500.0,93.0,,51-0000
+51-4062,"Patternmakers, Metal and Plastic",0.0,51-4062.00,"Patternmakers, Metal and Plastic",Production,False,False,3.0,45840.0,200.0,90.0,,51-0000
+51-4071,Foundry Mold and Coremakers,0.0,51-4071.00,Foundry Mold and Coremakers,Production,False,False,2.0,35430.0,1300.0,67.0,,51-0000
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,31480.0,15700.0,-1.0,,51-0000
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,35390.0,14700.0,-1.0,,51-0000
+51-4111,Tool and Die Makers,0.0,51-4111.00,Tool and Die Makers,Production,False,False,3.0,52750.0,6700.0,84.0,,51-0000
+51-4121,"Welders, Cutters, Solderers, and Brazers",0.0,51-4121.07,Solderers and Brazers,Production,False,True,2.0,41380.0,48800.0,-1.0,"Welders, Cutters, Solderers, and Brazers",51-0000
+51-4121,"Welders, Cutters, Solderers, and Brazers",0.0,51-4121.06,"Welders, Cutters, and Welder Fitters",Production,False,True,3.0,41380.0,48800.0,-1.0,"Welders, Cutters, Solderers, and Brazers",51-0000
+51-4121,"Welders, Cutters, Solderers, and Brazers",0.0,51-4121.00,"Welders, Cutters, Solderers, and Brazers",Production,False,False,-1.0,41380.0,48800.0,94.0,,51-0000
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.0,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Production,False,False,2.0,37670.0,3700.0,-1.0,,51-0000
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4191.00,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,37520.0,1700.0,-1.0,,51-0000
+51-4192,"Layout Workers, Metal and Plastic",0.0,51-4192.00,"Layout Workers, Metal and Plastic",Production,False,False,2.0,47900.0,800.0,84.0,,51-0000
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,51-4193.00,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",Production,False,False,2.0,32420.0,3600.0,-1.0,,51-0000
+51-4194,"Tool Grinders, Filers, and Sharpeners",0.0,51-4194.00,"Tool Grinders, Filers, and Sharpeners",Production,False,False,2.0,38140.0,1200.0,88.0,,51-0000
+51-5111,Prepress Technicians and Workers,0.1018,51-5111.00,Prepress Technicians and Workers,Production,False,False,3.0,40410.0,2700.0,97.0,,51-0000
+51-5112,Printing Press Operators,0.0,51-5112.00,Printing Press Operators,Production,False,False,3.0,36220.0,15800.0,83.0,,51-0000
+51-5113,Print Binding and Finishing Workers,0.0,51-5113.00,Print Binding and Finishing Workers,Production,False,False,2.0,32890.0,5300.0,95.0,,51-0000
+51-6011,Laundry and Dry-Cleaning Workers,0.0,51-6011.00,Laundry and Dry-Cleaning Workers,Production,False,False,1.0,23210.0,29000.0,71.0,,51-0000
+51-6021,"Pressers, Textile, Garment, and Related Materials",0.0,51-6021.00,"Pressers, Textile, Garment, and Related Materials",Production,False,False,1.0,23350.0,3300.0,81.0,,51-0000
+51-6031,Sewing Machine Operators,0.0,51-6031.00,Sewing Machine Operators,Production,False,False,1.0,25030.0,14200.0,89.0,,51-0000
+51-6041,Shoe and Leather Workers and Repairers,0.0,51-6041.00,Shoe and Leather Workers and Repairers,Production,False,False,2.0,28840.0,1400.0,52.0,,51-0000
+51-6042,Shoe Machine Operators and Tenders,0.0,51-6042.00,Shoe Machine Operators and Tenders,Production,False,False,2.0,30430.0,500.0,97.0,,51-0000
+51-6051,"Sewers, Hand",0.0,51-6051.00,"Sewers, Hand",Production,False,False,2.0,28650.0,1000.0,99.0,,51-0000
+51-6052,"Tailors, Dressmakers, and Custom Sewers",0.0342,51-6052.00,"Tailors, Dressmakers, and Custom Sewers",Production,False,False,3.0,31000.0,4200.0,84.0,,51-0000
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,0.0211,51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,Production,False,False,2.0,28780.0,1000.0,97.0,,51-0000
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",0.0152,51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders",Production,False,False,2.0,28220.0,1000.0,95.0,,51-0000
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.032,51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Production,False,False,2.0,29160.0,1800.0,73.0,,51-0000
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.0,51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Production,False,False,2.0,28920.0,2400.0,-1.0,,51-0000
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0.0,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Production,False,False,2.0,34200.0,2300.0,-1.0,,51-0000
+51-6092,Fabric and Apparel Patternmakers,0.0,51-6092.00,Fabric and Apparel Patternmakers,Production,False,False,3.0,40560.0,600.0,0.5,,51-0000
+51-6093,Upholsterers,0.0,51-6093.00,Upholsterers,Production,False,False,2.0,34480.0,4000.0,39.0,,51-0000
+51-7011,Cabinetmakers and Bench Carpenters,0.0,51-7011.00,Cabinetmakers and Bench Carpenters,Production,False,False,2.0,34740.0,12000.0,92.0,,51-0000
+51-7021,Furniture Finishers,0.0,51-7021.00,Furniture Finishers,Production,False,False,2.0,31950.0,2400.0,87.0,,51-0000
+51-7031,"Model Makers, Wood",0.0,51-7031.00,"Model Makers, Wood",Production,False,False,3.0,53100.0,200.0,96.0,,51-0000
+51-7032,"Patternmakers, Wood",0.0301,51-7032.00,"Patternmakers, Wood",Production,False,False,3.0,60940.0,200.0,91.0,,51-0000
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",0.0,51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood",Production,False,False,2.0,29500.0,6200.0,86.0,,51-0000
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.0,51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Production,False,False,2.0,29730.0,11100.0,97.0,,51-0000
+51-8011,Nuclear Power Reactor Operators,0.0,51-8011.00,Nuclear Power Reactor Operators,Production,False,True,3.0,94350.0,500.0,95.0,,51-0000
+51-8012,Power Distributors and Dispatchers,0.0,51-8012.00,Power Distributors and Dispatchers,Production,False,True,3.0,86410.0,1000.0,64.0,,51-0000
+51-8013,Power Plant Operators,0.0257,51-8013.00,Power Plant Operators,Production,False,True,2.0,79610.0,3000.0,85.0,,51-0000
+51-8021,Stationary Engineers and Boiler Operators,0.0,51-8021.00,Stationary Engineers and Boiler Operators,Production,False,True,3.0,60440.0,3700.0,89.0,,51-0000
+51-8031,Water and Wastewater Treatment Plant and System Operators,0.0,51-8031.00,Water and Wastewater Treatment Plant and System Operators,Production,False,False,3.0,46780.0,10600.0,61.0,,51-0000
+51-8091,Chemical Plant and System Operators,0.0,51-8091.00,Chemical Plant and System Operators,Production,False,True,2.0,62060.0,2800.0,85.0,,51-0000
+51-8092,Gas Plant Operators,0.0723,51-8092.00,Gas Plant Operators,Production,False,False,3.0,71070.0,1500.0,78.0,,51-0000
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.0405,51-8093.00,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Production,False,False,2.0,70860.0,4300.0,71.0,,51-0000
+51-8099,"Plant and System Operators, All Other",0.0,51-8099.01,Biofuels Processing Technicians,Production,False,True,2.0,57100.0,1400.0,-1.0,"Plant and System Operators, All Other",51-0000
+51-8099,"Plant and System Operators, All Other",0.0,51-8099.03,Biomass Plant Technicians,Production,False,True,2.0,57100.0,1400.0,-1.0,"Plant and System Operators, All Other",51-0000
+51-8099,"Plant and System Operators, All Other",0.0,51-8099.04,Hydroelectric Plant Technicians,Production,False,True,3.0,57100.0,1400.0,-1.0,"Plant and System Operators, All Other",51-0000
+51-8099,"Plant and System Operators, All Other",0.0,51-8099.02,Methane/Landfill Gas Generation System Technicians,Production,False,True,-1.0,57100.0,1400.0,-1.0,"Plant and System Operators, All Other",51-0000
+51-8099,"Plant and System Operators, All Other",0.0,51-8099.00,"Plant and System Operators, All Other",Production,False,False,-1.0,57100.0,1400.0,86.0,,51-0000
+51-9011,Chemical Equipment Operators and Tenders,0.0,51-9011.00,Chemical Equipment Operators and Tenders,Production,False,True,2.0,48770.0,9000.0,76.0,,51-0000
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.0,51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Production,False,True,2.0,40810.0,6100.0,-1.0,,51-0000
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.0425,51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Production,False,False,2.0,36400.0,3500.0,-1.0,,51-0000
+51-9022,"Grinding and Polishing Workers, Hand",0.0,51-9022.00,"Grinding and Polishing Workers, Hand",Production,False,False,1.0,29550.0,2600.0,97.0,,51-0000
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",0.0,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",Production,False,True,2.0,37210.0,14900.0,83.0,,51-0000
+51-9031,"Cutters and Trimmers, Hand",0.0,51-9031.00,"Cutters and Trimmers, Hand",Production,False,False,1.0,29390.0,800.0,64.0,,51-0000
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",0.0321,51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders",Production,False,False,2.0,34620.0,7300.0,86.0,,51-0000
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.0,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Production,False,False,2.0,35120.0,7600.0,-1.0,,51-0000
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.0,51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Production,False,False,2.0,39160.0,2400.0,37.0,,51-0000
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.0324,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",Production,False,True,2.0,38250.0,54400.0,98.0,,51-0000
+51-9071,Jewelers and Precious Stone and Metal Workers,0.0,51-9071.06,Gem and Diamond Workers,Production,False,False,3.0,39440.0,4400.0,-1.0,Jewelers and Precious Stone and Metal Workers,51-0000
+51-9071,Jewelers and Precious Stone and Metal Workers,0.0,51-9071.01,Jewelers,Production,False,False,3.0,39440.0,4400.0,-1.0,Jewelers and Precious Stone and Metal Workers,51-0000
+51-9071,Jewelers and Precious Stone and Metal Workers,0.0,51-9071.00,Jewelers and Precious Stone and Metal Workers,Production,False,False,-1.0,39440.0,4400.0,95.0,,51-0000
+51-9071,Jewelers and Precious Stone and Metal Workers,0.0,51-9071.07,Precious Metal Workers,Production,False,False,3.0,39440.0,4400.0,-1.0,Jewelers and Precious Stone and Metal Workers,51-0000
+51-9081,Dental Laboratory Technicians,0.0,51-9081.00,Dental Laboratory Technicians,Production,True,False,2.0,40440.0,5100.0,97.0,,51-0000
+51-9082,Medical Appliance Technicians,0.0,51-9082.00,Medical Appliance Technicians,Production,True,False,3.0,39190.0,2200.0,45.0,,51-0000
+51-9083,Ophthalmic Laboratory Technicians,0.0,51-9083.00,Ophthalmic Laboratory Technicians,Production,True,False,2.0,31830.0,4100.0,97.0,,51-0000
+51-9111,Packaging and Filling Machine Operators and Tenders,0.0,51-9111.00,Packaging and Filling Machine Operators and Tenders,Production,False,False,2.0,30160.0,46700.0,98.0,,51-0000
+51-9123,"Painting, Coating, and Decorating Workers",0.0,51-9123.00,"Painting, Coating, and Decorating Workers",Production,False,False,1.0,31050.0,1400.0,92.0,,51-0000
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.0,,,,,,,,,,,51-0000
+51-9141,Semiconductor Processing Technicians,0.0,51-9141.00,Semiconductor Processors,Production,False,False,2.0,37270.0,2800.0,88.0,,51-0000
+51-9151,Photographic Process Workers and Processing Machine Operators,0.0108,51-9151.00,Photographic Process Workers and Processing Machine Operators,Production,False,False,2.0,29180.0,2000.0,99.0,,51-0000
+51-9161,Computer Numerically Controlled Tool Operators,0.0215,,,,,,,,,,,51-0000
+51-9162,Computer Numerically Controlled Tool Programmers,0.1207,,,,,,,,,,,51-0000
+51-9191,Adhesive Bonding Machine Operators and Tenders,0.0,51-9191.00,Adhesive Bonding Machine Operators and Tenders,Production,False,False,2.0,33820.0,2100.0,95.0,,51-0000
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.0,51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Production,False,False,2.0,30790.0,2800.0,-1.0,,51-0000
+51-9193,Cooling and Freezing Equipment Operators and Tenders,0.0,51-9193.00,Cooling and Freezing Equipment Operators and Tenders,Production,False,False,2.0,32410.0,1100.0,93.0,,51-0000
+51-9194,Etchers and Engravers,0.0,51-9194.00,Etchers and Engravers,Production,False,False,2.0,31330.0,1300.0,98.0,,51-0000
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0,51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",Production,False,False,2.0,33340.0,5300.0,-1.0,"Molders, Shapers, and Casters, Except Metal and Plastic",51-0000
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0,51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic",Production,False,False,-1.0,33340.0,5300.0,90.0,,51-0000
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0,51-9195.07,Molding and Casting Workers,Production,False,False,2.0,33340.0,5300.0,-1.0,"Molders, Shapers, and Casters, Except Metal and Plastic",51-0000
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0,51-9195.05,"Potters, Manufacturing",Production,False,False,3.0,33340.0,5300.0,-1.0,"Molders, Shapers, and Casters, Except Metal and Plastic",51-0000
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0,51-9195.03,"Stone Cutters and Carvers, Manufacturing",Production,False,False,2.0,33340.0,5300.0,-1.0,"Molders, Shapers, and Casters, Except Metal and Plastic",51-0000
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",0.0,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders",Production,False,False,2.0,38730.0,9300.0,67.0,,51-0000
+51-9197,Tire Builders,0.0,51-9197.00,Tire Builders,Production,False,False,2.0,46630.0,2200.0,94.0,,51-0000
+51-9198,Helpers--Production Workers,0.0393,51-9198.00,Helpers--Production Workers,Production,True,False,2.0,27730.0,57700.0,66.0,,51-0000
+53-1041,Aircraft Cargo Handling Supervisors,0.0,,,,,,,,,,,53-0000
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",0.0,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",Transportation and Material Moving,False,False,4.0,140340.0,9100.0,18.0,,53-0000
+53-2012,Commercial Pilots,0.0,53-2012.00,Commercial Pilots,Transportation and Material Moving,True,False,3.0,82240.0,4600.0,55.0,,53-0000
+53-2021,Air Traffic Controllers,0.0,53-2021.00,Air Traffic Controllers,Transportation and Material Moving,False,False,3.0,124540.0,2300.0,11.0,,53-0000
+53-2022,Airfield Operations Specialists,0.0476,53-2022.00,Airfield Operations Specialists,Transportation and Material Moving,True,False,3.0,52200.0,1100.0,71.0,,53-0000
+53-2031,Flight Attendants,0.0913,53-2031.00,Flight Attendants,Transportation and Material Moving,True,False,3.0,56000.0,15300.0,35.0,,53-0000
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.0,53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Transportation and Material Moving,True,False,2.0,25750.0,2700.0,25.0,,53-0000
+53-3031,Driver/Sales Workers,0.0281,53-3031.00,Driver/Sales Workers,Transportation and Material Moving,False,False,2.0,24700.0,48800.0,98.0,,53-0000
+53-3032,Heavy and Tractor-Trailer Truck Drivers,0.0,53-3032.00,Heavy and Tractor-Trailer Truck Drivers,Transportation and Material Moving,True,True,2.0,43680.0,238400.0,79.0,,53-0000
+53-3033,Light Truck Drivers,0.0,53-3033.00,Light Truck or Delivery Services Drivers,Transportation and Material Moving,True,False,2.0,32810.0,120700.0,69.0,,53-0000
+53-3051,"Bus Drivers, School",0.0,,,,,,,,,,,53-0000
+53-3052,"Bus Drivers, Transit and Intercity",0.0,,,,,,,,,,,53-0000
+53-3053,Shuttle Drivers and Chauffeurs,0.0,,,,,,,,,,,53-0000
+53-3054,Taxi Drivers,0.0,,,,,,,,,,,53-0000
+53-4011,Locomotive Engineers,0.0,53-4011.00,Locomotive Engineers,Transportation and Material Moving,False,True,2.0,62100.0,2900.0,96.0,,53-0000
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.0,53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Transportation and Material Moving,False,False,2.0,52630.0,500.0,91.0,,53-0000
+53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",0.0,,,,,,,,,,,53-0000
+53-4031,Railroad Conductors and Yardmasters,0.0,53-4031.00,Railroad Conductors and Yardmasters,Transportation and Material Moving,False,True,2.0,62930.0,3700.0,83.0,,53-0000
+53-4041,Subway and Streetcar Operators,0.0,53-4041.00,Subway and Streetcar Operators,Transportation and Material Moving,False,False,2.0,68170.0,1000.0,86.0,,53-0000
+53-5011,Sailors and Marine Oilers,0.0,53-5011.00,Sailors and Marine Oilers,Transportation and Material Moving,False,False,2.0,40900.0,4000.0,83.0,,53-0000
+53-5021,"Captains, Mates, and Pilots of Water Vessels",0.0,53-5021.00,"Captains, Mates, and Pilots of Water Vessels",Transportation and Material Moving,False,False,-1.0,69180.0,3600.0,27.0,,53-0000
+53-5021,"Captains, Mates, and Pilots of Water Vessels",0.0,53-5021.02,"Mates- Ship, Boat, and Barge",Transportation and Material Moving,False,False,2.0,69180.0,3600.0,-1.0,"Captains, Mates, and Pilots of Water Vessels",53-0000
+53-5021,"Captains, Mates, and Pilots of Water Vessels",0.0,53-5021.03,"Pilots, Ship",Transportation and Material Moving,False,False,3.0,69180.0,3600.0,-1.0,"Captains, Mates, and Pilots of Water Vessels",53-0000
+53-5021,"Captains, Mates, and Pilots of Water Vessels",0.0,53-5021.01,Ship and Boat Captains,Transportation and Material Moving,False,False,3.0,69180.0,3600.0,-1.0,"Captains, Mates, and Pilots of Water Vessels",53-0000
+53-5022,Motorboat Operators,0.0,53-5022.00,Motorboat Operators,Transportation and Material Moving,False,False,2.0,50290.0,300.0,62.0,,53-0000
+53-5031,Ship Engineers,0.0,53-5031.00,Ship Engineers,Transportation and Material Moving,False,False,3.0,71130.0,1100.0,4.0,,53-0000
+53-6011,Bridge and Lock Tenders,0.0,53-6011.00,Bridge and Lock Tenders,Transportation and Material Moving,False,False,1.0,50320.0,400.0,97.0,,53-0000
+53-6021,Parking Attendants,0.0,53-6021.00,Parking Lot Attendants,Transportation and Material Moving,False,False,2.0,23870.0,23000.0,87.0,,53-0000
+53-6031,Automotive and Watercraft Service Attendants,0.0,53-6031.00,Automotive and Watercraft Service Attendants,Transportation and Material Moving,False,False,2.0,24200.0,18000.0,83.0,,53-0000
+53-6041,Traffic Technicians,0.0,53-6041.00,Traffic Technicians,Transportation and Material Moving,False,False,3.0,46570.0,900.0,90.0,,53-0000
+53-6051,Transportation Inspectors,0.0,53-6051.01,Aviation Inspectors,Transportation and Material Moving,False,False,3.0,73780.0,3300.0,-1.0,Transportation Inspectors,53-0000
+53-6051,Transportation Inspectors,0.0,53-6051.08,Freight and Cargo Inspectors,Transportation and Material Moving,False,False,4.0,73780.0,3300.0,-1.0,Transportation Inspectors,53-0000
+53-6051,Transportation Inspectors,0.0,53-6051.00,Transportation Inspectors,Transportation and Material Moving,False,False,-1.0,73780.0,3300.0,90.0,,53-0000
+53-6051,Transportation Inspectors,0.0,53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Transportation and Material Moving,False,True,2.0,73780.0,3300.0,-1.0,Transportation Inspectors,53-0000
+53-6061,Passenger Attendants,0.1169,53-6061.00,"Transportation Attendants, Except Flight Attendants",Transportation and Material Moving,False,False,2.0,26760.0,3600.0,75.0,,53-0000
+53-7011,Conveyor Operators and Tenders,0.0,53-7011.00,Conveyor Operators and Tenders,Transportation and Material Moving,False,False,1.0,32980.0,2700.0,93.0,,53-0000
+53-7021,Crane and Tower Operators,0.0,53-7021.00,Crane and Tower Operators,Transportation and Material Moving,False,False,3.0,54140.0,5800.0,90.0,,53-0000
+53-7031,Dredge Operators,0.0,53-7031.00,Dredge Operators,Transportation and Material Moving,False,False,2.0,45260.0,200.0,92.0,,53-0000
+53-7041,Hoist and Winch Operators,0.0,53-7041.00,Hoist and Winch Operators,Transportation and Material Moving,False,False,2.0,45490.0,400.0,65.0,,53-0000
+53-7051,Industrial Truck and Tractor Operators,0.0,53-7051.00,Industrial Truck and Tractor Operators,Transportation and Material Moving,False,True,2.0,34750.0,73400.0,93.0,,53-0000
+53-7061,Cleaners of Vehicles and Equipment,0.0,53-7061.00,Cleaners of Vehicles and Equipment,Transportation and Material Moving,False,False,2.0,24530.0,63700.0,37.0,,53-0000
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",0.0,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",Transportation and Material Moving,True,True,2.0,28260.0,434700.0,85.0,,53-0000
+53-7063,Machine Feeders and Offbearers,0.0,53-7063.00,Machine Feeders and Offbearers,Transportation and Material Moving,False,False,2.0,29560.0,8800.0,93.0,,53-0000
+53-7064,"Packers and Packagers, Hand",0.0,53-7064.00,"Packers and Packagers, Hand",Transportation and Material Moving,False,False,2.0,24580.0,93000.0,38.0,,53-0000
+53-7065,Stockers and Order Fillers,0.0,,,,,,,,,,,53-0000
+53-7071,Gas Compressor and Gas Pumping Station Operators,0.0,53-7071.00,Gas Compressor and Gas Pumping Station Operators,Transportation and Material Moving,False,False,2.0,65210.0,400.0,91.0,,53-0000
+53-7072,"Pump Operators, Except Wellhead Pumpers",0.0,53-7072.00,"Pump Operators, Except Wellhead Pumpers",Transportation and Material Moving,True,False,2.0,44380.0,1600.0,90.0,,53-0000
+53-7073,Wellhead Pumpers,0.0,53-7073.00,Wellhead Pumpers,Transportation and Material Moving,False,False,2.0,53490.0,1700.0,84.0,,53-0000
+53-7081,Refuse and Recyclable Material Collectors,0.0,53-7081.00,Refuse and Recyclable Material Collectors,Transportation and Material Moving,True,True,2.0,37260.0,20200.0,93.0,,53-0000
+53-7121,"Tank Car, Truck, and Ship Loaders",0.0,53-7121.00,"Tank Car, Truck, and Ship Loaders",Transportation and Material Moving,False,False,2.0,38220.0,1200.0,72.0,,53-0000

@@ -1,0 +1,143 @@
+occ_code,title,observed_exposure,indonesia_share,global_median,n_countries,RCA,soc_major,soc_label,quadrant
+11-1011,Chief Executives,0.0333,0.21521388430924138,0.2958579881656805,27.0,0.7274229289652359,11,Management,LL
+11-2011,Advertising and Promotions Managers,0.1731,0.0,0.26567879060020944,17.0,0.0,11,Management,HL
+11-2021,Marketing Managers,0.3195,0.0,0.11600059871276756,9.0,0.0,11,Management,HL
+11-3021,Computer and Information Systems Managers,0.1559,0.0,0.21079467021747733,16.0,0.0,11,Management,LL
+11-3031,Financial Managers,0.3907,0.0,0.07240432646688826,6.0,0.0,11,Management,HL
+11-9032,"Education Administrators, Kindergarten through Secondary",0.0525,0.11478073829826202,0.11478073829826202,9.0,1.0,11,Management,LH
+11-9041,Architectural and Engineering Managers,0.0306,0.0,0.05710371320844977,5.0,0.0,11,Management,LL
+11-9111,Medical and Health Services Managers,0.0659,0.4089063801875588,0.11788214831759332,14.0,3.4687727193934386,11,Management,LH
+11-9121,Natural Sciences Managers,0.0613,0.0,0.13278441377710778,9.0,0.0,11,Management,LL
+11-9199,"Managers, All Other",0.0686,0.0,0.25036778406460564,14.0,0.0,11,Management,LL
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",0.118,0.0,0.3942943291197961,17.0,0.0,13,Business & Financial,LL
+13-1111,Management Analysts,0.2435,0.0,0.13471037269869773,11.0,0.0,13,Business & Financial,HL
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",0.0649,0.0,0.1611967992577989,13.0,0.0,13,Business & Financial,LL
+13-1161,Market Research Analysts and Marketing Specialists,0.6483,0.0,0.20514011456881853,11.0,0.0,13,Business & Financial,HL
+13-1199,"Business Operations Specialists, All Other",0.1846,0.0,0.27338174008459354,14.0,0.0,13,Business & Financial,HL
+13-2051,Financial and Investment Analysts,0.5716,0.0,0.14273253508841477,9.0,0.0,13,Business & Financial,HL
+13-2052,Personal Financial Advisors,0.3504,0.27977804960201375,0.3340186576984383,18.0,0.8376120409854633,13,Business & Financial,HL
+13-2061,Financial Examiners,0.0428,0.0,0.08458792400947532,6.0,0.0,13,Business & Financial,LL
+13-2071,Credit Counselors,0.2341,0.1219545344419034,0.45558211921480096,22.0,0.2676894665051669,13,Business & Financial,HL
+13-2072,Loan Officers,0.1857,0.0,0.1191348008771051,12.0,0.0,13,Business & Financial,HL
+13-2082,Tax Preparers,0.1283,0.0,0.19848070987778668,16.0,0.0,13,Business & Financial,LL
+13-2099,"Financial Specialists, All Other",0.2202,0.0,0.11578136432864437,10.0,0.0,13,Business & Financial,HL
+15-2011,Actuaries,0.0539,0.1291283305855448,0.464537536291995,31.0,0.2779717902158469,15,Computer & Mathematical,LL
+15-2021,Mathematicians,0.4241,0.1865186997346759,0.2071743895893146,14.0,0.9002980537527595,15,Computer & Mathematical,HL
+15-2031,Operations Research Analysts,0.4288,0.0,0.39129371484470515,17.0,0.0,15,Computer & Mathematical,HL
+15-2041,Statisticians,0.2107,0.0,0.44968616119819466,18.0,0.0,15,Computer & Mathematical,HL
+17-2031,Bioengineers and Biomedical Engineers,0.1328,0.0,0.0467212198978226,5.0,0.0,17,Architecture & Engineering,LL
+17-2061,Computer Hardware Engineers,0.1453,0.0,0.19833918783822374,18.0,0.0,17,Architecture & Engineering,LL
+17-2141,Mechanical Engineers,0.0813,0.0,0.06506183098529508,6.0,0.0,17,Architecture & Engineering,LL
+17-2199,"Engineers, All Other",0.0659,0.0,0.255822213524814,18.0,0.0,17,Architecture & Engineering,LL
+17-3022,Civil Engineering Technologists and Technicians,0.0776,0.15782351516011037,0.18943614887452634,15.0,0.8331224853216652,17,Architecture & Engineering,LL
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,0.0202,0.0,0.10144542450693964,11.0,0.0,17,Architecture & Engineering,LL
+19-1013,Soil and Plant Scientists,0.0513,0.0,0.10103277952402337,9.0,0.0,19,"Life, Physical & Social Science",LL
+19-1021,Biochemists and Biophysicists,0.0756,0.15782351516011037,0.15782351516011037,13.0,1.0,19,"Life, Physical & Social Science",LH
+19-1022,Microbiologists,0.0969,0.0,0.1069623505181605,10.0,0.0,19,"Life, Physical & Social Science",LL
+19-1023,Zoologists and Wildlife Biologists,0.0606,0.11478073829826202,0.29312344638271615,23.0,0.3915781549197492,19,"Life, Physical & Social Science",LL
+19-1029,"Biological Scientists, All Other",0.2452,0.8178127603751174,1.1005135730007338,67.0,0.7431191949275232,19,"Life, Physical & Social Science",HL
+19-2021,Atmospheric and Space Scientists,0.038,0.0,0.1058789263638231,6.0,0.0,19,"Life, Physical & Social Science",LL
+19-2031,Chemists,0.2614,0.4734705454803312,0.4734705454803312,37.0,1.0,19,"Life, Physical & Social Science",HH
+19-2032,Materials Scientists,0.1843,0.0,0.13802681081603968,12.0,0.0,19,"Life, Physical & Social Science",HL
+19-2042,"Geoscientists, Except Hydrologists and Geographers",0.043,0.1219545344419034,0.07690251165452652,10.0,1.5858329177825377,19,"Life, Physical & Social Science",LH
+19-2043,Hydrologists,0.0748,0.0,0.050568471524851694,6.0,0.0,19,"Life, Physical & Social Science",LL
+19-2099,"Physical Scientists, All Other",0.0379,0.0,0.02934182892133787,5.0,0.0,19,"Life, Physical & Social Science",LL
+19-3011,Economists,0.2418,0.0,0.2538417820337219,17.0,0.0,19,"Life, Physical & Social Science",HL
+19-3022,Survey Researchers,0.4316,0.11478073829826202,0.39603160307058505,28.0,0.28982721936411865,19,"Life, Physical & Social Science",HL
+19-3032,Industrial-Organizational Psychologists,0.1577,0.0,0.33693768733778484,18.0,0.0,19,"Life, Physical & Social Science",LL
+19-3091,Anthropologists and Archeologists,0.1354,0.3012994380329379,0.4209451130485844,30.0,0.7157689415868399,19,"Life, Physical & Social Science",LL
+19-3093,Historians,0.028,0.7030320220768556,0.7030320220768556,43.0,1.0,19,"Life, Physical & Social Science",LH
+19-3094,Political Scientists,0.452,0.37303739946935166,0.1613422971757449,12.0,2.31208682409557,19,"Life, Physical & Social Science",HH
+19-4021,Biological Technicians,0.0599,0.17934490359103453,0.19036073573501713,18.0,0.9421318051674443,19,"Life, Physical & Social Science",LL
+19-4031,Chemical Technicians,0.3148,0.0,0.16568183879565612,12.0,0.0,19,"Life, Physical & Social Science",HL
+19-4061,Social Science Research Assistants,0.4393,1.3056308981427314,1.157028905542465,54.0,1.1284341228541697,19,"Life, Physical & Social Science",HH
+19-4099,"Life, Physical, and Social Science Technicians, All Other",0.0955,0.0,0.09507344811390567,6.0,0.0,19,"Life, Physical & Social Science",LL
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",0.1182,0.8608555372369658,1.4765596160945,67.0,0.583014412593735,21,Community & Social Service,LL
+21-2011,Clergy,0.1116,0.7604223912259864,0.30013233120124905,24.0,2.5336237125219845,21,Community & Social Service,LH
+21-2021,"Directors, Religious Activities and Education",0.153,0.0,0.11058379025941106,9.0,0.0,21,Community & Social Service,LL
+23-1011,Lawyers,0.1673,0.0,0.2492782766340662,18.0,0.0,23,Legal,HL
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.3048,0.0,0.22397804297093105,19.0,0.0,23,Legal,HL
+25-1011,"Business Teachers, Postsecondary",0.3072,1.1980239559881105,1.1219753866055373,48.0,1.0677809605187982,25,Educational Instruction,HH
+25-1021,"Computer Science Teachers, Postsecondary",0.2414,0.22956147659652412,0.12918672416876203,12.0,1.7769742059303117,25,Educational Instruction,HH
+25-1022,"Mathematical Science Teachers, Postsecondary",0.4305,0.0,0.13907959707459203,12.0,0.0,25,Educational Instruction,HL
+25-1032,"Engineering Teachers, Postsecondary",0.3589,0.0,0.13289695524262302,10.0,0.0,25,Educational Instruction,HL
+25-1042,"Biological Science Teachers, Postsecondary",0.2914,5.330130534725547,2.403983883059378,85.0,2.217207266773466,25,Educational Instruction,HH
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0.0396,0.0,0.05359816264336631,6.0,0.0,25,Educational Instruction,LL
+25-1053,"Environmental Science Teachers, Postsecondary",0.0232,0.0,0.06911486891213188,7.0,0.0,25,Educational Instruction,LL
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",0.0236,0.10760694215462062,0.24353896695043037,20.0,0.4418469187993345,25,Educational Instruction,LL
+25-1066,"Psychology Teachers, Postsecondary",0.3219,0.23673527274016554,0.23193784065870354,25.0,1.0206841284192234,25,Educational Instruction,HH
+25-1081,"Education Teachers, Postsecondary",0.2621,0.0,0.04525412845175578,5.0,0.0,25,Educational Instruction,HL
+25-1123,"English Language and Literature Teachers, Postsecondary",0.3618,0.36586360332571044,0.3580228029069228,26.0,1.0219002822030474,25,Educational Instruction,HH
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",0.2403,0.9038983140988143,1.255240331317388,64.0,0.7200998020436161,25,Educational Instruction,HL
+25-1125,"History Teachers, Postsecondary",0.0994,0.2080400881656,0.4494670414475316,34.0,0.46285949576101565,25,Educational Instruction,LL
+25-1126,"Philosophy and Religion Teachers, Postsecondary",0.2197,0.5236871184858208,0.15268814354136004,20.0,3.4297824725595993,25,Educational Instruction,HH
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",0.1138,0.3443422148947863,0.24432106848049218,24.0,1.4093840414023906,25,Educational Instruction,LH
+25-1194,"Career/Technical Education Teachers, Postsecondary",0.1563,0.8823769256678898,0.6581555784632463,43.0,1.3406813746503323,25,Educational Instruction,LH
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",0.2972,3.020168176473022,1.2750455373406193,71.0,2.368674755548127,25,Educational Instruction,HH
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.0636,1.3271522865736558,0.9445698751324698,49.0,1.4050334670979543,25,Educational Instruction,LH
+25-3021,Self-Enrichment Teachers,0.0662,0.5021657300548967,0.6410623688158341,49.0,0.7833336575074493,25,Educational Instruction,LL
+25-4011,Archivists,0.1348,0.43760156476212436,0.46801872074883,35.0,0.9350086767084056,25,Educational Instruction,LL
+25-4012,Curators,0.4123,0.0,0.16833222179635374,12.0,0.0,25,Educational Instruction,HL
+25-4031,Library Technicians,0.054,0.11478073829826202,0.13006782232352182,10.0,0.8824683634109307,25,Educational Instruction,LL
+25-9031,Instructional Coordinators,0.3043,8.127911030745686,2.4136255956796715,72.0,3.3675111190792975,25,Educational Instruction,HH
+27-1011,Art Directors,0.2098,0.0,0.10085781147489173,10.0,0.0,27,"Arts, Design, Entertainment",HL
+27-1012,Craft Artists,0.0539,0.15064971901646895,0.15184964215982785,14.0,0.9920979521170294,27,"Arts, Design, Entertainment",LL
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.3565,0.22956147659652412,0.31471282454760036,21.0,0.7294315918854553,27,"Arts, Design, Entertainment",HL
+27-1014,Special Effects Artists and Animators,0.3571,0.6456416529277242,1.0367230336819795,61.0,0.6227715908217955,27,"Arts, Design, Entertainment",HL
+27-1024,Graphic Designers,0.3672,0.11478073829826202,0.08908548073047787,8.0,1.2884337308065208,27,"Arts, Design, Entertainment",HH
+27-2011,Actors,0.1011,0.7173796143641383,0.6762589928057554,43.0,1.0608060254959066,27,"Arts, Design, Entertainment",LH
+27-2012,Producers and Directors,0.092,0.0,0.14572631792669632,11.0,0.0,27,"Arts, Design, Entertainment",LL
+27-2041,Music Directors and Composers,0.0368,0.0,0.06254829095993224,7.0,0.0,27,"Arts, Design, Entertainment",LL
+27-3031,Public Relations Specialists,0.453,0.0,0.4091367076184611,23.0,0.0,27,"Arts, Design, Entertainment",HL
+27-3041,Editors,0.246,0.8967245179551726,2.3545413258545858,78.0,0.3808489186868294,27,"Arts, Design, Entertainment",HL
+27-3042,Technical Writers,0.4747,5.437442015753987,2.3732470334412077,79.0,2.2911403402745214,27,"Arts, Design, Entertainment",HH
+27-3043,Writers and Authors,0.2462,1.4347592287282762,2.5178504321683577,73.0,0.5698349712904393,27,"Arts, Design, Entertainment",HL
+27-3091,Interpreters and Translators,0.4304,0.35868980718206905,1.1825136268910077,46.0,0.30332826533687757,27,"Arts, Design, Entertainment",HL
+27-4032,Film and Video Editors,0.2234,0.0,0.05973777984543188,6.0,0.0,27,"Arts, Design, Entertainment",HL
+29-1031,Dietitians and Nutritionists,0.1328,0.27977804960201375,0.309251690225963,24.0,0.9046936797583432,29,Healthcare Practitioners,LL
+29-1051,Pharmacists,0.0896,0.10760694215462062,0.22742514137654884,22.0,0.473153238482351,29,Healthcare Practitioners,LL
+29-1141,Registered Nurses,0.0595,0.0,0.17681060863651804,13.0,0.0,29,Healthcare Practitioners,LL
+29-1171,Nurse Practitioners,0.0944,0.0,0.14187642930281374,12.0,0.0,29,Healthcare Practitioners,LL
+29-2051,Dietetic Technicians,0.2446,0.0,0.09277513626348138,9.0,0.0,29,Healthcare Practitioners,HL
+31-9094,Medical Transcriptionists,0.6365,0.0,0.0626232169778498,5.0,0.0,31,Healthcare Support,HL
+31-9095,Pharmacy Aides,0.022,0.0,0.0562008877031779,5.0,0.0,31,Healthcare Support,LL
+33-3021,Detectives and Criminal Investigators,0.0374,0.0,0.08648102614252132,6.0,0.0,33,Protective Service,LL
+33-3051,Police and Sheriff's Patrol Officers,0.1234,0.0,0.06031387090079881,6.0,0.0,33,Protective Service,LL
+35-2014,"Cooks, Restaurant",0.0116,0.0,0.09858361460948487,8.0,0.0,35,Food Preparation,LL
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.0734,0.1291283305855448,0.20460840292705532,19.0,0.6310998411515883,35,Food Preparation,LL
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,0.0436,0.0,0.11560693641618494,7.0,0.0,37,Building & Grounds Cleaning,LL
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.1083,0.0,0.0748390959437209,5.0,0.0,37,Building & Grounds Cleaning,LL
+39-6012,Concierges,0.1875,0.0,0.15666036953416573,13.0,0.0,39,Personal Care & Service,HL
+41-1011,First-Line Supervisors of Retail Sales Workers,0.2627,0.0,0.0774415760985116,6.0,0.0,41,Sales,HL
+41-2011,Cashiers,0.0846,0.40173258404391743,1.0484573727002082,59.0,0.3831653956605704,41,Sales,LL
+41-2021,Counter and Rental Clerks,0.2048,0.0,0.24238497572513418,18.0,0.0,41,Sales,HL
+41-2031,Retail Salespersons,0.3222,0.0,0.2733812949640288,23.0,0.0,41,Sales,HL
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",0.4413,0.0,0.2592660526607867,10.0,0.0,41,Sales,HL
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.2706,0.2080400881656,0.557936282456314,40.0,0.37287427741695467,41,Sales,HL
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.6279,0.0,0.2683037253387882,24.0,0.0,41,Sales,HL
+41-9022,Real Estate Sales Agents,0.2828,0.0,0.21409880263262232,17.0,0.0,41,Sales,HL
+41-9031,Sales Engineers,0.3224,0.0,0.07572448925468347,5.0,0.0,41,Sales,HL
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,0.1856,0.0,0.2625783696822064,20.0,0.0,43,Office & Admin Support,HL
+43-2011,"Switchboard Operators, Including Answering Service",0.3863,0.0,0.06622760219286947,7.0,0.0,43,Office & Admin Support,HL
+43-4021,Correspondence Clerks,0.2786,0.17217110744739314,0.4757751169613829,27.0,0.3618749726698458,43,Office & Admin Support,HL
+43-4061,"Eligibility Interviewers, Government Programs",0.0597,0.0,0.08527227531133554,5.0,0.0,43,Office & Admin Support,LL
+43-4111,"Interviewers, Except Eligibility and Loan",0.3851,0.0,0.06990691342580667,5.0,0.0,43,Office & Admin Support,HL
+43-4121,"Library Assistants, Clerical",0.0978,0.13630212672918618,0.059699336536106755,7.0,2.283143073905843,43,Office & Admin Support,LH
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",0.4046,0.0,0.06911486891213188,5.0,0.0,43,Office & Admin Support,HL
+43-4171,Receptionists and Information Clerks,0.4338,0.0,0.10126082693221101,11.0,0.0,43,Office & Admin Support,HL
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,0.2467,0.0,0.4468441630981194,23.0,0.0,43,Office & Admin Support,HL
+43-5021,Couriers and Messengers,0.0412,0.0,0.0883333764267866,8.0,0.0,43,Office & Admin Support,LL
+43-6011,Executive Secretaries and Executive Administrative Assistants,0.2336,0.0,0.23739231154085566,11.0,0.0,43,Office & Admin Support,HL
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.4528,0.5954250799222347,1.274854456602351,60.0,0.4670533776138793,43,Office & Admin Support,HL
+43-9022,Word Processors and Typists,0.2385,0.4160801763312001,0.6585840443047448,49.0,0.6317799222883518,43,Office & Admin Support,HL
+43-9031,Desktop Publishers,0.464,0.0,0.14967819188744194,11.0,0.0,43,Office & Admin Support,HL
+43-9041,Insurance Claims and Policy Processing Clerks,0.1467,0.0,0.0898069151324652,9.0,0.0,43,Office & Admin Support,LL
+43-9061,"Office Clerks, General",0.4504,0.6241202644968002,1.7003672795819056,80.0,0.36705026731063767,43,Office & Admin Support,HL
+43-9111,Statistical Assistants,0.5099,1.657146909181159,4.899584478629745,96.0,0.33822192808574847,43,Office & Admin Support,HL
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0203,0.28695184574565524,0.7311129163281885,45.0,0.39248635790322395,45,"Farming, Fishing, Forestry",LL
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",0.1067,0.15064971901646895,0.34840315221899604,27.0,0.43240056255798437,49,"Installation, Maintenance, Repair",LL
+51-6052,"Tailors, Dressmakers, and Custom Sewers",0.0342,0.1219545344419034,0.09128596925805979,10.0,1.3359614345239132,51,Production,LH
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,0.0211,0.0,0.07769917662066571,5.0,0.0,51,Production,LL
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",0.0152,0.0,0.05653743731184627,7.0,0.0,51,Production,LL
+51-7032,"Patternmakers, Wood",0.0301,0.20086629202195871,0.23982827431313147,25.0,0.8375421646894641,51,Production,LL
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.0324,0.1865186997346759,0.11943927120457098,10.0,1.5616195398179704,51,Production,LH

@@ -1,0 +1,20 @@
+
+INDONESIA AI USAGE — KEY FINDINGS (AEI Sept 2025)
+==================================================
+
+AUI (volume gap):
+  Indonesia:      0.368
+  Global median:  0.751
+  Indonesia is at 49% of the global median adoption rate.
+
+Task coverage:
+  Indonesia uses Claude for 170 unique O*NET tasks
+  These map to 95 US occupations
+  13 occupations are in the high-exposure + high-usage quadrant
+
+Files exported to outputs/:
+  - country_aui.csv
+  - indonesia_task_gap.csv
+  - indonesia_occupation_usage.csv
+  - indonesia_aui_position.png
+  - indonesia_exposure_usage_scatter.png
