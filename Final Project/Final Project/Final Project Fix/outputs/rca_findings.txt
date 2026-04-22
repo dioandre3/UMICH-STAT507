@@ -1,0 +1,37 @@
+
+INDONESIA'S REVEALED COMPARATIVE ADVANTAGE IN AI ADOPTION
+==========================================================
+
+CONTEXT
+  Indonesia AUI:              0.368
+  Global median AUI:          0.757
+  Rank by usage:              #11 of 165
+  Rank by AUI:                #113 of 165
+
+SOC MAJOR GROUP RCA (top 3)
+  Educational Instruction             RCA =  2.47  (31.59% ID vs 12.79% median)
+  Life, Physical & Social Science     RCA =  1.46  ( 5.73% ID vs  3.92% median)
+  Production                          RCA =  1.10  ( 1.61% ID vs  1.47% median)
+
+SOC MAJOR GROUP RCA (bottom 3, with Indonesian presence)
+  Computer & Mathematical             RCA =  0.62  (41.14% ID vs 66.86% median)
+  Office & Admin Support              RCA =  0.44  ( 4.21% ID vs  9.58% median)
+  Sales                               RCA =  0.32  ( 0.61% ID vs  1.89% median)
+
+REQUEST CLUSTER — MOST DISTINCTIVELY INDONESIAN
+  Translate religious and spiritual texts between languages
+  RCA = 25.8x global
+
+HEADLINE — OCCUPATION-LEVEL RCA vs. US OBSERVED EXPOSURE
+  Spearman rho:    -0.001   (p = 0.9879)
+  Sample size:     n = 142 occupations
+  HH quadrant:     13 occupations (high US exposure + Indonesia over-specialized)
+  HL quadrant:     58 occupations (high US exposure, under-specialized)
+
+FILES
+  outputs/soc_rca.csv
+  outputs/request_rca.csv
+  outputs/occupation_rca_vs_exposure.csv
+  outputs/soc_rca.png
+  outputs/request_rca.png
+  outputs/rca_vs_exposure.png
